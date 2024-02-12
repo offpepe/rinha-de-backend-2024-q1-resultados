@@ -181,13 +181,13 @@ backupResults () {
     destDir=$HOME/projects/rinha-de-backend-2024-q1-resultados
     
     rsync -au --delete ./resultados/ $destDir/resultados
+    rsync ./README.md $destDir/README.md
     rsync ./RESULTADOS.md $destDir/RESULTADOS.md
     rsync ./RESULTADOS-HEADER.md $destDir/RESULTADOS-HEADER.md
     rsync ./executar-testes-final.sh $destDir/executar-testes-final.sh
     rsync ./executar-testes-final-polling.sh $destDir/executar-testes-final-polling.sh
     
     pushd $destDir
-        mv -f RESULTADOS.md README.md
         echo " " >> README.md
         echo "https://github.com/zanfranceschi/rinha-de-backend-2024-q1" >> README.md
         git add .

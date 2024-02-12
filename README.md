@@ -1,124 +1,386 @@
-# Resultados da Rinha de Backend - Segunda Edição
+# Rinha de Backend - 2024/Q1
 
-## Contrato
+A Rinha de Backend é um desafio que tem como principal objetivo compartilhar conhecimento em formato de desafio! Esta é a segunda edição. A data limite para enviar sua submissão é `2024-03-10T23:59:59-03:00` e em `2024-03-14T19:00:00-03:00` os resultados serão anunciados [numa live](https://www.youtube.com/watch?v=2OonGBGcl5k) no YouTube.
 
-Os resultados/ranking dos participantes são baseados em um SLA (fictício, claro kkk) que funciona da seguinte maneira:
+O principal assunto dessa Rinha trata de controle de concorrência com o tema créditos e débitos (crébitos) e foi inspirado pelos colegas [@lucascs](https://twitter.com/lucascs) e [@kmyokoyama](https://twitter.com/kmyokoyama), [nesse](https://twitter.com/lucascs/status/1744014270331769000) e [nesse](https://twitter.com/kmyokoyama/status/1744018208082760133) comentário [dessa](https://twitter.com/zanfranceschi/status/1743876243815059738) tweet.
 
-### 98% das Respostas Abaixo de 250ms
-
-A API precisa responder às requisições abaixo de 250ms em 98% ou mais das requisições durante o teste. Por exemplo, se no teste houvesse 1000 requisições, em 980 delas a API deve responder abaixo de 250ms com um status code 200 ou 422 (para o caso de saldo insuficiente).
-
-Se a API tiver uma porcentagem menor de sucesso do que o estabelecido, uma multa será cobrada. A fórmula da multa é a seguinte: (98 - [porcentagem de sucesso]) * 1000. Por exemplo, uma API que conseguiu responder apenas 95% das requisições abaixo do tempo de resposta estabelecido, irá gerar uma multa de USD 3000 `((98 - 95) * 1000)`.
+![arte](./misc/arte.jpg)
+Se quiser entender mais sobre o espírito das Rinhas, confira o [repositório da primeira edição](https://github.com/zanfranceschi/rinha-de-backend-2023-q3).
 
 
-### Consistência de Saldo
-Cada resposta do teste que detectar inconsistência no saldo do cliente (extrato e/ou limite ultrapassado), irá gerar uma multa de [quantidade de inconsistências] * USD 1053,02. Por exemplo, se durante o teste forem detectadas 10 respostas contendo inconsistência no saldo, uma multa de USD 10530,2 `(10 * 1053,02)` será gerada.
+Ah! E antes de continuar, é importante dizer que a [Cubos Academy](https://cubos.academy/) disponibilizou o cupom `RINHADEV` que te dá 20% de desconto **PARA QUALQUER CURSO**! Vai lá no site deles e dá uma olhada – têm muitos cursos bem legais!
+
+## O Que Precisa Ser Feito?
+
+Para participar você precisa desenvolver uma API HTTP com os seguintes endpoints:
+
+### Transações
+**Requisição**
+
+`POST /clientes/[id]/transacoes`
+```json
+{
+    "valor": 1000,
+    "tipo" : "c",
+    "descricao" : "descricao"
+}
+```
+Onde
+- `[id]` (na URL) deve ser um número inteiro representando a identificação do cliente.
+- `valor` deve um número inteiro positivo que representa centavos (não vamos trabalhar com frações de centavos). Por exemplo, R$ 10 são 1000 centavos.
+- `tipo` deve ser apenas `c` para crédito ou `d` para débito.
+- `descricao` deve ser uma string de 1 a 10 caractéres.
+
+Todos os campos são obrigatórios.
+
+**Resposta**
+
+`HTTP 200 OK`
+```json
+{
+    "limite" : 100000,
+    "saldo" : -9098
+}
+```
+Onde
+- `limite` deve ser o limite cadastrado do cliente.
+- `saldo` deve ser o novo saldo após a conclusão da transação.
+
+*Obrigatoriamente, o http status code de requisições para transações bem sucedidas deve ser 200!*
+
+**Regras**
+Uma transação de débito **nunca** pode deixar o saldo do cliente menor que seu limite disponível. Por exemplo, um cliente com limite de 1000 (R\$ 10) nunca deverá ter o saldo menor que -1000 (R\$ -10). Nesse caso, um saldo de -1001 ou menor significa inconsistência na Rinha de Backend!
+
+Se uma requisição para débito for deixar o saldo inconsistente, a API deve retornar HTTP Status Code 422 sem completar a transação! O corpo da resposta nesse caso não será testado e você pode escolher como o representar.
+
+Se o atributo `[id]` da URL for de uma identificação não existente de cliente, a API deve retornar HTTP Status Code 404. O corpo da resposta nesse caso não será testado e você pode escolher como o representar. Se a API retornar algo como HTTP 200 informando que o cliente não foi encontrado no corpo da resposta ou HTTP 204 sem corpo, ficarei extremamente deprimido e a Rinha será cancelada para sempre.
+
+## Extrato
+**Requisição**
+
+`GET /clientes/[id]/extrato`
+
+Onde
+- `[id]` (na URL) deve ser um número inteiro representando a identificação do cliente.
+
+**Resposta**
+
+`HTTP 200 OK`
+```json
+{
+  "saldo": {
+    "total": -9098,
+    "data_extrato": "2024-01-17T02:34:41.217753Z",
+    "limite": 100000
+  },
+  "ultimas_transacoes": [
+    {
+      "valor": 10,
+      "tipo": "c",
+      "descricao": "descricao",
+      "realizada_em": "2024-01-17T02:34:38.543030Z"
+    },
+    {
+      "valor": 90000,
+      "tipo": "d",
+      "descricao": "descricao",
+      "realizada_em": "2024-01-17T02:34:38.543030Z"
+    }
+  ]
+}
+```
+Onde
+- `saldo`
+    - `total` deve ser o saldo total atual do cliente (não apenas das últimas transações seguintes exibidas).
+    - `data_extrato` deve ser a data/hora da consulta do extrato.
+    - `limite` deve ser o limite cadastrado do cliente.
+- `ultimas_transacoes` é uma lista ordenada por data/hora das transações de forma decrescente contendo até as 10 últimas transações com o seguinte:
+    - `valor` deve ser o valor da transação.
+    - `tipo` deve ser `c` para crédito e `d` para débito.
+    - `descricao` deve ser a descrição informada durante a transação.
+    - `realizada_em` deve ser a data/hora da realização da transação.
+
+**Regras**
+Se o atributo `[id]` da URL for de uma identificação não existente de cliente, a API deve retornar HTTP Status Code 404. O corpo da resposta nesse caso não será testado e você pode escolher como o representar. Já sabe o que acontece se sua API retornar algo na faixa 2XX, né? Agradecido.
 
 
-### Valor a Ser Pago Pelo Fornecimento da API
-A Rinha de Backend® Inc. pagará um valor de USD 100.000 para cada fornecedor de API, descontando as multas para possíveis compensações de SLA mencionadas anteriomente.
+## Cadastro Inicial de Clientes
+Para haver ênfase em concorrência durante o teste, poucos clientes devem ser cadastrados e testados. Por isso, apenas cinco clientes, com os seguintes IDs, limites e saldos iniciais, devem ser previamente cadastrados para o teste – isso é imprescindível!
 
-## Resultados
+| id | limite | saldo inicial
+| - | - | -
+| 1 | 100000 | 0
+| 2 | 80000 | 0
+| 3 | 1000000 | 0
+| 4 | 10000000 | 0
+| 5 | 500000 | 0
 
-Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segunda edição da Rinha de Backend.
+Obs.: Não cadastre um cliente com o ID 6 especificamente, pois parte do teste é verificar se o cliente com o ID 6 realmente não existe e a API retorna HTTP 404!
+
+
+## Como Fazer e Entregar?
+Assim como na Rinha de Backend anterior, você precisará conteinerizar sua API e outros componentes usados no formato de *docker-compose*, obedecer às [restrições de recursos de CPU e memória](#restricoes), [configuração mínima arquitetural](#arquitetura), e estrutura de artefatos e processo de entrega (o que, onde e quando suas coisas precisam ser entregues).
+
+Você pode fazer a submissão de forma individual, dupla de 2, dupla de 3 ou até dupla de 50 pessoas. Não tem limite. E você e/ou seu grupo pode fazer mais de uma submissão desde que a API seja diferente. 
+
+### Artefato, Processo e Data Limite de Entrega
+Para participar, basta fazer um pull request neste repositório incluindo um subdiretório em [participantes](./participantes) com os seguintes arquivos:
+- `docker-compose.yml` - arquivo interpretável por `docker-compose` contendo a declaração dos serviços que compõe sua API respeitando as [restrições de CPU/memória](#restricoes) e [arquitetura mínima](#arquitetura).
+- `README.md` - incluindo pelo menos seu nome, tecnologias que usou, o link para o repositório do código fonte da sua API, e alguma forma de entrar em contato caso vença. Fique à vontade para incluir informações adicionais como link para site, etc.
+- Inclua aqui também quaisquer outros diretórios/arquivos necessários para que seus contêineres subam corretamente como, por exemplo, `nginx.conf`, `banco.sql`, etc.
+
+[Aqui](./participantes/exemplo) tem um exemplo de submissão para te ajudar, caso queira.
+
+**Importante!** É fundamental que todos os serviços declarados no `docker-compose.yml` estejam publicamente disponíveis! Caso contrário, não será possível executar os testes. Para isso, você pode criar uma conta em hub.docker.com para disponibilizar suas imagens. Essa imagens geralmente terão o formato \<user\>/\<imagem\>:\<tag\> – por exemplo, `zanfranceschi/rinha-api:latest`.
+
+Um erro comum na edição anterior da Rinha foi a declaração de imagens como se estivessem presentes localmente. Isso pode ser verdade para quem as construiu (realizou o build localmente), mas não será verdadeiro para o servidor que executará os testes!
+
+
+**Importante!** É obrigatório deixar o repositório contendo o código fonte da sua API publicamente acessível e informado no arquivo `README.md` entregue na submissão. Afinal, a Rinha de Backend tem como principal objetivo compartilhar conhecimento!
+
+Um exemplo de submissão/pull request da Ana, poderia ter os seguintes arquivos:
+```
+├─ participantes/
+|  ├─ ana-01/
+|  |  ├─ docker-compose.yml
+|  |  ├─ nginx.config
+|  |  ├─ sql/
+|  |  |  ├─ ddl.sql
+|  |  |  ├─ dml.sql
+|  |  ├─ README.md
+```
+
+A data/hora limite para fazer pull requests para sua submissão é até `2024-03-10T23:59:59-03:00`. Após esse dia/hora, qualquer pull request será automaticamente rejeitado.
+
+Note que você poderá fazer quantos pull requests desejar até essa data/hora limite!
+
+### <a name="arquitetura">Arquitetura Mínima da API</a>
+Por "API" aqui, me refiro a todos os serviços envolvidos para que o serviço que atenderá às requisições HTTP funcione, tais como o load balancer, banco de dados e servidor HTTP.
+
+A sua API precisa ter, no mínimo, os seguintes serviços:
+- Um **load balancer** que faça a distribuição de tráfego usando o algoritmo round robin. Diferentemente da edição anterior, você não precisa usar o Nginx – pode escolher (ou até fazer) qualquer um como p.ex. o HAProxy. **O load balancer será o serviço que receberá as requisições do teste e ele precisa aceitar requisições na porta 9999**!
+- **2 instâncias de servidores web** que atenderão às requisições HTTP (distribuídas pelo load balancer).
+- Um banco de dados relacional ou não relacional (exceto bancos de dados que têm como principal característica o armazenamento de dados em memória, tal como Redis, por exemplo).
+
+```mermaid
+flowchart TD
+    G(Stress Test - Gatling) -.-> LB(Load Balancer / porta 9999)
+    subgraph Sua Aplicação
+        LB -.-> API1(API - instância 01)
+        LB -.-> API2(API - instância 02)
+        API1 -.-> Db[(Database)]
+        API2 -.-> Db[(Database)]
+    end
+```
+
+**Nota**: Você pode usar componentes adicionais se quiser. Mas lembre-se de que as restrições de CPU e memória devem obedecer a regra de que a soma dos limites (que devem ser declarados para todos os serviços) não poderá ultrapassar 1.5 unidades de CPU e 550MB de memória! Use o bom senso e boa fé, não adicione um banco relacional e um Redis, por exemplo, e use apenas o Redis como armazenamento – afinal, a Rinha é apenas uma brincadeira que fomenta o aprendizado e não a competição desleal.
+
+### <a name="restricoes">Restrições de CPU/Memória</a>
+Dentro do seu arquivo docker-compose.yml, você deverá limitar todos os serviços para que a soma deles não ultrapasse os seguintes limites:
+- `deploy.resources.limits.cpu` 1.5 – uma unidade e meia de CPU distribuída entre todos os seus serviços
+- `deploy.resources.limits.memory` 550MB – 550 mega bytes de memória distribuídos entre todos os seus serviços
+
+Obs.: Por favor, use `MB` para unidade de medida de memória; isso facilita as verificações de restrições.
+
+```yml
+# exemplo de parte de configuração de um serviço dentro do um arquivo docker-compose.yml
+...
+  nginx:
+    image: nginx:latest
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api01
+      - api02
+    ports:
+      - "9999:9999"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.17"
+          memory: "10MB"
+...
+```
+
+### <a name="examplo">Arquivos de exemplo para te ajudar</a>
+O seguinte são apenas arquivos de exemplo para que você não saia do zero, caso tenha alguma dificuldade ou apenas queira acelerar a construção da sua API. Obviamente, modifique como quiser respeitando todos as restrições anteriormente explicadas aqui. Novamente, você não precisa usar especificamente um banco de dados relacional – o exemplo seguinte é apenas ilustrativo.
+
+`docker-compose.yml`
+```yml
+version: "3.5"
+
+services:
+  api01: &api
+    # Lembre-se de que seu serviço HTTP deve estar hospedado num repositório
+    # publicamente acessível! Ex.: hub.docker.com
+    image: ana/minha-api-matadora:latest
+    hostname: api01
+    environment:
+      - DB_HOSTNAME=db
+    
+    # Não é necessário expor qualquer porta além da porta do load balancer,
+    # mas é comum as pessoas o fazerem para testarem suas APIs e conectarem
+    # ao banco de dados na fase de desenvolvimento.
+    ports:
+      - "8081:8080"
+    depends_on:
+      - db
+    deploy:
+      resources:
+        limits:
+          cpus: "0.6"
+          memory: "200MB"
+
+  api02:
+    # Essa sintaxe reusa o que foi declarado em 'api01'.
+    <<: *api 
+    hostname: api02
+    environment:
+      - DB_HOSTNAME=db
+    ports:
+      - "8082:8080"
  
- 
-| participante | multa SLA (> 249ms) | multa SLA (inconsistência saldo) | multa total | valor a receber | relatório |
-| --           | --                  | --                               | --          | --              | --        |
-| [agostinho](./participantes/agostinho) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/agostinho/rinhabackendcrebitossimulation-20240211204901877) |
-| [avalonbits](./participantes/avalonbits) | USD 78840.0 | USD 103581.06 | USD 182421.06 | **USD 0.0** | [link](resultados/avalonbits/rinhabackendcrebitossimulation-20240211205728839) |
-| [aysion_bun](./participantes/aysion_bun) | USD 1810.0 | USD 103581.06 | USD 105391.06 | **USD 0.0** | [link](resultados/aysion_bun/rinhabackendcrebitossimulation-20240211210211475) |
-| [aysion_nodejs](./participantes/aysion_nodejs) | USD 74920.0 | USD 34527.02 | USD 109447.01999999999 | **USD 0.0** | [link](resultados/aysion_nodejs/rinhabackendcrebitossimulation-20240211210705766) |
-| [bbonagura9](./participantes/bbonagura9) | USD 53960.0 | USD 0.0 | USD 53960.0 | **USD 46040.0** | [link](resultados/bbonagura9/rinhabackendcrebitossimulation-20240211211158764) |
-| [bcaua](./participantes/bcaua) | USD 33730.0 | USD 103581.06 | USD 137311.06 | **USD 0.0** | [link](resultados/bcaua/rinhabackendcrebitossimulation-20240212201441992) |
-| [bgskurono](./participantes/bgskurono) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bgskurono/rinhabackendcrebitossimulation-20240211212151470) |
-| [bine-php-road-runner](./participantes/bine-php-road-runner) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-php-road-runner/rinhabackendcrebitossimulation-20240212173206034) |
-| [bine-php-swoole](./participantes/bine-php-swoole) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-php-swoole/rinhabackendcrebitossimulation-20240212161832478) |
-| [bine-reactphp](./participantes/bine-reactphp) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-reactphp/rinhabackendcrebitossimulation-20240212162316790) |
-| [breno5g](./participantes/breno5g) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/breno5g/rinhabackendcrebitossimulation-20240212015129359) |
-| [buemura](./participantes/buemura) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/buemura/rinhabackendcrebitossimulation-20240212162754439) |
-| [bun-saulofelipe](./participantes/bun-saulofelipe) | USD 97880.0 | USD 34527.02 | USD 132407.02 | **USD 0.0** | [link](resultados/bun-saulofelipe/rinhabackendcrebitossimulation-20240211212625124) |
-| [cadu](./participantes/cadu) | USD 80850.0 | USD 0.0 | USD 80850.0 | **USD 19150.0** | [link](resultados/cadu/rinhabackendcrebitossimulation-20240211213204628) |
-| [carls-rodrigues](./participantes/carls-rodrigues) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/carls-rodrigues/rinhabackendcrebitossimulation-20240211213654027) |
-| [diego-coronel](./participantes/diego-coronel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/diego-coronel/rinhabackendcrebitossimulation-20240212201937311) |
-| [direisc](./participantes/direisc) | USD 59600.0 | USD 103581.06 | USD 163181.06 | **USD 0.0** | [link](resultados/direisc/rinhabackendcrebitossimulation-20240211214708087) |
-| [dscamargo](./participantes/dscamargo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dscamargo/rinhabackendcrebitossimulation-20240212202410384) |
-| [Edmar-Sousa](./participantes/Edmar-Sousa) | USD 74330.0 | USD 103581.06 | USD 177911.06 | **USD 0.0** | [link](resultados/Edmar-Sousa/rinhabackendcrebitossimulation-20240212015657434) |
-| [eigr](./participantes/eigr) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/eigr/rinhabackendcrebitossimulation-20240212163315470) |
-| [eu_fountai](./participantes/eu_fountai) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/eu_fountai/rinhabackendcrebitossimulation-20240211220451327) |
-| [exemplo](./participantes/exemplo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/exemplo/rinhabackendcrebitossimulation-20240211220954435) |
-| [fabiokleis](./participantes/fabiokleis) | USD 0.0 | USD 14259659.26 | USD 14259659.26 | **USD 0.0** | [link](resultados/fabiokleis/rinhabackendcrebitossimulation-20240212164244024) |
-| [felipemarkson](./participantes/felipemarkson) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipemarkson/rinhabackendcrebitossimulation-20240212203142618) |
-| [fielcapao](./participantes/fielcapao) | USD 74010.0 | USD 103581.06 | USD 177591.06 | **USD 0.0** | [link](resultados/fielcapao/rinhabackendcrebitossimulation-20240212020900801) |
-| [gasparbarancelli](./participantes/gasparbarancelli) | USD 350.0 | USD 0.0 | USD 350.0 | **USD 99650.0** | [link](resultados/gasparbarancelli/rinhabackendcrebitossimulation-20240211221913702) |
-| [gasparbarancelli-h2-database](./participantes/gasparbarancelli-h2-database) | USD 69200.0 | USD 0.0 | USD 69200.0 | **USD 30800.0** | [link](resultados/gasparbarancelli-h2-database/rinhabackendcrebitossimulation-20240211222353342) |
-| [geffersonFerraz-http2](./participantes/geffersonFerraz-http2) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/geffersonFerraz-http2/rinhabackendcrebitossimulation-20240211222854136) |
-| [geffersonFerraz-http3](./participantes/geffersonFerraz-http3) | USD 0.0 | USD 34527.02 | USD 34527.02 | **USD 65472.98** | [link](resultados/geffersonFerraz-http3/rinhabackendcrebitossimulation-20240211223328118) |
-| [geraldojrcg-elixir](./participantes/geraldojrcg-elixir) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/geraldojrcg-elixir/rinhabackendcrebitossimulation-20240212164820010) |
-| [giovannibassi](./participantes/giovannibassi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi/rinhabackendcrebitossimulation-20240211223759422) |
-| [gmrms](./participantes/gmrms) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gmrms/rinhabackendcrebitossimulation-20240211224248786) |
-| [gwoliveira-no-db-lock](./participantes/gwoliveira-no-db-lock) | USD 74160.0 | USD 103581.06 | USD 177741.06 | **USD 0.0** | [link](resultados/gwoliveira-no-db-lock/rinhabackendcrebitossimulation-20240211224729461) |
-| [halexv](./participantes/halexv) | USD 82620.0 | USD 34527.02 | USD 117147.01999999999 | **USD 0.0** | [link](resultados/halexv/rinhabackendcrebitossimulation-20240211225256428) |
-| [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 24500.0 | USD 103581.06 | USD 128081.06 | **USD 0.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240211225732221) |
-| [isadora-souza](./participantes/isadora-souza) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/isadora-souza/rinhabackendcrebitossimulation-20240212021450043) |
-| [itujo](./participantes/itujo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/itujo/rinhabackendcrebitossimulation-20240211230650592) |
-| [josebaroni](./participantes/josebaroni) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/josebaroni/rinhabackendcrebitossimulation-20240211231316914) |
-| [josebaroni-postgrest](./participantes/josebaroni-postgrest) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/josebaroni-postgrest/rinhabackendcrebitossimulation-20240211231749012) |
-| [kaikelfalcao](./participantes/kaikelfalcao) | USD 80180.0 | USD 103581.06 | USD 183761.06 | **USD 0.0** | [link](resultados/kaikelfalcao/rinhabackendcrebitossimulation-20240211232240318) |
-| [kalelMartinho_fastapi](./participantes/kalelMartinho_fastapi) | USD 570.0 | USD 0.0 | USD 570.0 | **USD 99430.0** | [link](resultados/kalelMartinho_fastapi/rinhabackendcrebitossimulation-20240212024655962) |
-| [krymancer](./participantes/krymancer) | USD 86560.0 | USD 103581.06 | USD 190141.06 | **USD 0.0** | [link](resultados/krymancer/rinhabackendcrebitossimulation-20240212165421830) |
-| [lazaronixon](./participantes/lazaronixon) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lazaronixon/rinhabackendcrebitossimulation-20240212170014290) |
-| [leandro-sousa](./participantes/leandro-sousa) | USD 71650.0 | USD 0.0 | USD 71650.0 | **USD 28350.0** | [link](resultados/leandro-sousa/rinhabackendcrebitossimulation-20240212203650579) |
-| [leoralph](./participantes/leoralph) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leoralph/rinhabackendcrebitossimulation-20240211233205041) |
-| [lobomfz](./participantes/lobomfz) | USD 1600.0 | USD 0.0 | USD 1600.0 | **USD 98400.0** | [link](resultados/lobomfz/rinhabackendcrebitossimulation-20240211233632757) |
-| [lobomfz-rust](./participantes/lobomfz-rust) | USD 10350.0 | USD 0.0 | USD 10350.0 | **USD 89650.0** | [link](resultados/lobomfz-rust/rinhabackendcrebitossimulation-20240211234216540) |
-| [lpicanco](./participantes/lpicanco) | USD 340.0 | USD 0.0 | USD 340.0 | **USD 99660.0** | [link](resultados/lpicanco/rinhabackendcrebitossimulation-20240211234701770) |
-| [lpicanco-cpp](./participantes/lpicanco-cpp) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lpicanco-cpp/rinhabackendcrebitossimulation-20240211235137537) |
-| [lsfratel](./participantes/lsfratel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lsfratel/rinhabackendcrebitossimulation-20240212025143939) |
-| [lubien-phoenixqlite](./participantes/lubien-phoenixqlite) | USD 7760.0 | USD 0.0 | USD 7760.0 | **USD 92240.0** | [link](resultados/lubien-phoenixqlite/rinhabackendcrebitossimulation-20240212170558634) |
-| [lucas-hsm](./participantes/lucas-hsm) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/lucas-hsm/rinhabackendcrebitossimulation-20240212000100018) |
-| [macgarcia](./participantes/macgarcia) | USD 97510.0 | USD 103581.06 | USD 201091.06 | **USD 0.0** | [link](resultados/macgarcia/rinhabackendcrebitossimulation-20240212173936944) |
-| [mateus4k](./participantes/mateus4k) | USD 8540.0 | USD 103581.06 | USD 112121.06 | **USD 0.0** | [link](resultados/mateus4k/rinhabackendcrebitossimulation-20240212000621045) |
-| [mateuscolvr](./participantes/mateuscolvr) | USD 4070.0 | USD 0.0 | USD 4070.0 | **USD 95930.0** | [link](resultados/mateuscolvr/rinhabackendcrebitossimulation-20240212001100448) |
-| [maxwell](./participantes/maxwell) | USD 1380.0 | USD 0.0 | USD 1380.0 | **USD 98620.0** | [link](resultados/maxwell/rinhabackendcrebitossimulation-20240212001550706) |
-| [met4tron-nodejs](./participantes/met4tron-nodejs) | USD 74290.0 | USD 103581.06 | USD 177871.06 | **USD 0.0** | [link](resultados/met4tron-nodejs/rinhabackendcrebitossimulation-20240212002041355) |
-| [murilochianfa](./participantes/murilochianfa) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/murilochianfa/rinhabackendcrebitossimulation-20240212002547949) |
-| [mvellasco](./participantes/mvellasco) | USD 88790.0 | USD 0.0 | USD 88790.0 | **USD 11210.0** | [link](resultados/mvellasco/rinhabackendcrebitossimulation-20240212204151309) |
-| [oloko64](./participantes/oloko64) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/oloko64/rinhabackendcrebitossimulation-20240212204620509) |
-| [olukkas](./participantes/olukkas) | USD 62010.0 | USD 103581.06 | USD 165591.06 | **USD 0.0** | [link](resultados/olukkas/rinhabackendcrebitossimulation-20240212003239030) |
-| [omurilo](./participantes/omurilo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/omurilo/rinhabackendcrebitossimulation-20240212003708061) |
-| [rafaelpadovezi](./participantes/rafaelpadovezi) | USD 92710.0 | USD 0.0 | USD 92710.0 | **USD 7290.0** | [link](resultados/rafaelpadovezi/rinhabackendcrebitossimulation-20240212025849853) |
-| [rdenadai_python](./participantes/rdenadai_python) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240212004150128) |
-| [recoba](./participantes/recoba) | USD 56710.0 | USD 0.0 | USD 56710.0 | **USD 43290.0** | [link](resultados/recoba/rinhabackendcrebitossimulation-20240212004635193) |
-| [reonardoleis](./participantes/reonardoleis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/reonardoleis/rinhabackendcrebitossimulation-20240212005126173) |
-| [rodrigocaldeira](./participantes/rodrigocaldeira) | USD 44000.0 | USD 103581.06 | USD 147581.06 | **USD 0.0** | [link](resultados/rodrigocaldeira/rinhabackendcrebitossimulation-20240212005615734) |
-| [ronaldo_scardini](./participantes/ronaldo_scardini) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ronaldo_scardini/rinhabackendcrebitossimulation-20240212021935577) |
-| [samluiz](./participantes/samluiz) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/samluiz/rinhabackendcrebitossimulation-20240212010056143) |
-| [stefannovasky](./participantes/stefannovasky) | USD 3530.0 | USD 0.0 | USD 3530.0 | **USD 96470.0** | [link](resultados/stefannovasky/rinhabackendcrebitossimulation-20240212171148342) |
-| [taciossbr](./participantes/taciossbr) | USD 52680.0 | USD 0.0 | USD 52680.0 | **USD 47320.0** | [link](resultados/taciossbr/rinhabackendcrebitossimulation-20240212011054376) |
-| [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240212011725404) |
-| [vkobinski](./participantes/vkobinski) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/vkobinski/rinhabackendcrebitossimulation-20240212012202522) |
-| [yMarceloMaia](./participantes/yMarceloMaia) | USD 49870.0 | USD 103581.06 | USD 153451.06 | **USD 0.0** | [link](resultados/yMarceloMaia/rinhabackendcrebitossimulation-20240212205104166) |
-| [zsantana](./participantes/zsantana) | USD 78300.0 | USD 0.0 | USD 78300.0 | **USD 21700.0** | [link](resultados/zsantana/rinhabackendcrebitossimulation-20240212022411925) |
- 
-#### Participantes Sem Execução/Relatório
- 
-| participante | logs |
-| --           | --   |
-| [andrepiske-01](./participantes/andrepiske-01) | [docker-compose.logs](./participantes/andrepiske-01/docker-compose.logs) |
-| [arrudaricardo-01](./participantes/arrudaricardo-01) | [docker-compose.logs](./participantes/arrudaricardo-01/docker-compose.logs) |
-| [cacambito](./participantes/cacambito) | [docker-compose.logs](./participantes/cacambito/docker-compose.logs) |
-| [danilosilva](./participantes/danilosilva) | [docker-compose.logs](./participantes/danilosilva/docker-compose.logs) |
-| [doceazedo](./participantes/doceazedo) | [docker-compose.logs](./participantes/doceazedo/docker-compose.logs) |
-| [elixiremfoco](./participantes/elixiremfoco) | [docker-compose.logs](./participantes/elixiremfoco/docker-compose.logs) |
-| [engylemure](./participantes/engylemure) | [docker-compose.logs](./participantes/engylemure/docker-compose.logs) |
-| [gabrielfmagalhaes](./participantes/gabrielfmagalhaes) | [docker-compose.logs](./participantes/gabrielfmagalhaes/docker-compose.logs) |
-| [jojodev](./participantes/jojodev) | [docker-compose.logs](./participantes/jojodev/docker-compose.logs) |
-| [nicolasmmb](./participantes/nicolasmmb) | [docker-compose.logs](./participantes/nicolasmmb/docker-compose.logs) |
-| [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
-| [samueljansem](./participantes/samueljansem) | [docker-compose.logs](./participantes/samueljansem/docker-compose.logs) |
-| [thiagosantana](./participantes/thiagosantana) | [docker-compose.logs](./participantes/thiagosantana/docker-compose.logs) |
-| [thusspokebieu-activej](./participantes/thusspokebieu-activej) | [docker-compose.logs](./participantes/thusspokebieu-activej/docker-compose.logs) |
-| [williansugiyama](./participantes/williansugiyama) | [docker-compose.logs](./participantes/williansugiyama/docker-compose.logs) |
- 
+  nginx:
+    image: nginx:latest
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api01
+      - api02
+    ports:
+        # Obrigatório expor/usar a porta 9999 no load balancer!
+      - "9999:9999" 
+    deploy:
+      resources:
+        limits:
+          cpus: "0.17"
+          memory: "10MB"
+
+  db:
+    image: postgres:latest
+    hostname: db
+    environment:
+      - POSTGRES_PASSWORD=123
+      - POSTGRES_USER=admin
+      - POSTGRES_DB=rinha
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./script.sql:/docker-entrypoint-initdb.d/script.sql
+    deploy:
+      resources:
+        limits:
+          # Note que a soma de todos os limites dos serviços
+          # aqui declarados é de 1.5 unidades de CPU e 550MB
+          # de memória. A distribuição feita aqui é apenas
+          # um exemplo – distribua como quiser.
+          cpus: "0.13"
+          memory: "140MB"
+
+# O uso do modo `bridge` deve ser adequado à carga que será usada no teste.
+# A edição anterior se beneficiou do modo host pois o volume de requisições
+# era relativamente alto e a virtualização da rede se tornou um gargalo, mas
+# este modo é mais complexo de ser configurado. Fique à vontade para usar o
+# modo que quiser desde que não conflite com portas trivialmente usadas em um
+# SO.
+networks:
+  default:
+    driver: bridge
+    name: rinha-nginx-2024q1
+
+```
+
+`script.sql`
+```sql
+-- Coloque scripts iniciais aqui
+CREATE TABLE...
+
+DO $$
+BEGIN
+  INSERT INTO clientes (nome, limite)
+  VALUES
+    ('o barato sai caro', 1000 * 100),
+    ('zan corp ltda', 800 * 100),
+    ('les cruders', 10000 * 100),
+    ('padaria joia de cocaia', 100000 * 100),
+    ('kid mais', 5000 * 100);
+END; $$
+```
+
+`nginx.conf`
+```config
+events {
+    worker_connections 1000;
+}
+
+http {
+    access_log off;
+    sendfile   on;
+    
+    upstream api {
+        server api01:8080;
+        server api02:8080;
+    }
+
+    server {
+        listen 9999; # Lembra da porta 9999 obrigatória?
+        
+        location / {
+            proxy_pass http://api;
+        }
+    }
+}
+
+```
+
+## Ferramenta de Teste
+Como na edição anterior, a ferramenta Gatling será usada novamente para realizar o teste de performance. Pode fazer muita diferença você executar os testes durante a fase de desenvolvimento para detectar possíveis problemas e gargalos. O teste está disponível nesse repositório em [load-test](./load-test).
+
+## Ambiente de Testes
+Para saber os detalhes sobre o ambiente (SO e versões de software) acesse [Especificações do Ambiente de Testes](./SPECTESTENV.md).
+
+Note que o ambiente em que os testes serão executados é Linux x64. Portanto, se seu ambiente de desenvolvimento possui outra arquitetura, você precisará fazer o build do docker da seguinte forma:
+`$ docker buildx build --platform linux/amd64`
+
+Por exemplo:
+`$ docker buildx build --platform linux/amd64 -t ana/minha-api-matadora:latest .`
+
+### Para executar os testes
+Aqui estão instruções rápidas para você poder executar os testes:
+
+1. Baixe o Gatling em https://gatling.io/open-source/
+1. Certifique-se de que tenha o JDK instalado
+    (64bits OpenJDK LTS (Long Term Support) versions: 11, 17 e 21)
+    https://gatling.io/docs/gatling/tutorials/installation/
+1. Certifique-se de configurar a variável de ambiente GATLING_HOME para o diretório da instalação do Gatling.
+    Para se certificar de que a variável está correta, os seguinte caminhos precisam ser válidos:
+      `$GATLING_HOME/bin/gatling.sh` no Linux e `%GATLING_HOME%\bin\gatling.bat` no Windows.
+1. Configure o script `./executar-teste-local.sh` (ou `./executar-teste-local.ps1` se estiver no Windows)
+1. Suba sua API (ou load balancer) na porta 9999
+1. Execute `./executar-teste-local.sh` (ou `./executar-teste-local.ps1` se estiver no Windows)
+1. Agora é só aguardar o teste terminar e abrir o relatório
+    O caminho do relatório é exibido ao término da simulação.
+    Os resultados/relatórios são salvos em `./load-test/user-files/results`.
+
+Fique à vontade para alterar a [simulação](./load-test/user-files/simulations/rinhabackend/RinhaBackendCrebitosSimulation.scala) para testar diferentes aspectos e cenários. Não inclua essas alterações no pull request de submissão!
+
+De nada :)
+
+### Pré teste
+Na edição anterior da Rinha, o teste começava poucos segundos após a subida dos contêineres e, devido as restrições de CPU e memória, nem todos os serviços estavam prontos para receber requisições em tão pouco tempo. Nessa edição, antes do teste iniciar, um script verificará se a API está respondendo corretamente (via `GET /clientes/1/extrato`) por até 40 segundos em intervalos de 2 segundos a cada tentativa. Por isso, certifique-se de que todos seus serviços não demorem mais do que 40 segundos para estarem aptos a receberem requisições!
+
+
+#### Nota importante sobre o teste escrito!
+
+A simulação contém um teste de lógica de saldo/limite que extrapola o que é comumente feito em testes de performance. O escrevi assim apenas por causa da natureza da Rinha de Backend. Evite fazer esse tipo de coisa em testes de performance, pois não é uma prática recomendada normalmente. Testes de lógica devem ficar junto ao código fonte em formato de testes de unidade ou integração!
+
+
+## Critérios para Vencer A Rinha de Backend
+
+Surpresa! :)
+
+
+## Acompanhamento do Status das Execuções dos Testes
+
+[Link do status parcial da Rinha de Backend](./STATUS-TESTES.md). 
 https://github.com/zanfranceschi/rinha-de-backend-2024-q1
