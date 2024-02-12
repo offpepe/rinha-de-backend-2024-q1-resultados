@@ -186,6 +186,7 @@ backupResults () {
     rsync ./executar-testes-final.sh $destDir/executar-testes-final.sh
     
     pushd $destDir
+        mv -f RESULTADOS.md README.md
         git add .
         git commit -m "backup $(date)"
         git push -u origin main
