@@ -177,7 +177,23 @@ limitLogsSize() {
     done
 }
 
+backupResults () {
+    destDir=$HOME/projects/rinha-de-backend-2024-q1-resultados
+    
+    rsync -au --delete ./resultados/ $destDir/resultados
+    rsync ./RESULTADOS.md $destDir/RESULTADOS.md
+    rsync ./RESULTADOS-HEADER.md $destDir/RESULTADOS-HEADER.md
+    rsync ./executar-testes-final.sh $destDir/executar-testes-final.sh
+    
+    pushd $destDir
+        git add .
+        git commit -m "backup $(date)"
+        git push -u origin main
+    popd
+}
+
 runAllTests
 generateResults
 generateTestsStatus
 limitLogsSize
+backupResults
