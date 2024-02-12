@@ -184,9 +184,12 @@ backupResults () {
     rsync ./RESULTADOS.md $destDir/RESULTADOS.md
     rsync ./RESULTADOS-HEADER.md $destDir/RESULTADOS-HEADER.md
     rsync ./executar-testes-final.sh $destDir/executar-testes-final.sh
+    rsync ./executar-testes-final-polling.sh $destDir/executar-testes-final-polling.sh
     
     pushd $destDir
         mv -f RESULTADOS.md README.md
+        echo " " > README.md
+        echo "https://github.com/zanfranceschi/rinha-de-backend-2024-q1" >> README.md
         git add .
         git commit -m "backup $(date)"
         git push -u origin main
