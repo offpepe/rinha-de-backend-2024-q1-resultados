@@ -70,6 +70,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [italopussi](./participantes/italopussi) | USD 72080.0 | USD 103581.06 | USD 175661.06 | **USD 0.0** | [link](resultados/italopussi/rinhabackendcrebitossimulation-20240213024615426) |
 | [itujo](./participantes/itujo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/itujo/rinhabackendcrebitossimulation-20240211230650592) |
 | [java-cassiogangrel](./participantes/java-cassiogangrel) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/java-cassiogangrel/rinhabackendcrebitossimulation-20240212232625392) |
+| [jojodev](./participantes/jojodev) | USD 95600.0 | USD 103581.06 | USD 199181.06 | **USD 0.0** | [link](resultados/jojodev/rinhabackendcrebitossimulation-20240213032644992) |
 | [jonattas_bunjs](./participantes/jonattas_bunjs) | USD 590.0 | USD 103581.06 | USD 104171.06 | **USD 0.0** | [link](resultados/jonattas_bunjs/rinhabackendcrebitossimulation-20240213025059973) |
 | [josebaroni](./participantes/josebaroni) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/josebaroni/rinhabackendcrebitossimulation-20240211231316914) |
 | [josebaroni-postgrest](./participantes/josebaroni-postgrest) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/josebaroni-postgrest/rinhabackendcrebitossimulation-20240211231749012) |
@@ -107,7 +108,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [samluiz](./participantes/samluiz) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/samluiz/rinhabackendcrebitossimulation-20240212010056143) |
 | [stefannovasky](./participantes/stefannovasky) | USD 3530.0 | USD 0.0 | USD 3530.0 | **USD 96470.0** | [link](resultados/stefannovasky/rinhabackendcrebitossimulation-20240212171148342) |
 | [taciossbr](./participantes/taciossbr) | USD 52680.0 | USD 0.0 | USD 52680.0 | **USD 47320.0** | [link](resultados/taciossbr/rinhabackendcrebitossimulation-20240212011054376) |
-| [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240213013921329) |
+| [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240213033235847) |
 | [williansugiyama](./participantes/williansugiyama) | USD 8110.0 | USD 103581.06 | USD 111691.06 | **USD 0.0** | [link](resultados/williansugiyama/rinhabackendcrebitossimulation-20240213021549628) |
 | [yMarceloMaia](./participantes/yMarceloMaia) | USD 49870.0 | USD 103581.06 | USD 153451.06 | **USD 0.0** | [link](resultados/yMarceloMaia/rinhabackendcrebitossimulation-20240212205104166) |
 | [zsantana](./participantes/zsantana) | USD 78300.0 | USD 0.0 | USD 78300.0 | **USD 21700.0** | [link](resultados/zsantana/rinhabackendcrebitossimulation-20240212022411925) |
@@ -125,7 +126,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [doceazedo](./participantes/doceazedo) | [docker-compose.logs](./participantes/doceazedo/docker-compose.logs) |
 | [elixiremfoco](./participantes/elixiremfoco) | [docker-compose.logs](./participantes/elixiremfoco/docker-compose.logs) |
 | [gabrielfmagalhaes](./participantes/gabrielfmagalhaes) | [docker-compose.logs](./participantes/gabrielfmagalhaes/docker-compose.logs) |
-| [jojodev](./participantes/jojodev) | [docker-compose.logs](./participantes/jojodev/docker-compose.logs) |
 | [nicolasmmb](./participantes/nicolasmmb) | [docker-compose.logs](./participantes/nicolasmmb/docker-compose.logs) |
 | [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
 | [samueljansem](./participantes/samueljansem) | [docker-compose.logs](./participantes/samueljansem/docker-compose.logs) |
