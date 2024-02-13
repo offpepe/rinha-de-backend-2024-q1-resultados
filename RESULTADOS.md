@@ -64,6 +64,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 24500.0 | USD 103581.06 | USD 128081.06 | **USD 0.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240211225732221) |
 | [ilosamart](./participantes/ilosamart) | USD 94100.0 | USD 103581.06 | USD 197681.06 | **USD 0.0** | [link](resultados/ilosamart/rinhabackendcrebitossimulation-20240212232137120) |
 | [isadora-souza](./participantes/isadora-souza) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/isadora-souza/rinhabackendcrebitossimulation-20240212021450043) |
+| [italopussi](./participantes/italopussi) | USD 81760.0 | USD 103581.06 | USD 185341.06 | **USD 0.0** | [link](resultados/italopussi/rinhabackendcrebitossimulation-20240213004709583) |
 | [itujo](./participantes/itujo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/itujo/rinhabackendcrebitossimulation-20240211230650592) |
 | [java-cassiogangrel](./participantes/java-cassiogangrel) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/java-cassiogangrel/rinhabackendcrebitossimulation-20240212232625392) |
 | [josebaroni](./participantes/josebaroni) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/josebaroni/rinhabackendcrebitossimulation-20240211231316914) |
