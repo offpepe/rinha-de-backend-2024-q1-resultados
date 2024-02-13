@@ -36,7 +36,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [bine-php-swoole](./participantes/bine-php-swoole) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-php-swoole/rinhabackendcrebitossimulation-20240212161832478) |
 | [bine-reactphp](./participantes/bine-reactphp) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-reactphp/rinhabackendcrebitossimulation-20240212162316790) |
 | [boaglio](./participantes/boaglio) | USD 95390.0 | USD 103581.06 | USD 198971.06 | **USD 0.0** | [link](resultados/boaglio/rinhabackendcrebitossimulation-20240212231521206) |
-| [breno5g](./participantes/breno5g) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/breno5g/rinhabackendcrebitossimulation-20240212015129359) |
+| [breno5g](./participantes/breno5g) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/breno5g/rinhabackendcrebitossimulation-20240212235433152) |
 | [buemura](./participantes/buemura) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/buemura/rinhabackendcrebitossimulation-20240212162754439) |
 | [bun-saulofelipe](./participantes/bun-saulofelipe) | USD 97880.0 | USD 34527.02 | USD 132407.02 | **USD 0.0** | [link](resultados/bun-saulofelipe/rinhabackendcrebitossimulation-20240211212625124) |
 | [cadu](./participantes/cadu) | USD 80850.0 | USD 0.0 | USD 80850.0 | **USD 19150.0** | [link](resultados/cadu/rinhabackendcrebitossimulation-20240211213204628) |
@@ -58,6 +58,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [geraldojrcg-elixir](./participantes/geraldojrcg-elixir) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/geraldojrcg-elixir/rinhabackendcrebitossimulation-20240212164820010) |
 | [giovannibassi](./participantes/giovannibassi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi/rinhabackendcrebitossimulation-20240211223759422) |
 | [gmrms](./participantes/gmrms) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gmrms/rinhabackendcrebitossimulation-20240211224248786) |
+| [gustavoramos00](./participantes/gustavoramos00) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gustavoramos00/rinhabackendcrebitossimulation-20240212235912817) |
 | [gwoliveira-no-db-lock](./participantes/gwoliveira-no-db-lock) | USD 74160.0 | USD 103581.06 | USD 177741.06 | **USD 0.0** | [link](resultados/gwoliveira-no-db-lock/rinhabackendcrebitossimulation-20240211224729461) |
 | [halexv](./participantes/halexv) | USD 82620.0 | USD 34527.02 | USD 117147.01999999999 | **USD 0.0** | [link](resultados/halexv/rinhabackendcrebitossimulation-20240211225256428) |
 | [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 24500.0 | USD 103581.06 | USD 128081.06 | **USD 0.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240211225732221) |
