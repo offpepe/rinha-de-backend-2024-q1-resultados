@@ -29,7 +29,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [avalonbits](./participantes/avalonbits) | USD 78840.0 | USD 103581.06 | USD 182421.06 | **USD 0.0** | [link](resultados/avalonbits/rinhabackendcrebitossimulation-20240211205728839) |
 | [aysion_bun](./participantes/aysion_bun) | USD 1810.0 | USD 103581.06 | USD 105391.06 | **USD 0.0** | [link](resultados/aysion_bun/rinhabackendcrebitossimulation-20240211210211475) |
 | [aysion_nodejs](./participantes/aysion_nodejs) | USD 74920.0 | USD 34527.02 | USD 109447.01999999999 | **USD 0.0** | [link](resultados/aysion_nodejs/rinhabackendcrebitossimulation-20240211210705766) |
-| [bbonagura9](./participantes/bbonagura9) | USD 53960.0 | USD 0.0 | USD 53960.0 | **USD 46040.0** | [link](resultados/bbonagura9/rinhabackendcrebitossimulation-20240211211158764) |
+| [bbonagura9](./participantes/bbonagura9) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bbonagura9/rinhabackendcrebitossimulation-20240213010516540) |
 | [bcaua](./participantes/bcaua) | USD 33730.0 | USD 103581.06 | USD 137311.06 | **USD 0.0** | [link](resultados/bcaua/rinhabackendcrebitossimulation-20240212201441992) |
 | [bgskurono](./participantes/bgskurono) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bgskurono/rinhabackendcrebitossimulation-20240211212151470) |
 | [bine-php-road-runner](./participantes/bine-php-road-runner) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-php-road-runner/rinhabackendcrebitossimulation-20240212173206034) |
