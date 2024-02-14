@@ -32,7 +32,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [aysion_nodejs](./participantes/aysion_nodejs) | USD 74920.0 | USD 34527.02 | USD 109447.01999999999 | **USD 0.0** | [link](resultados/aysion_nodejs/rinhabackendcrebitossimulation-20240211210705766) |
 | [bbonagura9](./participantes/bbonagura9) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bbonagura9/rinhabackendcrebitossimulation-20240213010516540) |
 | [bcaua](./participantes/bcaua) | USD 33730.0 | USD 103581.06 | USD 137311.06 | **USD 0.0** | [link](resultados/bcaua/rinhabackendcrebitossimulation-20240212201441992) |
-| [bgskurono](./participantes/bgskurono) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bgskurono/rinhabackendcrebitossimulation-20240213194442082) |
+| [bgskurono](./participantes/bgskurono) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bgskurono/rinhabackendcrebitossimulation-20240214040457064) |
 | [bine-golang](./participantes/bine-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-golang/rinhabackendcrebitossimulation-20240213015027081) |
 | [bine-php-road-runner](./participantes/bine-php-road-runner) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-php-road-runner/rinhabackendcrebitossimulation-20240212173206034) |
 | [bine-php-swoole](./participantes/bine-php-swoole) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/bine-php-swoole/rinhabackendcrebitossimulation-20240212161832478) |
@@ -73,6 +73,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [gustavoramos00](./participantes/gustavoramos00) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gustavoramos00/rinhabackendcrebitossimulation-20240213233222950) |
 | [gwoliveira-no-db-lock](./participantes/gwoliveira-no-db-lock) | USD 74160.0 | USD 103581.06 | USD 177741.06 | **USD 0.0** | [link](resultados/gwoliveira-no-db-lock/rinhabackendcrebitossimulation-20240211224729461) |
 | [halexv](./participantes/halexv) | USD 82620.0 | USD 34527.02 | USD 117147.01999999999 | **USD 0.0** | [link](resultados/halexv/rinhabackendcrebitossimulation-20240211225256428) |
+| [heitor-ps](./participantes/heitor-ps) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/heitor-ps/rinhabackendcrebitossimulation-20240214041001174) |
 | [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 4530.0 | USD 0.0 | USD 4530.0 | **USD 95470.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240214022555726) |
 | [ilosamart](./participantes/ilosamart) | USD 97430.0 | USD 103581.06 | USD 201011.06 | **USD 0.0** | [link](resultados/ilosamart/rinhabackendcrebitossimulation-20240213233734053) |
 | [isadora-souza](./participantes/isadora-souza) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/isadora-souza/rinhabackendcrebitossimulation-20240212021450043) |
@@ -116,7 +117,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [omurilo](./participantes/omurilo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/omurilo/rinhabackendcrebitossimulation-20240212003708061) |
 | [PatrickChagastavares](./participantes/PatrickChagastavares) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/PatrickChagastavares/rinhabackendcrebitossimulation-20240212234134072) |
 | [rafaelpadovezi](./participantes/rafaelpadovezi) | USD 92710.0 | USD 0.0 | USD 92710.0 | **USD 7290.0** | [link](resultados/rafaelpadovezi/rinhabackendcrebitossimulation-20240212025849853) |
-| [rdenadai_python](./participantes/rdenadai_python) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240214000155183) |
+| [rdenadai_python](./participantes/rdenadai_python) | USD 290.0 | USD 103581.06 | USD 103871.06 | **USD 0.0** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240214041749797) |
 | [recoba](./participantes/recoba) | USD 56710.0 | USD 0.0 | USD 56710.0 | **USD 43290.0** | [link](resultados/recoba/rinhabackendcrebitossimulation-20240212004635193) |
 | [reonardoleis](./participantes/reonardoleis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/reonardoleis/rinhabackendcrebitossimulation-20240212005126173) |
 | [rodolphovs](./participantes/rodolphovs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rodolphovs/rinhabackendcrebitossimulation-20240214012252368) |
@@ -156,3 +157,4 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [thiagosantana](./participantes/thiagosantana) | [docker-compose.logs](./participantes/thiagosantana/docker-compose.logs) |
 | [thusspokebieu-activej](./participantes/thusspokebieu-activej) | [docker-compose.logs](./participantes/thusspokebieu-activej/docker-compose.logs) |
 | [vkobinski](./participantes/vkobinski) | [docker-compose.logs](./participantes/vkobinski/docker-compose.logs) |
+| [ygorcarmo](./participantes/ygorcarmo) | [docker-compose.logs](./participantes/ygorcarmo/docker-compose.logs) |
