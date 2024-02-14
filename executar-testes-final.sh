@@ -228,4 +228,5 @@ generateResults
 generateTestsStatus
 limitLogsSize
 backupResults
+getChanges
 commitAndPushChanges
