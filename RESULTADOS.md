@@ -124,7 +124,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [murilochianfa](./participantes/murilochianfa) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/murilochianfa/rinhabackendcrebitossimulation-20240212002547949) |
 | [mvellasco](./participantes/mvellasco) | USD 77770.0 | USD 0.0 | USD 77770.0 | **USD 22230.0** | [link](resultados/mvellasco/rinhabackendcrebitossimulation-20240213030041519) |
 | [NathanFirmo](./participantes/NathanFirmo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/NathanFirmo/rinhabackendcrebitossimulation-20240214032608697) |
-| [nicolasmmb](./participantes/nicolasmmb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nicolasmmb/rinhabackendcrebitossimulation-20240213235716785) |
+| [nicolasmmb](./participantes/nicolasmmb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nicolasmmb/rinhabackendcrebitossimulation-20240214175217349) |
 | [oloko64](./participantes/oloko64) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/oloko64/rinhabackendcrebitossimulation-20240212204620509) |
 | [olukkas](./participantes/olukkas) | USD 62010.0 | USD 103581.06 | USD 165591.06 | **USD 0.0** | [link](resultados/olukkas/rinhabackendcrebitossimulation-20240212003239030) |
 | [omurilo](./participantes/omurilo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/omurilo/rinhabackendcrebitossimulation-20240212003708061) |
