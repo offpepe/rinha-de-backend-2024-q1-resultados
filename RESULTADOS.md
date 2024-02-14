@@ -118,6 +118,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [marincor](./participantes/marincor) | USD 32370.0 | USD 103581.06 | USD 135951.06 | **USD 0.0** | [link](resultados/marincor/rinhabackendcrebitossimulation-20240214011011207) |
 | [mateus4k](./participantes/mateus4k) | USD 8540.0 | USD 103581.06 | USD 112121.06 | **USD 0.0** | [link](resultados/mateus4k/rinhabackendcrebitossimulation-20240212000621045) |
 | [mateuscolvr](./participantes/mateuscolvr) | USD 4070.0 | USD 0.0 | USD 4070.0 | **USD 95930.0** | [link](resultados/mateuscolvr/rinhabackendcrebitossimulation-20240212001100448) |
+| [matheuslao](./participantes/matheuslao) | USD 88970.0 | USD 0.0 | USD 88970.0 | **USD 11030.0** | [link](resultados/matheuslao/rinhabackendcrebitossimulation-20240214195400485) |
 | [matheusleal](./participantes/matheusleal) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheusleal/rinhabackendcrebitossimulation-20240214170250202) |
 | [maxwell](./participantes/maxwell) | USD 1380.0 | USD 0.0 | USD 1380.0 | **USD 98620.0** | [link](resultados/maxwell/rinhabackendcrebitossimulation-20240212001550706) |
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | USD 74290.0 | USD 103581.06 | USD 177871.06 | **USD 0.0** | [link](resultados/met4tron-nodejs/rinhabackendcrebitossimulation-20240212002041355) |
