@@ -29,18 +29,21 @@ startTest() {
 
 startApi() {
     mkdir -p "$RESULTS_WORKSPACE/$1"
-    pushd participantes/$1
-    docker compose pull > docker-compose.logs
-    nohup docker compose up --build >> docker-compose.logs &
-    popd
+    pushd participantes/$1 > /dev/null
+        for i in {1..5}; do
+            docker compose pull > docker-compose.logs && \
+            break || sleep 2;
+        done
+        nohup docker compose up --build >> docker-compose.logs &
+    popd > /dev/null
 }
 
 stopApi() {
-    pushd participantes/$1
-    docker compose rm -f
-    docker compose down --volumes
-    docker compose rm -v -f
-    popd
+    pushd participantes/$1 > /dev/null
+        docker compose rm -f
+        docker compose down --volumes
+        docker compose rm -v -f
+    popd > /dev/null
 }
 
 generateResults() {
@@ -184,13 +187,13 @@ backupResults () {
     rsync ./executar-testes-final.sh $destDir/executar-testes-final.sh
     rsync ./executar-testes-final-polling.sh $destDir/executar-testes-final-polling.sh
     
-    pushd $destDir
+    pushd $destDir > /dev/null
         echo " " >> README.md
         echo "https://github.com/zanfranceschi/rinha-de-backend-2024-q1" >> README.md
         git add .
         git commit -m "backup $(date)"
         git push -u origin main
-    popd
+    popd > /dev/null
 }
 
 clearAllDockerThings() {
@@ -208,7 +211,16 @@ commitAndPushChanges() {
     git push -u origin main
 }
 
+countAPIsToBeTested() {
+    pushd ./participantes > /dev/null
+    echo "APIs to be tested:"
+    find '.' -mindepth 1 -maxdepth 1 -type d \! -exec test -e '{}/testada' \; -print
+    find '.' -mindepth 1 -maxdepth 1 -type d \! -exec test -e '{}/testada' \; -print | wc -l
+    popd > /dev/null
+}
+
 clearAllDockerThings
+countAPIsToBeTested
 getChanges
 runAllTests
 generateResults

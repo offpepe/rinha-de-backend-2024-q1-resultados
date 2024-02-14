@@ -25,7 +25,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
  
 | participante | multa SLA (> 249ms) | multa SLA (inconsistência saldo) | multa total | valor a receber | relatório |
 | --           | --                  | --                               | --          | --              | --        |
-| [acerola](./participantes/acerola) | USD 69740.0 | USD 0.0 | USD 69740.0 | **USD 30260.0** | [link](resultados/acerola/rinhabackendcrebitossimulation-20240213011626331) |
+| [acerola](./participantes/acerola) | USD 67370.0 | USD 0.0 | USD 67370.0 | **USD 32630.0** | [link](resultados/acerola/rinhabackendcrebitossimulation-20240214015204721) |
 | [agostinho](./participantes/agostinho) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/agostinho/rinhabackendcrebitossimulation-20240211204901877) |
 | [avalonbits](./participantes/avalonbits) | USD 78840.0 | USD 103581.06 | USD 182421.06 | **USD 0.0** | [link](resultados/avalonbits/rinhabackendcrebitossimulation-20240211205728839) |
 | [aysion_bun](./participantes/aysion_bun) | USD 1810.0 | USD 103581.06 | USD 105391.06 | **USD 0.0** | [link](resultados/aysion_bun/rinhabackendcrebitossimulation-20240211210211475) |
