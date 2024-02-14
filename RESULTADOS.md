@@ -73,7 +73,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [gustavoramos00](./participantes/gustavoramos00) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gustavoramos00/rinhabackendcrebitossimulation-20240213233222950) |
 | [gwoliveira-no-db-lock](./participantes/gwoliveira-no-db-lock) | USD 74160.0 | USD 103581.06 | USD 177741.06 | **USD 0.0** | [link](resultados/gwoliveira-no-db-lock/rinhabackendcrebitossimulation-20240211224729461) |
 | [halexv](./participantes/halexv) | USD 82620.0 | USD 34527.02 | USD 117147.01999999999 | **USD 0.0** | [link](resultados/halexv/rinhabackendcrebitossimulation-20240211225256428) |
-| [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 24500.0 | USD 103581.06 | USD 128081.06 | **USD 0.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240211225732221) |
+| [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 4530.0 | USD 0.0 | USD 4530.0 | **USD 95470.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240214022555726) |
 | [ilosamart](./participantes/ilosamart) | USD 97430.0 | USD 103581.06 | USD 201011.06 | **USD 0.0** | [link](resultados/ilosamart/rinhabackendcrebitossimulation-20240213233734053) |
 | [isadora-souza](./participantes/isadora-souza) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/isadora-souza/rinhabackendcrebitossimulation-20240212021450043) |
 | [italopussi](./participantes/italopussi) | USD 72080.0 | USD 103581.06 | USD 175661.06 | **USD 0.0** | [link](resultados/italopussi/rinhabackendcrebitossimulation-20240213024615426) |
