@@ -189,6 +189,7 @@ backupResults () {
     
     pushd $destDir > /dev/null
         echo " " >> README.md
+        echo " " >> README.md
         echo "https://github.com/zanfranceschi/rinha-de-backend-2024-q1" >> README.md
         git add .
         git commit -m "backup $(date)"
