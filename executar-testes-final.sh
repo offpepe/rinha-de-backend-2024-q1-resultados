@@ -1,8 +1,5 @@
 #!/usr/bin/bash
 
-#docker system prune -f -a
-#docker volume prune -f -a 
-
 # Não use este script para executar seus testes locais, suba sua API
 # na porta 9999 ou docker-compose e use `executar-teste-local.sh`
 
@@ -196,8 +193,26 @@ backupResults () {
     popd
 }
 
+clearAllDockerThings() {
+    docker system prune -f -a
+    docker volume prune -f -a 
+}
+
+getChanges() {
+    git pull
+}
+
+commitAndPushChanges() {
+    git add .
+    git commit -m "execução de testes $(date)"
+    git push -u origin main
+}
+
+clearAllDockerThings
+getChanges
 runAllTests
 generateResults
 generateTestsStatus
 limitLogsSize
 backupResults
+commitAndPushChanges
