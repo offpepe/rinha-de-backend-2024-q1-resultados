@@ -7,6 +7,14 @@ RESULTS_WORKSPACE=$(pwd)/resultados
 GATLING_BIN_DIR=$HOME/gatling/3.10.3/bin
 GATLING_WORKSPACE="$(pwd)/load-test/user-files"
 
+countAPIsToBeTested() {
+    pushd ./participantes > /dev/null
+    echo "APIs to be tested:"
+    find '.' -mindepth 1 -maxdepth 1 -type d \! -exec test -e '{}/testada' \; -print
+    find '.' -mindepth 1 -maxdepth 1 -type d \! -exec test -e '{}/testada' \; -print | wc -l
+    popd > /dev/null
+}
+
 runGatling() {
     sh $GATLING_BIN_DIR/gatling.sh -rm local -s RinhaBackendCrebitosSimulation \
         -rd "Rinha de Backend - 2024/Q1: Crébito - $1" \
@@ -153,6 +161,7 @@ runAllTests() {
             echo "submissão '$participante' já testada - ignorando"
         else
             rm -rf "$RESULTS_WORKSPACE/$participante"
+            countAPIsToBeTested
             startApi $participante
             startTest $participante
             stopApi $participante
@@ -210,14 +219,6 @@ commitAndPushChanges() {
     git add .
     git commit -m "execução de testes $(date)"
     git push -u origin main
-}
-
-countAPIsToBeTested() {
-    pushd ./participantes > /dev/null
-    echo "APIs to be tested:"
-    find '.' -mindepth 1 -maxdepth 1 -type d \! -exec test -e '{}/testada' \; -print
-    find '.' -mindepth 1 -maxdepth 1 -type d \! -exec test -e '{}/testada' \; -print | wc -l
-    popd > /dev/null
 }
 
 clearAllDockerThings
