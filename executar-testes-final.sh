@@ -222,11 +222,8 @@ countAPIsToBeTested() {
 
 clearAllDockerThings
 countAPIsToBeTested
-getChanges
 runAllTests
 generateResults
 generateTestsStatus
 limitLogsSize
 backupResults
-getChanges
-commitAndPushChanges
