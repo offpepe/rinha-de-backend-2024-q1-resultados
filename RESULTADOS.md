@@ -52,6 +52,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [cassiano-manuelzinho-golang](./participantes/cassiano-manuelzinho-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cassiano-manuelzinho-golang/rinhabackendcrebitossimulation-20240215133833644) |
 | [claudio-silva](./participantes/claudio-silva) | USD 550.0 | USD 103581.06 | USD 104131.06 | **USD 0.0** | [link](resultados/claudio-silva/rinhabackendcrebitossimulation-20240214161827021) |
 | [cleitinif](./participantes/cleitinif) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cleitinif/rinhabackendcrebitossimulation-20240214162300926) |
+| [cristiano182](./participantes/cristiano182) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cristiano182/rinhabackendcrebitossimulation-20240215181342245) |
 | [danielwisky](./participantes/danielwisky) | USD 65730.0 | USD 0.0 | USD 65730.0 | **USD 34270.0** | [link](resultados/danielwisky/rinhabackendcrebitossimulation-20240213195016800) |
 | [deno-cassiogangrel](./participantes/deno-cassiogangrel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/deno-cassiogangrel/rinhabackendcrebitossimulation-20240214222259718) |
 | [devkemc-node](./participantes/devkemc-node) | USD 72220.0 | USD 34527.02 | USD 106747.02 | **USD 0.0** | [link](resultados/devkemc-node/rinhabackendcrebitossimulation-20240213195456023) |
@@ -127,6 +128,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [luizfrra](./participantes/luizfrra) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/luizfrra/rinhabackendcrebitossimulation-20240214010507890) |
 | [macgarcia](./participantes/macgarcia) | USD 97510.0 | USD 103581.06 | USD 201091.06 | **USD 0.0** | [link](resultados/macgarcia/rinhabackendcrebitossimulation-20240212173936944) |
 | [marcoagpegoraro](./participantes/marcoagpegoraro) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/marcoagpegoraro/rinhabackendcrebitossimulation-20240213235221352) |
+| [marcospaulo](./participantes/marcospaulo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marcospaulo/rinhabackendcrebitossimulation-20240215181823532) |
 | [marcusadriano-go](./participantes/marcusadriano-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marcusadriano-go/rinhabackendcrebitossimulation-20240214165747834) |
 | [marincor](./participantes/marincor) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/marincor/rinhabackendcrebitossimulation-20240215144613612) |
 | [mateus4k](./participantes/mateus4k) | USD 8540.0 | USD 103581.06 | USD 112121.06 | **USD 0.0** | [link](resultados/mateus4k/rinhabackendcrebitossimulation-20240212000621045) |
