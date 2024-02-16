@@ -187,7 +187,7 @@ limitLogsSize() {
 }
 
 backupResults () {
-    destDir=$HOME/projects/rinha-de-backend-2024-q1-resultados
+    destDir=$HOME/rinha-de-backend-2024-q1-resultados
     
     rsync -au --delete ./resultados/ $destDir/resultados
     cp -f ./README.md $destDir/README.md
