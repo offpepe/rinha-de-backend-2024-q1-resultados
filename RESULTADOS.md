@@ -131,9 +131,10 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [lubien-phoenixqlite](./participantes/lubien-phoenixqlite) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lubien-phoenixqlite/rinhabackendcrebitossimulation-20240216114239658) |
 | [lucas-hsm](./participantes/lucas-hsm) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucas-hsm/rinhabackendcrebitossimulation-20240216114752209) |
 | [lucasSSalgado](./participantes/lucasSSalgado) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucasSSalgado/rinhabackendcrebitossimulation-20240216115230625) |
+| [lucianovilela](./participantes/lucianovilela) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/lucianovilela/rinhabackendcrebitossimulation-20240216191832715) |
 | [luizfrra](./participantes/luizfrra) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/luizfrra/rinhabackendcrebitossimulation-20240216115918775) |
 | [marcoagpegoraro](./participantes/marcoagpegoraro) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/marcoagpegoraro/rinhabackendcrebitossimulation-20240216120648716) |
-| [marcospaulo](./participantes/marcospaulo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marcospaulo/rinhabackendcrebitossimulation-20240216121127295) |
+| [marcospaulo](./participantes/marcospaulo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marcospaulo/rinhabackendcrebitossimulation-20240216192318608) |
 | [marcusadriano-go](./participantes/marcusadriano-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marcusadriano-go/rinhabackendcrebitossimulation-20240216121609554) |
 | [marincor](./participantes/marincor) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/marincor/rinhabackendcrebitossimulation-20240216122154228) |
 | [mateus4k](./participantes/mateus4k) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/mateus4k/rinhabackendcrebitossimulation-20240216122626047) |
@@ -208,7 +209,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [krymancer](./participantes/krymancer) | [docker-compose.logs](./participantes/krymancer/docker-compose.logs) |
 | [leonardovee](./participantes/leonardovee) | [docker-compose.logs](./participantes/leonardovee/docker-compose.logs) |
 | [lucasew-go-tigerbeetle](./participantes/lucasew-go-tigerbeetle) | [docker-compose.logs](./participantes/lucasew-go-tigerbeetle/docker-compose.logs) |
-| [lucianovilela](./participantes/lucianovilela) | [docker-compose.logs](./participantes/lucianovilela/docker-compose.logs) |
 | [macgarcia](./participantes/macgarcia) | [docker-compose.logs](./participantes/macgarcia/docker-compose.logs) |
 | [mari-souza](./participantes/mari-souza) | [docker-compose.logs](./participantes/mari-souza/docker-compose.logs) |
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | [docker-compose.logs](./participantes/met4tron-nodejs/docker-compose.logs) |
