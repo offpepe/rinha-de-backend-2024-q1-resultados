@@ -221,6 +221,7 @@ commitAndPushChanges() {
     git push -u origin main
 }
 
+getChanges
 clearAllDockerThings
 countAPIsToBeTested
 runAllTests
