@@ -218,3 +218,4 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
 | [reonardoleis](./participantes/reonardoleis) | [docker-compose.logs](./participantes/reonardoleis/docker-compose.logs) |
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
+| [victorverdoodt](./participantes/victorverdoodt) | [docker-compose.logs](./participantes/victorverdoodt/docker-compose.logs) |

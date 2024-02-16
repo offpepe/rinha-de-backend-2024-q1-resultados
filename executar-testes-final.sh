@@ -211,17 +211,15 @@ clearAllDockerThings() {
     docker volume prune -f -a 
 }
 
-getChanges() {
+syncGit() {
     git pull
-}
-
-commitAndPushChanges() {
     git add .
     git commit -m "execução de testes $(date)"
-    git push -u origin main
+    git push
 }
 
-getChanges
+
+syncGit
 clearAllDockerThings
 countAPIsToBeTested
 runAllTests
