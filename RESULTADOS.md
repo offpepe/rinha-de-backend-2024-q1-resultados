@@ -33,6 +33,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [acerola](./participantes/acerola) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/acerola/rinhabackendcrebitossimulation-20240216034340533) |
 | [agostinho](./participantes/agostinho) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/agostinho/rinhabackendcrebitossimulation-20240216034833054) |
 | [agpsl](./participantes/agpsl) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/agpsl/rinhabackendcrebitossimulation-20240216035308621) |
+| [andrepraeiro](./participantes/andrepraeiro) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/andrepraeiro/rinhabackendcrebitossimulation-20240216224102383) |
 | [avalonbits](./participantes/avalonbits) | USD 63000.0 | USD 103581.06 | USD 166581.06 | **USD 0.0** | [link](resultados/avalonbits/rinhabackendcrebitossimulation-20240216040638025) |
 | [avinho](./participantes/avinho) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/avinho/rinhabackendcrebitossimulation-20240216041115807) |
 | [aysion_bun](./participantes/aysion_bun) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/aysion_bun/rinhabackendcrebitossimulation-20240216041548806) |
