@@ -188,18 +188,15 @@ limitLogsSize() {
 
 backupResults () {
     destDir=$HOME/rinha-de-backend-2024-q1-resultados
-    
+
     rsync -au --delete ./resultados/ $destDir/resultados
     cp -f ./README.md $destDir/README.md
     cp -f ./RESULTADOS.md $destDir/RESULTADOS.md
     cp -f ./RESULTADOS-HEADER.md $destDir/RESULTADOS-HEADER.md
     cp -f ./executar-testes-final.sh $destDir/executar-testes-final.sh
     cp -f ./executar-testes-final-polling.sh $destDir/executar-testes-final-polling.sh
-    
+
     pushd $destDir > /dev/null
-        echo " " >> README.md
-        echo " " >> README.md
-        echo "https://github.com/zanfranceschi/rinha-de-backend-2024-q1" >> README.md
         git add .
         git commit -m "backup $(date)"
         git push -u origin main
