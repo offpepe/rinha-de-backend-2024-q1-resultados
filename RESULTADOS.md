@@ -70,6 +70,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [dowingows-phalcon-php](./participantes/dowingows-phalcon-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dowingows-phalcon-php/rinhabackendcrebitossimulation-20240216063025114) |
 | [dreamagici4n](./participantes/dreamagici4n) | USD 33700.0 | USD 74543836.18 | USD 74577536.18 | **USD 0.0** | [link](resultados/dreamagici4n/rinhabackendcrebitossimulation-20240216063505229) |
 | [dscamargo](./participantes/dscamargo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dscamargo/rinhabackendcrebitossimulation-20240216063943599) |
+| [dsinmsdj](./participantes/dsinmsdj) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dsinmsdj/rinhabackendcrebitossimulation-20240217070503547) |
 | [engylemure](./participantes/engylemure) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/engylemure/rinhabackendcrebitossimulation-20240216064854394) |
 | [erickmarx](./participantes/erickmarx) | USD 97960.0 | USD 0.0 | USD 97960.0 | **USD 2040.0** | [link](resultados/erickmarx/rinhabackendcrebitossimulation-20240216065331457) |
 | [eu_fountai](./participantes/eu_fountai) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/eu_fountai/rinhabackendcrebitossimulation-20240216065805867) |
@@ -93,6 +94,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [giovannibassi-rust](./participantes/giovannibassi-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-rust/rinhabackendcrebitossimulation-20240216081653170) |
 | [giovannibassi-vb](./participantes/giovannibassi-vb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-vb/rinhabackendcrebitossimulation-20240216082134454) |
 | [giovannibassi](./participantes/giovannibassi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi/rinhabackendcrebitossimulation-20240216082611521) |
+| [gldmelo](./participantes/gldmelo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gldmelo/rinhabackendcrebitossimulation-20240217070928324) |
 | [gmrms](./participantes/gmrms) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gmrms/rinhabackendcrebitossimulation-20240216083656105) |
 | [guilherme-dotnet8](./participantes/guilherme-dotnet8) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/guilherme-dotnet8/rinhabackendcrebitossimulation-20240217055422489) |
 | [gustavoramos00](./participantes/gustavoramos00) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gustavoramos00/rinhabackendcrebitossimulation-20240216084609091) |
@@ -103,7 +105,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [heitor-ps](./participantes/heitor-ps) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/heitor-ps/rinhabackendcrebitossimulation-20240216090943530) |
 | [hendrikaraujo](./participantes/hendrikaraujo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/hendrikaraujo/rinhabackendcrebitossimulation-20240216205105396) |
 | [hfurlan](./participantes/hfurlan) | USD 0.0 | USD 69054.04 | USD 69054.04 | **USD 30945.96** | [link](resultados/hfurlan/rinhabackendcrebitossimulation-20240216091902838) |
-| [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 80890.0 | USD 0.0 | USD 80890.0 | **USD 19110.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240217055859779) |
+| [hiroshimorowaka](./participantes/hiroshimorowaka) | USD 62200.0 | USD 0.0 | USD 62200.0 | **USD 37800.0** | [link](resultados/hiroshimorowaka/rinhabackendcrebitossimulation-20240217071405441) |
 | [ilosamart](./participantes/ilosamart) | USD 79670.0 | USD 103581.06 | USD 183251.06 | **USD 0.0** | [link](resultados/ilosamart/rinhabackendcrebitossimulation-20240216092836677) |
 | [impedro29-performance](./participantes/impedro29-performance) | USD 760.0 | USD 0.0 | USD 760.0 | **USD 99240.0** | [link](resultados/impedro29-performance/rinhabackendcrebitossimulation-20240216093305236) |
 | [isadora-souza](./participantes/isadora-souza) | USD 1120.0 | USD 0.0 | USD 1120.0 | **USD 98880.0** | [link](resultados/isadora-souza/rinhabackendcrebitossimulation-20240216093733301) |
@@ -202,7 +204,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [cesar-rodrigues](./participantes/cesar-rodrigues) | [docker-compose.logs](./participantes/cesar-rodrigues/docker-compose.logs) |
 | [danilosilva](./participantes/danilosilva) | [docker-compose.logs](./participantes/danilosilva/docker-compose.logs) |
 | [doceazedo](./participantes/doceazedo) | [docker-compose.logs](./participantes/doceazedo/docker-compose.logs) |
-| [dsinmsdj](./participantes/dsinmsdj) | [docker-compose.logs](./participantes/dsinmsdj/docker-compose.logs) |
 | [edimarlnx](./participantes/edimarlnx) | [docker-compose.logs](./participantes/edimarlnx/docker-compose.logs) |
 | [edubarbieri](./participantes/edubarbieri) | [docker-compose.logs](./participantes/edubarbieri/docker-compose.logs) |
 | [eigr](./participantes/eigr) | [docker-compose.logs](./participantes/eigr/docker-compose.logs) |
@@ -213,7 +214,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [fielcapao](./participantes/fielcapao) | [docker-compose.logs](./participantes/fielcapao/docker-compose.logs) |
 | [fraidev](./participantes/fraidev) | [docker-compose.logs](./participantes/fraidev/docker-compose.logs) |
 | [geraldojrcg-elixir](./participantes/geraldojrcg-elixir) | [docker-compose.logs](./participantes/geraldojrcg-elixir/docker-compose.logs) |
-| [gldmelo](./participantes/gldmelo) | [docker-compose.logs](./participantes/gldmelo/docker-compose.logs) |
 | [jhonnyboy](./participantes/jhonnyboy) | [docker-compose.logs](./participantes/jhonnyboy/docker-compose.logs) |
 | [joaopmerlin](./participantes/joaopmerlin) | [docker-compose.logs](./participantes/joaopmerlin/docker-compose.logs) |
 | [jpcairesf-java](./participantes/jpcairesf-java) | [docker-compose.logs](./participantes/jpcairesf-java/docker-compose.logs) |
