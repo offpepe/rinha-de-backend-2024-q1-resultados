@@ -58,7 +58,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [cadu](./participantes/cadu) | USD 97990.0 | USD 0.0 | USD 97990.0 | **USD 2010.0** | [link](resultados/cadu/rinhabackendcrebitossimulation-20240217054852399) |
 | [caique](./participantes/caique) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/caique/rinhabackendcrebitossimulation-20240216052604897) |
 | [cairocampos98](./participantes/cairocampos98) | USD 15650.0 | USD 0.0 | USD 15650.0 | **USD 84350.0** | [link](resultados/cairocampos98/rinhabackendcrebitossimulation-20240216053031053) |
-| [carls-rodrigues](./participantes/carls-rodrigues) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carls-rodrigues/rinhabackendcrebitossimulation-20240216204636846) |
+| [carls-rodrigues](./participantes/carls-rodrigues) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carls-rodrigues/rinhabackendcrebitossimulation-20240217195945449) |
 | [cassiano-manuelzinho-golang](./participantes/cassiano-manuelzinho-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cassiano-manuelzinho-golang/rinhabackendcrebitossimulation-20240216054048493) |
 | [claudio-silva](./participantes/claudio-silva) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/claudio-silva/rinhabackendcrebitossimulation-20240216054609046) |
 | [cleitinif](./participantes/cleitinif) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cleitinif/rinhabackendcrebitossimulation-20240216055036760) |
