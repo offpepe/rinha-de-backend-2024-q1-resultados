@@ -160,6 +160,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [murilochianfa](./participantes/murilochianfa) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/murilochianfa/rinhabackendcrebitossimulation-20240216125307734) |
 | [mvellasco](./participantes/mvellasco) | USD 73070.0 | USD 0.0 | USD 73070.0 | **USD 26930.0** | [link](resultados/mvellasco/rinhabackendcrebitossimulation-20240216125808463) |
 | [my_way](./participantes/my_way) | USD 41480.0 | USD 0.0 | USD 41480.0 | **USD 58520.0** | [link](resultados/my_way/rinhabackendcrebitossimulation-20240216173458380) |
+| [newton](./participantes/newton) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/newton/rinhabackendcrebitossimulation-20240217190840214) |
 | [nicolasmmb](./participantes/nicolasmmb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nicolasmmb/rinhabackendcrebitossimulation-20240216130514324) |
 | [nielsonrolim-ror](./participantes/nielsonrolim-ror) | USD 96500.0 | USD 0.0 | USD 96500.0 | **USD 3500.0** | [link](resultados/nielsonrolim-ror/rinhabackendcrebitossimulation-20240216131000980) |
 | [oloko64](./participantes/oloko64) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/oloko64/rinhabackendcrebitossimulation-20240216131529169) |
@@ -229,7 +230,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [macgarcia](./participantes/macgarcia) | [docker-compose.logs](./participantes/macgarcia/docker-compose.logs) |
 | [mari-souza](./participantes/mari-souza) | [docker-compose.logs](./participantes/mari-souza/docker-compose.logs) |
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | [docker-compose.logs](./participantes/met4tron-nodejs/docker-compose.logs) |
-| [newton](./participantes/newton) | [docker-compose.logs](./participantes/newton/docker-compose.logs) |
 | [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
 | [reonardoleis](./participantes/reonardoleis) | [docker-compose.logs](./participantes/reonardoleis/docker-compose.logs) |
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
