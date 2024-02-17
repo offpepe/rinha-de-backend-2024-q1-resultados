@@ -2,7 +2,6 @@
 
 # Não use este script para executar seus testes locais, suba sua API
 # na porta 9999 ou docker-compose e use `executar-teste-local.sh`
-# x
 
 RESULTS_WORKSPACE=$(pwd)/resultados
 GATLING_BIN_DIR=$HOME/gatling/bin
