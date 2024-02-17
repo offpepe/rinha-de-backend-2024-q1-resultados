@@ -188,7 +188,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [victor-macedo](./participantes/victor-macedo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/victor-macedo/rinhabackendcrebitossimulation-20240216145646759) |
 | [victor-marcolino](./participantes/victor-marcolino) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/victor-marcolino/rinhabackendcrebitossimulation-20240217161246861) |
 | [victor99z](./participantes/victor99z) | USD 1690.0 | USD 69054.04 | USD 70744.04 | **USD 29255.96** | [link](resultados/victor99z/rinhabackendcrebitossimulation-20240216150540286) |
-| [victorverdoodt](./participantes/victorverdoodt) | USD 89220.0 | USD 0.0 | USD 89220.0 | **USD 10780.0** | [link](resultados/victorverdoodt/rinhabackendcrebitossimulation-20240217182910403) |
+| [victorverdoodt](./participantes/victorverdoodt) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/victorverdoodt/rinhabackendcrebitossimulation-20240217185721418) |
 | [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240217033922675) |
 | [vitorrt-nodejs](./participantes/vitorrt-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorrt-nodejs/rinhabackendcrebitossimulation-20240216151550607) |
 | [vkobinski](./participantes/vkobinski) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vkobinski/rinhabackendcrebitossimulation-20240216152037475) |
