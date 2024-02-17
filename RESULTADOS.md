@@ -33,7 +33,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [acerola](./participantes/acerola) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/acerola/rinhabackendcrebitossimulation-20240216034340533) |
 | [agostinho](./participantes/agostinho) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/agostinho/rinhabackendcrebitossimulation-20240216034833054) |
 | [agpsl](./participantes/agpsl) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/agpsl/rinhabackendcrebitossimulation-20240216035308621) |
-| [alissonsleal](./participantes/alissonsleal) | USD 61550.0 | USD 0.0 | USD 61550.0 | **USD 38450.0** | [link](resultados/alissonsleal/rinhabackendcrebitossimulation-20240217072542961) |
+| [alissonsleal](./participantes/alissonsleal) | USD 62030.0 | USD 0.0 | USD 62030.0 | **USD 37970.0** | [link](resultados/alissonsleal/rinhabackendcrebitossimulation-20240217181505933) |
 | [alissonsleal_go](./participantes/alissonsleal_go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/alissonsleal_go/rinhabackendcrebitossimulation-20240217064703672) |
 | [andrepraeiro](./participantes/andrepraeiro) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/andrepraeiro/rinhabackendcrebitossimulation-20240216224102383) |
 | [antoniogdelrio](./participantes/antoniogdelrio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/antoniogdelrio/rinhabackendcrebitossimulation-20240217033435337) |
@@ -67,7 +67,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [deno-cassiogangrel](./participantes/deno-cassiogangrel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/deno-cassiogangrel/rinhabackendcrebitossimulation-20240216060538246) |
 | [devkemc-node](./participantes/devkemc-node) | USD 59900.0 | USD 103581.06 | USD 163481.06 | **USD 0.0** | [link](resultados/devkemc-node/rinhabackendcrebitossimulation-20240216061011075) |
 | [diego-coronel](./participantes/diego-coronel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/diego-coronel/rinhabackendcrebitossimulation-20240216061527705) |
-| [diegoalexandrooliveira](./participantes/diegoalexandrooliveira) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/diegoalexandrooliveira/rinhabackendcrebitossimulation-20240216061957982) |
+| [diegoalexandrooliveira](./participantes/diegoalexandrooliveira) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/diegoalexandrooliveira/rinhabackendcrebitossimulation-20240217181951314) |
 | [direisc](./participantes/direisc) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/direisc/rinhabackendcrebitossimulation-20240216062447301) |
 | [dowingows-phalcon-php](./participantes/dowingows-phalcon-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dowingows-phalcon-php/rinhabackendcrebitossimulation-20240216063025114) |
 | [dreamagici4n](./participantes/dreamagici4n) | USD 33700.0 | USD 74543836.18 | USD 74577536.18 | **USD 0.0** | [link](resultados/dreamagici4n/rinhabackendcrebitossimulation-20240216063505229) |
@@ -152,6 +152,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [marincor](./participantes/marincor) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/marincor/rinhabackendcrebitossimulation-20240216122154228) |
 | [mateus4k](./participantes/mateus4k) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/mateus4k/rinhabackendcrebitossimulation-20240216122626047) |
 | [mateuscolvr](./participantes/mateuscolvr) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mateuscolvr/rinhabackendcrebitossimulation-20240216123051050) |
+| [mateusdeitos-node](./participantes/mateusdeitos-node) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mateusdeitos-node/rinhabackendcrebitossimulation-20240217182428878) |
 | [matheuslao](./participantes/matheuslao) | USD 69620.0 | USD 0.0 | USD 69620.0 | **USD 30380.0** | [link](resultados/matheuslao/rinhabackendcrebitossimulation-20240216123553658) |
 | [matheusleal](./participantes/matheusleal) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheusleal/rinhabackendcrebitossimulation-20240216124028537) |
 | [maxwell](./participantes/maxwell) | USD 30410.0 | USD 34527.02 | USD 64937.02 | **USD 35062.98** | [link](resultados/maxwell/rinhabackendcrebitossimulation-20240216124513852) |
@@ -185,7 +186,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [victor-macedo](./participantes/victor-macedo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/victor-macedo/rinhabackendcrebitossimulation-20240216145646759) |
 | [victor-marcolino](./participantes/victor-marcolino) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/victor-marcolino/rinhabackendcrebitossimulation-20240217161246861) |
 | [victor99z](./participantes/victor99z) | USD 1690.0 | USD 69054.04 | USD 70744.04 | **USD 29255.96** | [link](resultados/victor99z/rinhabackendcrebitossimulation-20240216150540286) |
-| [victorverdoodt](./participantes/victorverdoodt) | USD 45520.0 | USD 103581.06 | USD 149101.06 | **USD 0.0** | [link](resultados/victorverdoodt/rinhabackendcrebitossimulation-20240217030512329) |
+| [victorverdoodt](./participantes/victorverdoodt) | USD 89220.0 | USD 0.0 | USD 89220.0 | **USD 10780.0** | [link](resultados/victorverdoodt/rinhabackendcrebitossimulation-20240217182910403) |
 | [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240217033922675) |
 | [vitorrt-nodejs](./participantes/vitorrt-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorrt-nodejs/rinhabackendcrebitossimulation-20240216151550607) |
 | [vkobinski](./participantes/vkobinski) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vkobinski/rinhabackendcrebitossimulation-20240216152037475) |
