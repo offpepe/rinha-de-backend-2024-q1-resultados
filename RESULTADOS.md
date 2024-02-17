@@ -94,10 +94,10 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [geffersonFerraz-http2](./participantes/geffersonFerraz-http2) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/geffersonFerraz-http2/rinhabackendcrebitossimulation-20240216075625167) |
 | [geffersonFerraz-http3](./participantes/geffersonFerraz-http3) | USD 0.0 | USD 34527.02 | USD 34527.02 | **USD 65472.98** | [link](resultados/geffersonFerraz-http3/rinhabackendcrebitossimulation-20240216080054322) |
 | [gilmardealcantara](./participantes/gilmardealcantara) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/gilmardealcantara/rinhabackendcrebitossimulation-20240216080757313) |
-| [giovannibassi-nonpooled](./participantes/giovannibassi-nonpooled) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-nonpooled/rinhabackendcrebitossimulation-20240216081225493) |
-| [giovannibassi-rust](./participantes/giovannibassi-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-rust/rinhabackendcrebitossimulation-20240216081653170) |
-| [giovannibassi-vb](./participantes/giovannibassi-vb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-vb/rinhabackendcrebitossimulation-20240216082134454) |
-| [giovannibassi](./participantes/giovannibassi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi/rinhabackendcrebitossimulation-20240216082611521) |
+| [giovannibassi-nonpooled](./participantes/giovannibassi-nonpooled) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-nonpooled/rinhabackendcrebitossimulation-20240217201939375) |
+| [giovannibassi-rust](./participantes/giovannibassi-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-rust/rinhabackendcrebitossimulation-20240217202401647) |
+| [giovannibassi-vb](./participantes/giovannibassi-vb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-vb/rinhabackendcrebitossimulation-20240217202835946) |
+| [giovannibassi](./participantes/giovannibassi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi/rinhabackendcrebitossimulation-20240217203309950) |
 | [gldmelo](./participantes/gldmelo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gldmelo/rinhabackendcrebitossimulation-20240217070928324) |
 | [gmrms](./participantes/gmrms) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gmrms/rinhabackendcrebitossimulation-20240216083656105) |
 | [guilherme-dotnet8](./participantes/guilherme-dotnet8) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/guilherme-dotnet8/rinhabackendcrebitossimulation-20240217055422489) |
