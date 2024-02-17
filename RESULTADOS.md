@@ -51,6 +51,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [boaglio](./participantes/boaglio) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/boaglio/rinhabackendcrebitossimulation-20240216045951828) |
 | [breno5g](./participantes/breno5g) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/breno5g/rinhabackendcrebitossimulation-20240216050502666) |
 | [brilvio](./participantes/brilvio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/brilvio/rinhabackendcrebitossimulation-20240216050941287) |
+| [buemura-nestjs](./participantes/buemura-nestjs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/buemura-nestjs/rinhabackendcrebitossimulation-20240217165147575) |
 | [buemura](./participantes/buemura) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/buemura/rinhabackendcrebitossimulation-20240216051416422) |
 | [bun-saulofelipe](./participantes/bun-saulofelipe) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/bun-saulofelipe/rinhabackendcrebitossimulation-20240216051840093) |
 | [cadu](./participantes/cadu) | USD 97990.0 | USD 0.0 | USD 97990.0 | **USD 2010.0** | [link](resultados/cadu/rinhabackendcrebitossimulation-20240217054852399) |
