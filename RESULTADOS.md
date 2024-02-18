@@ -142,6 +142,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [kiro-tagama](./participantes/kiro-tagama) | USD 66560.0 | USD 103581.06 | USD 170141.06 | **USD 0.0** | [link](resultados/kiro-tagama/rinhabackendcrebitossimulation-20240216104956497) |
 | [klimber](./participantes/klimber) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/klimber/rinhabackendcrebitossimulation-20240218151832597) |
 | [lazaronixon](./participantes/lazaronixon) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lazaronixon/rinhabackendcrebitossimulation-20240216105520008) |
+| [lbaesso-php](./participantes/lbaesso-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lbaesso-php/rinhabackendcrebitossimulation-20240218183643565) |
 | [leandro-sousa](./participantes/leandro-sousa) | USD 91010.0 | USD 0.0 | USD 91010.0 | **USD 8990.0** | [link](resultados/leandro-sousa/rinhabackendcrebitossimulation-20240217221013460) |
 | [leoralph](./participantes/leoralph) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leoralph/rinhabackendcrebitossimulation-20240216110504532) |
 | [lmtani](./participantes/lmtani) | USD 0.0 | USD 276216.16 | USD 276216.16 | **USD 0.0** | [link](resultados/lmtani/rinhabackendcrebitossimulation-20240216110929264) |
