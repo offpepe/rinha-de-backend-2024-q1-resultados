@@ -35,6 +35,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [agpsl](./participantes/agpsl) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/agpsl/rinhabackendcrebitossimulation-20240216035308621) |
 | [alissonsleal](./participantes/alissonsleal) | USD 69810.0 | USD 0.0 | USD 69810.0 | **USD 30190.0** | [link](resultados/alissonsleal/rinhabackendcrebitossimulation-20240217212815283) |
 | [alissonsleal_go](./participantes/alissonsleal_go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/alissonsleal_go/rinhabackendcrebitossimulation-20240217064703672) |
+| [anderkonzen](./participantes/anderkonzen) | USD 78400.0 | USD 0.0 | USD 78400.0 | **USD 21600.0** | [link](resultados/anderkonzen/rinhabackendcrebitossimulation-20240218073348572) |
 | [andrepraeiro](./participantes/andrepraeiro) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/andrepraeiro/rinhabackendcrebitossimulation-20240216224102383) |
 | [andresantos-tech-PHP](./participantes/andresantos-tech-PHP) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/andresantos-tech-PHP/rinhabackendcrebitossimulation-20240217194157297) |
 | [antoniogdelrio](./participantes/antoniogdelrio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/antoniogdelrio/rinhabackendcrebitossimulation-20240217033435337) |
