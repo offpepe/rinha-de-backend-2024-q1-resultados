@@ -77,6 +77,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [direisc](./participantes/direisc) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/direisc/rinhabackendcrebitossimulation-20240216062447301) |
 | [dowingows-phalcon-php](./participantes/dowingows-phalcon-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dowingows-phalcon-php/rinhabackendcrebitossimulation-20240216063025114) |
 | [dreamagici4n](./participantes/dreamagici4n) | USD 33700.0 | USD 74543836.18 | USD 74577536.18 | **USD 0.0** | [link](resultados/dreamagici4n/rinhabackendcrebitossimulation-20240216063505229) |
+| [droderuan](./participantes/droderuan) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/droderuan/rinhabackendcrebitossimulation-20240218155634623) |
 | [dscamargo](./participantes/dscamargo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dscamargo/rinhabackendcrebitossimulation-20240216063943599) |
 | [dsinmsdj](./participantes/dsinmsdj) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dsinmsdj/rinhabackendcrebitossimulation-20240217070503547) |
 | [elioenaiferrari-rust](./participantes/elioenaiferrari-rust) | USD 32080.0 | USD 722408839.46 | USD 722440919.46 | **USD 0.0** | [link](resultados/elioenaiferrari-rust/rinhabackendcrebitossimulation-20240218014910907) |
@@ -229,7 +230,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [cesar-rodrigues](./participantes/cesar-rodrigues) | [docker-compose.logs](./participantes/cesar-rodrigues/docker-compose.logs) |
 | [danilosilva](./participantes/danilosilva) | [docker-compose.logs](./participantes/danilosilva/docker-compose.logs) |
 | [doceazedo](./participantes/doceazedo) | [docker-compose.logs](./participantes/doceazedo/docker-compose.logs) |
-| [droderuan](./participantes/droderuan) | [docker-compose.logs](./participantes/droderuan/docker-compose.logs) |
 | [edimarlnx](./participantes/edimarlnx) | [docker-compose.logs](./participantes/edimarlnx/docker-compose.logs) |
 | [edubarbieri](./participantes/edubarbieri) | [docker-compose.logs](./participantes/edubarbieri/docker-compose.logs) |
 | [eigr](./participantes/eigr) | [docker-compose.logs](./participantes/eigr/docker-compose.logs) |
