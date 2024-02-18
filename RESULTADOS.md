@@ -124,7 +124,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [itujo](./participantes/itujo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/itujo/rinhabackendcrebitossimulation-20240216095122702) |
 | [java-cassiogangrel](./participantes/java-cassiogangrel) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/java-cassiogangrel/rinhabackendcrebitossimulation-20240216095601499) |
 | [jhonnyboy](./participantes/jhonnyboy) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jhonnyboy/rinhabackendcrebitossimulation-20240217073838827) |
-| [jjeanjacques10](./participantes/jjeanjacques10) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jjeanjacques10/rinhabackendcrebitossimulation-20240216100144558) |
+| [jjeanjacques10](./participantes/jjeanjacques10) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jjeanjacques10/rinhabackendcrebitossimulation-20240218024120938) |
 | [jojodev](./participantes/jojodev) | USD 95860.0 | USD 103581.06 | USD 199441.06 | **USD 0.0** | [link](resultados/jojodev/rinhabackendcrebitossimulation-20240216100627307) |
 | [jonattas_bunjs](./participantes/jonattas_bunjs) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/jonattas_bunjs/rinhabackendcrebitossimulation-20240216101052603) |
 | [josebaroni-postgrest](./participantes/josebaroni-postgrest) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/josebaroni-postgrest/rinhabackendcrebitossimulation-20240216101528491) |
@@ -173,6 +173,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [olukkas](./participantes/olukkas) | USD 35270.0 | USD 103581.06 | USD 138851.06 | **USD 0.0** | [link](resultados/olukkas/rinhabackendcrebitossimulation-20240216132012653) |
 | [omurilo](./participantes/omurilo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/omurilo/rinhabackendcrebitossimulation-20240216132454787) |
 | [paulohenriqu](./participantes/paulohenriqu) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/paulohenriqu/rinhabackendcrebitossimulation-20240216132921094) |
+| [ptrecenti](./participantes/ptrecenti) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ptrecenti/rinhabackendcrebitossimulation-20240218024550735) |
 | [rafaelpadovezi](./participantes/rafaelpadovezi) | USD 63580.0 | USD 0.0 | USD 63580.0 | **USD 36420.0** | [link](resultados/rafaelpadovezi/rinhabackendcrebitossimulation-20240216133354435) |
 | [ramondelemos](./participantes/ramondelemos) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramondelemos/rinhabackendcrebitossimulation-20240216133839937) |
 | [rdenadai_python](./participantes/rdenadai_python) | USD 0.0 | USD 69054.04 | USD 69054.04 | **USD 30945.96** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240216134321123) |
