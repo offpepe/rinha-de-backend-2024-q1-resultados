@@ -139,6 +139,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [kalelMartinho_fastapi](./participantes/kalelMartinho_fastapi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/kalelMartinho_fastapi/rinhabackendcrebitossimulation-20240216104039425) |
 | [kauan-calasans](./participantes/kauan-calasans) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/kauan-calasans/rinhabackendcrebitossimulation-20240216104524979) |
 | [kiro-tagama](./participantes/kiro-tagama) | USD 66560.0 | USD 103581.06 | USD 170141.06 | **USD 0.0** | [link](resultados/kiro-tagama/rinhabackendcrebitossimulation-20240216104956497) |
+| [klimber](./participantes/klimber) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/klimber/rinhabackendcrebitossimulation-20240218151832597) |
 | [lazaronixon](./participantes/lazaronixon) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lazaronixon/rinhabackendcrebitossimulation-20240216105520008) |
 | [leandro-sousa](./participantes/leandro-sousa) | USD 91010.0 | USD 0.0 | USD 91010.0 | **USD 8990.0** | [link](resultados/leandro-sousa/rinhabackendcrebitossimulation-20240217221013460) |
 | [leoralph](./participantes/leoralph) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leoralph/rinhabackendcrebitossimulation-20240216110504532) |
