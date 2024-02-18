@@ -99,6 +99,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [gasparbarancelli](./participantes/gasparbarancelli) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gasparbarancelli/rinhabackendcrebitossimulation-20240216074718992) |
 | [gavageovanni](./participantes/gavageovanni) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gavageovanni/rinhabackendcrebitossimulation-20240216075146515) |
 | [gbfonseca](./participantes/gbfonseca) | USD 0.0 | USD 69054.04 | USD 69054.04 | **USD 30945.96** | [link](resultados/gbfonseca/rinhabackendcrebitossimulation-20240217025923370) |
+| [gcrispino](./participantes/gcrispino) | USD 14400.0 | USD 0.0 | USD 14400.0 | **USD 85600.0** | [link](resultados/gcrispino/rinhabackendcrebitossimulation-20240218184803512) |
 | [geffersonFerraz-http2](./participantes/geffersonFerraz-http2) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/geffersonFerraz-http2/rinhabackendcrebitossimulation-20240216075625167) |
 | [geffersonFerraz-http3](./participantes/geffersonFerraz-http3) | USD 0.0 | USD 34527.02 | USD 34527.02 | **USD 65472.98** | [link](resultados/geffersonFerraz-http3/rinhabackendcrebitossimulation-20240216080054322) |
 | [gilmardealcantara](./participantes/gilmardealcantara) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/gilmardealcantara/rinhabackendcrebitossimulation-20240216080757313) |
@@ -243,7 +244,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [elixiremfoco](./participantes/elixiremfoco) | [docker-compose.logs](./participantes/elixiremfoco/docker-compose.logs) |
 | [fielcapao](./participantes/fielcapao) | [docker-compose.logs](./participantes/fielcapao/docker-compose.logs) |
 | [fraidev](./participantes/fraidev) | [docker-compose.logs](./participantes/fraidev/docker-compose.logs) |
-| [gcrispino](./participantes/gcrispino) | [docker-compose.logs](./participantes/gcrispino/docker-compose.logs) |
 | [geraldojrcg-elixir](./participantes/geraldojrcg-elixir) | [docker-compose.logs](./participantes/geraldojrcg-elixir/docker-compose.logs) |
 | [gfds-micronaut](./participantes/gfds-micronaut) | [docker-compose.logs](./participantes/gfds-micronaut/docker-compose.logs) |
 | [joaopmerlin](./participantes/joaopmerlin) | [docker-compose.logs](./participantes/joaopmerlin/docker-compose.logs) |
