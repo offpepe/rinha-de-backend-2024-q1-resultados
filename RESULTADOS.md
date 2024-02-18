@@ -174,6 +174,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [rdenadai_python](./participantes/rdenadai_python) | USD 0.0 | USD 69054.04 | USD 69054.04 | **USD 30945.96** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240216134321123) |
 | [rdenadai_rust](./participantes/rdenadai_rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rdenadai_rust/rinhabackendcrebitossimulation-20240216134845689) |
 | [recoba](./participantes/recoba) | USD 28530.0 | USD 0.0 | USD 28530.0 | **USD 71470.0** | [link](resultados/recoba/rinhabackendcrebitossimulation-20240216135317080) |
+| [reonardoleis](./participantes/reonardoleis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/reonardoleis/rinhabackendcrebitossimulation-20240218000908127) |
 | [rhsobr-bun](./participantes/rhsobr-bun) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rhsobr-bun/rinhabackendcrebitossimulation-20240216135900226) |
 | [rigottig](./participantes/rigottig) | USD 0.0 | USD 69054.04 | USD 69054.04 | **USD 30945.96** | [link](resultados/rigottig/rinhabackendcrebitossimulation-20240216140338319) |
 | [ritilopes](./participantes/ritilopes) | USD 21040.0 | USD 0.0 | USD 21040.0 | **USD 78960.0** | [link](resultados/ritilopes/rinhabackendcrebitossimulation-20240217021726844) |
@@ -237,7 +238,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [mari-souza](./participantes/mari-souza) | [docker-compose.logs](./participantes/mari-souza/docker-compose.logs) |
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | [docker-compose.logs](./participantes/met4tron-nodejs/docker-compose.logs) |
 | [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
-| [reonardoleis](./participantes/reonardoleis) | [docker-compose.logs](./participantes/reonardoleis/docker-compose.logs) |
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
 | [ruhtar](./participantes/ruhtar) | [docker-compose.logs](./participantes/ruhtar/docker-compose.logs) |
 | [whyakari](./participantes/whyakari) | [docker-compose.logs](./participantes/whyakari/docker-compose.logs) |
