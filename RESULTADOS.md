@@ -86,7 +86,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [fabiokleis](./participantes/fabiokleis) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/fabiokleis/rinhabackendcrebitossimulation-20240216070734301) |
 | [fabionaspolini-sync](./participantes/fabionaspolini-sync) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/fabionaspolini-sync/rinhabackendcrebitossimulation-20240216213223893) |
 | [fabionaspolini](./participantes/fabionaspolini) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/fabionaspolini/rinhabackendcrebitossimulation-20240216213649868) |
-| [felipe-alcantara-actor-model](./participantes/felipe-alcantara-actor-model) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipe-alcantara-actor-model/rinhabackendcrebitossimulation-20240216071200117) |
+| [felipe-alcantara-actor-model](./participantes/felipe-alcantara-actor-model) | USD 97490.0 | USD 0.0 | USD 97490.0 | **USD 2510.0** | [link](resultados/felipe-alcantara-actor-model/rinhabackendcrebitossimulation-20240218063038558) |
 | [felipebossolani-dotnet](./participantes/felipebossolani-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipebossolani-dotnet/rinhabackendcrebitossimulation-20240218022503320) |
 | [felipemarkson](./participantes/felipemarkson) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipemarkson/rinhabackendcrebitossimulation-20240217232217700) |
 | [filipemacedo](./participantes/filipemacedo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/filipemacedo/rinhabackendcrebitossimulation-20240216072300163) |
