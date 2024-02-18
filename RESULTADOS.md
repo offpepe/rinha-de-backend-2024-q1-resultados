@@ -223,6 +223,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [yanpgabriel](./participantes/yanpgabriel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/yanpgabriel/rinhabackendcrebitossimulation-20240218154456435) |
 | [yanpitangui](./participantes/yanpitangui) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/yanpitangui/rinhabackendcrebitossimulation-20240217022752750) |
 | [ygorcarmo](./participantes/ygorcarmo) | USD 97990.0 | USD 34527.02 | USD 132517.02 | **USD 0.0** | [link](resultados/ygorcarmo/rinhabackendcrebitossimulation-20240216154001697) |
+| [zan-dotnet](./participantes/zan-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zan-dotnet/rinhabackendcrebitossimulation-20240218192052830) |
 | [zsantana](./participantes/zsantana) | USD 53360.0 | USD 0.0 | USD 53360.0 | **USD 46640.0** | [link](resultados/zsantana/rinhabackendcrebitossimulation-20240216154434646) |
  
 #### Participantes Sem Execução/Relatório
