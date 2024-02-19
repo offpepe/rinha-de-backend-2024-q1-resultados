@@ -178,7 +178,52 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [maxwell](./participantes/maxwell) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/maxwell/rinhabackendcrebitossimulation-20240219122001339) |
 | [mvellasco](./participantes/mvellasco) | USD 38090.0 | USD 0.0 | USD 38090.0 | **USD 61910.0** | [link](resultados/mvellasco/rinhabackendcrebitossimulation-20240219122955939) |
 | [my_way](./participantes/my_way) | USD 61420.0 | USD 0.0 | USD 61420.0 | **USD 38580.0** | [link](resultados/my_way/rinhabackendcrebitossimulation-20240219123424382) |
-| [newton](./participantes/newton) | USD 4210.0 | USD 0.0 | USD 4210.0 | **USD 95790.0** | [link](resultados/newton/rinhabackendcrebitossimulation-20240219123913555) |
+| [newton](./participantes/newton) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/newton/rinhabackendcrebitossimulation-20240219143421540) |
+| [nicolasmmb](./participantes/nicolasmmb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nicolasmmb/rinhabackendcrebitossimulation-20240219143858920) |
+| [nielsonrolim-ror](./participantes/nielsonrolim-ror) | USD 97890.0 | USD 0.0 | USD 97890.0 | **USD 2110.0** | [link](resultados/nielsonrolim-ror/rinhabackendcrebitossimulation-20240219144359321) |
+| [oloko64](./participantes/oloko64) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/oloko64/rinhabackendcrebitossimulation-20240219145126999) |
+| [olukkas](./participantes/olukkas) | USD 35630.0 | USD 103581.06 | USD 139211.06 | **USD 0.0** | [link](resultados/olukkas/rinhabackendcrebitossimulation-20240219145609523) |
+| [omurilo](./participantes/omurilo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/omurilo/rinhabackendcrebitossimulation-20240219150050064) |
+| [paulohenriqu](./participantes/paulohenriqu) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/paulohenriqu/rinhabackendcrebitossimulation-20240219150516982) |
+| [picklesdog-go](./participantes/picklesdog-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/picklesdog-go/rinhabackendcrebitossimulation-20240219150943069) |
+| [ptrecenti](./participantes/ptrecenti) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ptrecenti/rinhabackendcrebitossimulation-20240219151412886) |
+| [quokka](./participantes/quokka) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/quokka/rinhabackendcrebitossimulation-20240219151852376) |
+| [rafaelleoni](./participantes/rafaelleoni) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/rafaelleoni/rinhabackendcrebitossimulation-20240219152348141) |
+| [rafaelpadovezi](./participantes/rafaelpadovezi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rafaelpadovezi/rinhabackendcrebitossimulation-20240219152816136) |
+| [ramondelemos](./participantes/ramondelemos) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramondelemos/rinhabackendcrebitossimulation-20240219153259073) |
+| [rdenadai_bun_sqlite](./participantes/rdenadai_bun_sqlite) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rdenadai_bun_sqlite/rinhabackendcrebitossimulation-20240219153729722) |
+| [rdenadai_python](./participantes/rdenadai_python) | USD 0.0 | USD 69054.04 | USD 69054.04 | **USD 30945.96** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240219154228695) |
+| [rdenadai_rust](./participantes/rdenadai_rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rdenadai_rust/rinhabackendcrebitossimulation-20240219154748448) |
+| [recoba](./participantes/recoba) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/recoba/rinhabackendcrebitossimulation-20240219155228664) |
+| [reonardoleis](./participantes/reonardoleis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/reonardoleis/rinhabackendcrebitossimulation-20240219155713594) |
+| [rhsobr-bun](./participantes/rhsobr-bun) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rhsobr-bun/rinhabackendcrebitossimulation-20240219160147509) |
+| [rigottig](./participantes/rigottig) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/rigottig/rinhabackendcrebitossimulation-20240219160624256) |
+| [ritilopes](./participantes/ritilopes) | USD 78720.0 | USD 0.0 | USD 78720.0 | **USD 21280.0** | [link](resultados/ritilopes/rinhabackendcrebitossimulation-20240219161113759) |
+| [rodolphovs](./participantes/rodolphovs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rodolphovs/rinhabackendcrebitossimulation-20240219161800320) |
+| [rodrigocaldeira-c](./participantes/rodrigocaldeira-c) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/rodrigocaldeira-c/rinhabackendcrebitossimulation-20240219162256216) |
+| [rodrigocaldeira](./participantes/rodrigocaldeira) | USD 520.0 | USD 0.0 | USD 520.0 | **USD 99480.0** | [link](resultados/rodrigocaldeira/rinhabackendcrebitossimulation-20240219162736210) |
+| [ronaldo_scardini](./participantes/ronaldo_scardini) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ronaldo_scardini/rinhabackendcrebitossimulation-20240219163211981) |
+| [rschio](./participantes/rschio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rschio/rinhabackendcrebitossimulation-20240219163637173) |
+| [samluiz](./participantes/samluiz) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/samluiz/rinhabackendcrebitossimulation-20240219164213050) |
+| [samueljansem](./participantes/samueljansem) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/samueljansem/rinhabackendcrebitossimulation-20240219164644554) |
+| [taciossbr](./participantes/taciossbr) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/taciossbr/rinhabackendcrebitossimulation-20240219165204064) |
+| [thiagosantana](./participantes/thiagosantana) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/thiagosantana/rinhabackendcrebitossimulation-20240219165702382) |
+| [thicsilva](./participantes/thicsilva) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thicsilva/rinhabackendcrebitossimulation-20240219170139879) |
+| [thusspokebieu-activej](./participantes/thusspokebieu-activej) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thusspokebieu-activej/rinhabackendcrebitossimulation-20240219170625747) |
+| [vhogemann](./participantes/vhogemann) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vhogemann/rinhabackendcrebitossimulation-20240219171052496) |
+| [victor-macedo](./participantes/victor-macedo) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/victor-macedo/rinhabackendcrebitossimulation-20240219171528381) |
+| [victor-marcolino](./participantes/victor-marcolino) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/victor-marcolino/rinhabackendcrebitossimulation-20240219171953865) |
+| [victor99z](./participantes/victor99z) | USD 2600.0 | USD 690540.4 | USD 693140.4 | **USD 0.0** | [link](resultados/victor99z/rinhabackendcrebitossimulation-20240219172422247) |
+| [victorverdoodt](./participantes/victorverdoodt) | USD 91350.0 | USD 0.0 | USD 91350.0 | **USD 8650.0** | [link](resultados/victorverdoodt/rinhabackendcrebitossimulation-20240219172849982) |
+| [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240219173325909) |
+| [vitorrt-nodejs](./participantes/vitorrt-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorrt-nodejs/rinhabackendcrebitossimulation-20240219173812107) |
+| [vkobinski](./participantes/vkobinski) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vkobinski/rinhabackendcrebitossimulation-20240219174300238) |
+| [williammaia](./participantes/williammaia) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/williammaia/rinhabackendcrebitossimulation-20240219174847084) |
+| [williansugiyama](./participantes/williansugiyama) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/williansugiyama/rinhabackendcrebitossimulation-20240219175321018) |
+| [yMarceloMaia](./participantes/yMarceloMaia) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/yMarceloMaia/rinhabackendcrebitossimulation-20240219175821355) |
+| [yanpgabriel](./participantes/yanpgabriel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/yanpgabriel/rinhabackendcrebitossimulation-20240219180304064) |
+| [yanpitangui](./participantes/yanpitangui) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/yanpitangui/rinhabackendcrebitossimulation-20240219180745344) |
+| [ygorcarmo](./participantes/ygorcarmo) | USD 97990.0 | USD 34527.02 | USD 132517.02 | **USD 0.0** | [link](resultados/ygorcarmo/rinhabackendcrebitossimulation-20240219181223636) |
 | [zan-dotnet](./participantes/zan-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zan-dotnet/rinhabackendcrebitossimulation-20240219141859474) |
 | [zsantana](./participantes/zsantana) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zsantana/rinhabackendcrebitossimulation-20240219142349714) |
  
@@ -215,54 +260,9 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [mari-souza](./participantes/mari-souza) | [docker-compose.logs](./participantes/mari-souza/docker-compose.logs) |
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | [docker-compose.logs](./participantes/met4tron-nodejs/docker-compose.logs) |
 | [murilochianfa](./participantes/murilochianfa) | [docker-compose.logs](./participantes/murilochianfa/docker-compose.logs) |
-| [nicolasmmb](./participantes/nicolasmmb) | [docker-compose.logs](./participantes/nicolasmmb/docker-compose.logs) |
-| [nielsonrolim-ror](./participantes/nielsonrolim-ror) | [docker-compose.logs](./participantes/nielsonrolim-ror/docker-compose.logs) |
 | [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
 | [oliveiratheone-rust](./participantes/oliveiratheone-rust) | [docker-compose.logs](./participantes/oliveiratheone-rust/docker-compose.logs) |
-| [oloko64](./participantes/oloko64) | [docker-compose.logs](./participantes/oloko64/docker-compose.logs) |
-| [olukkas](./participantes/olukkas) | [docker-compose.logs](./participantes/olukkas/docker-compose.logs) |
-| [omurilo](./participantes/omurilo) | [docker-compose.logs](./participantes/omurilo/docker-compose.logs) |
-| [paulohenriqu](./participantes/paulohenriqu) | [docker-compose.logs](./participantes/paulohenriqu/docker-compose.logs) |
-| [picklesdog-go](./participantes/picklesdog-go) | [docker-compose.logs](./participantes/picklesdog-go/docker-compose.logs) |
-| [ptrecenti](./participantes/ptrecenti) | [docker-compose.logs](./participantes/ptrecenti/docker-compose.logs) |
-| [quokka](./participantes/quokka) | [docker-compose.logs](./participantes/quokka/docker-compose.logs) |
-| [rafaelleoni](./participantes/rafaelleoni) | [docker-compose.logs](./participantes/rafaelleoni/docker-compose.logs) |
-| [rafaelpadovezi](./participantes/rafaelpadovezi) | [docker-compose.logs](./participantes/rafaelpadovezi/docker-compose.logs) |
-| [ramondelemos](./participantes/ramondelemos) | [docker-compose.logs](./participantes/ramondelemos/docker-compose.logs) |
-| [rdenadai_bun_sqlite](./participantes/rdenadai_bun_sqlite) | [docker-compose.logs](./participantes/rdenadai_bun_sqlite/docker-compose.logs) |
-| [rdenadai_python](./participantes/rdenadai_python) | [docker-compose.logs](./participantes/rdenadai_python/docker-compose.logs) |
-| [rdenadai_rust](./participantes/rdenadai_rust) | [docker-compose.logs](./participantes/rdenadai_rust/docker-compose.logs) |
-| [recoba](./participantes/recoba) | [docker-compose.logs](./participantes/recoba/docker-compose.logs) |
-| [reonardoleis](./participantes/reonardoleis) | [docker-compose.logs](./participantes/reonardoleis/docker-compose.logs) |
-| [rhsobr-bun](./participantes/rhsobr-bun) | [docker-compose.logs](./participantes/rhsobr-bun/docker-compose.logs) |
-| [rigottig](./participantes/rigottig) | [docker-compose.logs](./participantes/rigottig/docker-compose.logs) |
-| [ritilopes](./participantes/ritilopes) | [docker-compose.logs](./participantes/ritilopes/docker-compose.logs) |
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
-| [rodolphovs](./participantes/rodolphovs) | [docker-compose.logs](./participantes/rodolphovs/docker-compose.logs) |
-| [rodrigocaldeira-c](./participantes/rodrigocaldeira-c) | [docker-compose.logs](./participantes/rodrigocaldeira-c/docker-compose.logs) |
-| [rodrigocaldeira](./participantes/rodrigocaldeira) | [docker-compose.logs](./participantes/rodrigocaldeira/docker-compose.logs) |
-| [ronaldo_scardini](./participantes/ronaldo_scardini) | [docker-compose.logs](./participantes/ronaldo_scardini/docker-compose.logs) |
-| [rschio](./participantes/rschio) | [docker-compose.logs](./participantes/rschio/docker-compose.logs) |
 | [ruhtar](./participantes/ruhtar) | [docker-compose.logs](./participantes/ruhtar/docker-compose.logs) |
-| [samluiz](./participantes/samluiz) | [docker-compose.logs](./participantes/samluiz/docker-compose.logs) |
-| [samueljansem](./participantes/samueljansem) | [docker-compose.logs](./participantes/samueljansem/docker-compose.logs) |
 | [stefannovasky](./participantes/stefannovasky) | [docker-compose.logs](./participantes/stefannovasky/docker-compose.logs) |
-| [taciossbr](./participantes/taciossbr) | [docker-compose.logs](./participantes/taciossbr/docker-compose.logs) |
-| [thiagosantana](./participantes/thiagosantana) | [docker-compose.logs](./participantes/thiagosantana/docker-compose.logs) |
-| [thicsilva](./participantes/thicsilva) | [docker-compose.logs](./participantes/thicsilva/docker-compose.logs) |
-| [thusspokebieu-activej](./participantes/thusspokebieu-activej) | [docker-compose.logs](./participantes/thusspokebieu-activej/docker-compose.logs) |
-| [vhogemann](./participantes/vhogemann) | [docker-compose.logs](./participantes/vhogemann/docker-compose.logs) |
-| [victor-macedo](./participantes/victor-macedo) | [docker-compose.logs](./participantes/victor-macedo/docker-compose.logs) |
-| [victor-marcolino](./participantes/victor-marcolino) | [docker-compose.logs](./participantes/victor-marcolino/docker-compose.logs) |
-| [victor99z](./participantes/victor99z) | [docker-compose.logs](./participantes/victor99z/docker-compose.logs) |
-| [victorverdoodt](./participantes/victorverdoodt) | [docker-compose.logs](./participantes/victorverdoodt/docker-compose.logs) |
-| [viniciusfcf](./participantes/viniciusfcf) | [docker-compose.logs](./participantes/viniciusfcf/docker-compose.logs) |
-| [vitorrt-nodejs](./participantes/vitorrt-nodejs) | [docker-compose.logs](./participantes/vitorrt-nodejs/docker-compose.logs) |
-| [vkobinski](./participantes/vkobinski) | [docker-compose.logs](./participantes/vkobinski/docker-compose.logs) |
 | [whyakari](./participantes/whyakari) | [docker-compose.logs](./participantes/whyakari/docker-compose.logs) |
-| [williammaia](./participantes/williammaia) | [docker-compose.logs](./participantes/williammaia/docker-compose.logs) |
-| [williansugiyama](./participantes/williansugiyama) | [docker-compose.logs](./participantes/williansugiyama/docker-compose.logs) |
-| [yMarceloMaia](./participantes/yMarceloMaia) | [docker-compose.logs](./participantes/yMarceloMaia/docker-compose.logs) |
-| [yanpgabriel](./participantes/yanpgabriel) | [docker-compose.logs](./participantes/yanpgabriel/docker-compose.logs) |
-| [yanpitangui](./participantes/yanpitangui) | [docker-compose.logs](./participantes/yanpitangui/docker-compose.logs) |
-| [ygorcarmo](./participantes/ygorcarmo) | [docker-compose.logs](./participantes/ygorcarmo/docker-compose.logs) |
