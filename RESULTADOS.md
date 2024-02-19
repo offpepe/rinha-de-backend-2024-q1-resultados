@@ -179,6 +179,8 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [mvellasco](./participantes/mvellasco) | USD 38090.0 | USD 0.0 | USD 38090.0 | **USD 61910.0** | [link](resultados/mvellasco/rinhabackendcrebitossimulation-20240219122955939) |
 | [my_way](./participantes/my_way) | USD 61420.0 | USD 0.0 | USD 61420.0 | **USD 38580.0** | [link](resultados/my_way/rinhabackendcrebitossimulation-20240219123424382) |
 | [newton](./participantes/newton) | USD 4210.0 | USD 0.0 | USD 4210.0 | **USD 95790.0** | [link](resultados/newton/rinhabackendcrebitossimulation-20240219123913555) |
+| [zan-dotnet](./participantes/zan-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zan-dotnet/rinhabackendcrebitossimulation-20240219141859474) |
+| [zsantana](./participantes/zsantana) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zsantana/rinhabackendcrebitossimulation-20240219142349714) |
  
 #### Participantes Sem Execução/Relatório
  
@@ -264,5 +266,3 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [yanpgabriel](./participantes/yanpgabriel) | [docker-compose.logs](./participantes/yanpgabriel/docker-compose.logs) |
 | [yanpitangui](./participantes/yanpitangui) | [docker-compose.logs](./participantes/yanpitangui/docker-compose.logs) |
 | [ygorcarmo](./participantes/ygorcarmo) | [docker-compose.logs](./participantes/ygorcarmo/docker-compose.logs) |
-| [zan-dotnet](./participantes/zan-dotnet) | [docker-compose.logs](./participantes/zan-dotnet/docker-compose.logs) |
-| [zsantana](./participantes/zsantana) | [docker-compose.logs](./participantes/zsantana/docker-compose.logs) |
