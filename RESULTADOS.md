@@ -244,6 +244,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240219173325909) |
 | [vitorrt-nodejs](./participantes/vitorrt-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorrt-nodejs/rinhabackendcrebitossimulation-20240219173812107) |
 | [vkobinski](./participantes/vkobinski) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vkobinski/rinhabackendcrebitossimulation-20240219174300238) |
+| [whyakari](./participantes/whyakari) | USD 0.0 | USD 13189321.64 | USD 13189321.64 | **USD 0.0** | [link](resultados/whyakari/rinhabackendcrebitossimulation-20240220143423978) |
 | [williammaia](./participantes/williammaia) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/williammaia/rinhabackendcrebitossimulation-20240219174847084) |
 | [williansugiyama](./participantes/williansugiyama) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/williansugiyama/rinhabackendcrebitossimulation-20240219175321018) |
 | [yMarceloMaia](./participantes/yMarceloMaia) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/yMarceloMaia/rinhabackendcrebitossimulation-20240219175821355) |
@@ -293,4 +294,3 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [oliveiratheone-rust](./participantes/oliveiratheone-rust) | [docker-compose.logs](./participantes/oliveiratheone-rust/docker-compose.logs) |
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
 | [ruhtar](./participantes/ruhtar) | [docker-compose.logs](./participantes/ruhtar/docker-compose.logs) |
-| [whyakari](./participantes/whyakari) | [docker-compose.logs](./participantes/whyakari/docker-compose.logs) |
