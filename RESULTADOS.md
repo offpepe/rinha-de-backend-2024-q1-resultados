@@ -169,6 +169,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [jovitcorreia](./participantes/jovitcorreia) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jovitcorreia/rinhabackendcrebitossimulation-20240219090916808) |
 | [jpaf](./participantes/jpaf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jpaf/rinhabackendcrebitossimulation-20240219091343385) |
 | [julianojj](./participantes/julianojj) | USD 0.0 | USD 103581.06 | USD 103581.06 | **USD 0.0** | [link](resultados/julianojj/rinhabackendcrebitossimulation-20240219092038515) |
+| [julioriffel-django](./participantes/julioriffel-django) | USD 78490.0 | USD 0.0 | USD 78490.0 | **USD 21510.0** | [link](resultados/julioriffel-django/rinhabackendcrebitossimulation-20240223175105488) |
 | [juliorovesta](./participantes/juliorovesta) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/juliorovesta/rinhabackendcrebitossimulation-20240221001805232) |
 | [kaikelfalcao](./participantes/kaikelfalcao) | USD 61330.0 | USD 103581.06 | USD 164911.06 | **USD 0.0** | [link](resultados/kaikelfalcao/rinhabackendcrebitossimulation-20240219092523617) |
 | [kalelMartinho_fastapi](./participantes/kalelMartinho_fastapi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/kalelMartinho_fastapi/rinhabackendcrebitossimulation-20240219093018998) |
