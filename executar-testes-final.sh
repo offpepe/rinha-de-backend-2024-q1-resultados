@@ -65,7 +65,7 @@ generateResults() {
     
     valorContrato=100000.0
     SLARespostasOk=98.0
-    multaInconsistenciaSaldoLimiteUnidade=34527.02
+    multaInconsistenciaSaldoLimiteUnidade=803.01
 
     for diretorio in resultados/*/; do
     (

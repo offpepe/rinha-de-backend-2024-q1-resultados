@@ -12,7 +12,7 @@ Se a API tiver uma porcentagem menor de sucesso do que o estabelecido, uma multa
 
 
 ### Consistência de Saldo
-Cada resposta do teste que detectar inconsistência no saldo do cliente (extrato e/ou limite ultrapassado), irá gerar uma multa de `[quantidade de inconsistências] * USD 34527,02`. Por exemplo, se durante o teste forem detectadas 10 respostas contendo inconsistência no saldo, uma multa de **USD 345270,20** `(10 * 34527,02)` será gerada.
+Cada resposta do teste que detectar inconsistência no saldo do cliente (extrato e/ou limite ultrapassado), irá gerar uma multa de `[quantidade de inconsistências] * USD 803,01`. Por exemplo, se durante o teste forem detectadas 10 respostas contendo inconsistência no saldo, uma multa de **USD 8030,10** `(10 * 803,01)` será gerada.
 
 
 ### Valor a Ser Pago Pelo Fornecimento da API
