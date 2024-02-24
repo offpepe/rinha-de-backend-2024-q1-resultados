@@ -121,6 +121,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [flpStrri](./participantes/flpStrri) | USD 81750.0 | USD 0.0 | USD 81750.0 | **USD 18250.0** | [link](resultados/flpStrri/rinhabackendcrebitossimulation-20240219054844710) |
 | [franklaercio](./participantes/franklaercio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/franklaercio/rinhabackendcrebitossimulation-20240222024941495) |
 | [ftathiago-blogdoft-csharp](./participantes/ftathiago-blogdoft-csharp) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ftathiago-blogdoft-csharp/rinhabackendcrebitossimulation-20240224142847237) |
+| [gabriel-roque](./participantes/gabriel-roque) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gabriel-roque/rinhabackendcrebitossimulation-20240224201204656) |
 | [gabrielfmagalhaes](./participantes/gabrielfmagalhaes) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/gabrielfmagalhaes/rinhabackendcrebitossimulation-20240219055420968) |
 | [gabrielluciano-vertx](./participantes/gabrielluciano-vertx) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gabrielluciano-vertx/rinhabackendcrebitossimulation-20240224010626842) |
 | [gasparbarancelli-h2-database](./participantes/gasparbarancelli-h2-database) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gasparbarancelli-h2-database/rinhabackendcrebitossimulation-20240219060325948) |
