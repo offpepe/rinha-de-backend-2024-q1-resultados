@@ -76,6 +76,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [canabrava](./participantes/canabrava) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/canabrava/rinhabackendcrebitossimulation-20240219024704156) |
 | [caravanacloud](./participantes/caravanacloud) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/caravanacloud/rinhabackendcrebitossimulation-20240222003335896) |
 | [carls-rodrigues](./participantes/carls-rodrigues) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carls-rodrigues/rinhabackendcrebitossimulation-20240219025714728) |
+| [carlsonsantana-springboot](./participantes/carlsonsantana-springboot) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carlsonsantana-springboot/rinhabackendcrebitossimulation-20240225225007289) |
 | [cassiano-manuelzinho-golang](./participantes/cassiano-manuelzinho-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cassiano-manuelzinho-golang/rinhabackendcrebitossimulation-20240219030200916) |
 | [cassiano-pedrinho-rust](./participantes/cassiano-pedrinho-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cassiano-pedrinho-rust/rinhabackendcrebitossimulation-20240225154155434) |
 | [claudio-silva](./participantes/claudio-silva) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/claudio-silva/rinhabackendcrebitossimulation-20240219030722747) |
@@ -109,6 +110,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [eigr](./participantes/eigr) | USD 97960.0 | USD 0.0 | USD 97960.0 | **USD 2040.0** | [link](resultados/eigr/rinhabackendcrebitossimulation-20240219043826679) |
 | [elioenaiferrari-rust](./participantes/elioenaiferrari-rust) | USD 29550.0 | USD 1515279.87 | USD 1544829.87 | **USD 0.0** | [link](resultados/elioenaiferrari-rust/rinhabackendcrebitossimulation-20240219044339807) |
 | [emanuel-xavier](./participantes/emanuel-xavier) | USD 26410.0 | USD 2409.03 | USD 28819.03 | **USD 71180.97** | [link](resultados/emanuel-xavier/rinhabackendcrebitossimulation-20240224005222351) |
+| [emiliosheinz-fumegalli-node](./participantes/emiliosheinz-fumegalli-node) | USD 0.0 | USD 1606.02 | USD 1606.02 | **USD 98393.98** | [link](resultados/emiliosheinz-fumegalli-node/rinhabackendcrebitossimulation-20240225225445961) |
 | [engylemure](./participantes/engylemure) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/engylemure/rinhabackendcrebitossimulation-20240219045018127) |
 | [erickmarx](./participantes/erickmarx) | USD 97930.0 | USD 0.0 | USD 97930.0 | **USD 2070.0** | [link](resultados/erickmarx/rinhabackendcrebitossimulation-20240219045456563) |
 | [erickreis](./participantes/erickreis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/erickreis/rinhabackendcrebitossimulation-20240219045933112) |
