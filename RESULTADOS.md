@@ -76,6 +76,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [caravanacloud](./participantes/caravanacloud) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/caravanacloud/rinhabackendcrebitossimulation-20240222003335896) |
 | [carls-rodrigues](./participantes/carls-rodrigues) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carls-rodrigues/rinhabackendcrebitossimulation-20240219025714728) |
 | [cassiano-manuelzinho-golang](./participantes/cassiano-manuelzinho-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cassiano-manuelzinho-golang/rinhabackendcrebitossimulation-20240219030200916) |
+| [cassiano-pedrinho-rust](./participantes/cassiano-pedrinho-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cassiano-pedrinho-rust/rinhabackendcrebitossimulation-20240225154155434) |
 | [claudio-silva](./participantes/claudio-silva) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/claudio-silva/rinhabackendcrebitossimulation-20240219030722747) |
 | [claudioneves1981](./participantes/claudioneves1981) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/claudioneves1981/rinhabackendcrebitossimulation-20240221222142837) |
 | [cleitinif](./participantes/cleitinif) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cleitinif/rinhabackendcrebitossimulation-20240219031151480) |
