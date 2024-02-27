@@ -105,6 +105,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [dksedlak](./participantes/dksedlak) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dksedlak/rinhabackendcrebitossimulation-20240227002000265) |
 | [dowingows-phalcon-php](./participantes/dowingows-phalcon-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dowingows-phalcon-php/rinhabackendcrebitossimulation-20240219040113352) |
 | [dreamagici4n](./participantes/dreamagici4n) | USD 97320.0 | USD 3382278.12 | USD 3479598.12 | **USD 0.0** | [link](resultados/dreamagici4n/rinhabackendcrebitossimulation-20240219040555159) |
+| [dridev](./participantes/dridev) | USD 97650.0 | USD 803.01 | USD 98453.01 | **USD 1546.99** | [link](resultados/dridev/rinhabackendcrebitossimulation-20240227005434436) |
 | [droderuan](./participantes/droderuan) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/droderuan/rinhabackendcrebitossimulation-20240226222220515) |
 | [dscamargo](./participantes/dscamargo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dscamargo/rinhabackendcrebitossimulation-20240219041529224) |
 | [dscorzoni-django](./participantes/dscorzoni-django) | USD 95800.0 | USD 0.0 | USD 95800.0 | **USD 4200.0** | [link](resultados/dscorzoni-django/rinhabackendcrebitossimulation-20240219190242717) |
@@ -129,6 +130,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [felipebossolani-dotnet](./participantes/felipebossolani-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipebossolani-dotnet/rinhabackendcrebitossimulation-20240219053251360) |
 | [felipebossolani-dotnet9-preview](./participantes/felipebossolani-dotnet9-preview) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipebossolani-dotnet9-preview/rinhabackendcrebitossimulation-20240224193823470) |
 | [felipemarkson](./participantes/felipemarkson) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipemarkson/rinhabackendcrebitossimulation-20240220203634908) |
+| [felipeymn](./participantes/felipeymn) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipeymn/rinhabackendcrebitossimulation-20240227005911891) |
 | [felipma-rust-rataria-version](./participantes/felipma-rust-rataria-version) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipma-rust-rataria-version/rinhabackendcrebitossimulation-20240226192256794) |
 | [felipma-rust](./participantes/felipma-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipma-rust/rinhabackendcrebitossimulation-20240224010142087) |
 | [fernandofogliato-java](./participantes/fernandofogliato-java) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/fernandofogliato-java/rinhabackendcrebitossimulation-20240226001514165) |
