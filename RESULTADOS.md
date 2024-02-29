@@ -202,7 +202,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [ivmello](./participantes/ivmello) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ivmello/rinhabackendcrebitossimulation-20240224012318615) |
 | [jairoandre](./participantes/jairoandre) | USD 73630.0 | USD 0.0 | USD 73630.0 | **USD 26370.0** | [link](resultados/jairoandre/rinhabackendcrebitossimulation-20240225212738790) |
 | [java-cassiogangrel](./participantes/java-cassiogangrel) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/java-cassiogangrel/rinhabackendcrebitossimulation-20240219083308771) |
-| [jcrjuliano](./participantes/jcrjuliano) | USD 93400.0 | USD 2409.03 | USD 95809.03 | **USD 4190.97** | [link](resultados/jcrjuliano/rinhabackendcrebitossimulation-20240229161435588) |
+| [jcrjuliano](./participantes/jcrjuliano) | USD 93360.0 | USD 0.0 | USD 93360.0 | **USD 6640.0** | [link](resultados/jcrjuliano/rinhabackendcrebitossimulation-20240229181653336) |
 | [jfilipedias](./participantes/jfilipedias) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jfilipedias/rinhabackendcrebitossimulation-20240219192837097) |
 | [jhonnyboy](./participantes/jhonnyboy) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jhonnyboy/rinhabackendcrebitossimulation-20240222132034324) |
 | [jjeanjacques10](./participantes/jjeanjacques10) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jjeanjacques10/rinhabackendcrebitossimulation-20240219084222482) |
