@@ -219,6 +219,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [jovitcorreia](./participantes/jovitcorreia) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jovitcorreia/rinhabackendcrebitossimulation-20240219090916808) |
 | [jpaf](./participantes/jpaf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jpaf/rinhabackendcrebitossimulation-20240219091343385) |
 | [jpcairesf-go](./participantes/jpcairesf-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jpcairesf-go/rinhabackendcrebitossimulation-20240226193756386) |
+| [jrblatt](./participantes/jrblatt) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jrblatt/rinhabackendcrebitossimulation-20240229165502005) |
 | [julianojj](./participantes/julianojj) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/julianojj/rinhabackendcrebitossimulation-20240219092038515) |
 | [julioriffel-django](./participantes/julioriffel-django) | USD 76260.0 | USD 0.0 | USD 76260.0 | **USD 23740.0** | [link](resultados/julioriffel-django/rinhabackendcrebitossimulation-20240227031727735) |
 | [juliorovesta](./participantes/juliorovesta) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/juliorovesta/rinhabackendcrebitossimulation-20240221001805232) |
