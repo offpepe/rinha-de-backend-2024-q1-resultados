@@ -212,7 +212,8 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [johnpgr_vlang](./participantes/johnpgr_vlang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/johnpgr_vlang/rinhabackendcrebitossimulation-20240227031229441) |
 | [jojodev](./participantes/jojodev) | USD 74910.0 | USD 8030.1 | USD 82940.1 | **USD 17059.9** | [link](resultados/jojodev/rinhabackendcrebitossimulation-20240224012807452) |
 | [jonatasoli](./participantes/jonatasoli) | USD 85350.0 | USD 1606.02 | USD 86956.02 | **USD 13043.98** | [link](resultados/jonatasoli/rinhabackendcrebitossimulation-20240221151423666) |
-| [jonathanperis](./participantes/jonathanperis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jonathanperis/rinhabackendcrebitossimulation-20240228212800263) |
+| [jonathanperis-xgh](./participantes/jonathanperis-xgh) | USD 71360.0 | USD 0.0 | USD 71360.0 | **USD 28640.0** | [link](resultados/jonathanperis-xgh/rinhabackendcrebitossimulation-20240301004707286) |
+| [jonathanperis](./participantes/jonathanperis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jonathanperis/rinhabackendcrebitossimulation-20240301005131929) |
 | [jonattas_bunjs](./participantes/jonattas_bunjs) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/jonattas_bunjs/rinhabackendcrebitossimulation-20240219085538315) |
 | [jorgehrique-dotnet](./participantes/jorgehrique-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jorgehrique-dotnet/rinhabackendcrebitossimulation-20240221022017930) |
 | [josebaroni-postgrest](./participantes/josebaroni-postgrest) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/josebaroni-postgrest/rinhabackendcrebitossimulation-20240219090015411) |
@@ -385,9 +386,11 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [vitorsalgado](./participantes/vitorsalgado) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorsalgado/rinhabackendcrebitossimulation-20240228204546751) |
 | [vkobinski](./participantes/vkobinski) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vkobinski/rinhabackendcrebitossimulation-20240219174300238) |
 | [vyctorguimaraes](./participantes/vyctorguimaraes) | USD 0.0 | USD 260175.24 | USD 260175.24 | **USD 0.0** | [link](resultados/vyctorguimaraes/rinhabackendcrebitossimulation-20240228041938988) |
+| [wdmatheus](./participantes/wdmatheus) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wdmatheus/rinhabackendcrebitossimulation-20240301005556031) |
 | [wesleyegberto](./participantes/wesleyegberto) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wesleyegberto/rinhabackendcrebitossimulation-20240224223754700) |
 | [weversonl](./participantes/weversonl) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/weversonl/rinhabackendcrebitossimulation-20240227135657377) |
 | [whyakari](./participantes/whyakari) | USD 0.0 | USD 306749.82 | USD 306749.82 | **USD 0.0** | [link](resultados/whyakari/rinhabackendcrebitossimulation-20240220143423978) |
+| [wiliamvj](./participantes/wiliamvj) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wiliamvj/rinhabackendcrebitossimulation-20240301010025084) |
 | [williammaia](./participantes/williammaia) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/williammaia/rinhabackendcrebitossimulation-20240219174847084) |
 | [williansugiyama](./participantes/williansugiyama) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/williansugiyama/rinhabackendcrebitossimulation-20240219175321018) |
 | [wladneto](./participantes/wladneto) | USD 3990.0 | USD 2409.03 | USD 6399.03 | **USD 93600.97** | [link](resultados/wladneto/rinhabackendcrebitossimulation-20240224154203470) |
