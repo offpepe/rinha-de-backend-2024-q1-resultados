@@ -342,6 +342,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [rdenadai_rust](./participantes/rdenadai_rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rdenadai_rust/rinhabackendcrebitossimulation-20240219154748448) |
 | [recoba](./participantes/recoba) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/recoba/rinhabackendcrebitossimulation-20240219155228664) |
 | [renan-norba](./participantes/renan-norba) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/renan-norba/rinhabackendcrebitossimulation-20240224015723592) |
+| [renant](./participantes/renant) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/renant/rinhabackendcrebitossimulation-20240301214543786) |
 | [renatolfc-🦀](./participantes/renatolfc-🦀) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/renatolfc-🦀/rinhabackendcrebitossimulation-20240301184635081) |
 | [reonardoleis](./participantes/reonardoleis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/reonardoleis/rinhabackendcrebitossimulation-20240219155713594) |
 | [rhsobr-bun](./participantes/rhsobr-bun) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rhsobr-bun/rinhabackendcrebitossimulation-20240219160147509) |
@@ -424,6 +425,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | participante | logs |
 | --           | --   |
 | [KitsuneSemCalda](./participantes/KitsuneSemCalda) | [docker-compose.logs](./participantes/KitsuneSemCalda/docker-compose.logs) |
+| [accerqueira-bash](./participantes/accerqueira-bash) | [docker-compose.logs](./participantes/accerqueira-bash/docker-compose.logs) |
 | [alfredomorais](./participantes/alfredomorais) | [docker-compose.logs](./participantes/alfredomorais/docker-compose.logs) |
 | [andreluizsgf](./participantes/andreluizsgf) | [docker-compose.logs](./participantes/andreluizsgf/docker-compose.logs) |
 | [andrepiske-01](./participantes/andrepiske-01) | [docker-compose.logs](./participantes/andrepiske-01/docker-compose.logs) |
