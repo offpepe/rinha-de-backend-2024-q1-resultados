@@ -362,8 +362,8 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [thicsilva](./participantes/thicsilva) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thicsilva/rinhabackendcrebitossimulation-20240219170139879) |
 | [thiper01-django](./participantes/thiper01-django) | USD 91680.0 | USD 0.0 | USD 91680.0 | **USD 8320.0** | [link](resultados/thiper01-django/rinhabackendcrebitossimulation-20240229155232507) |
 | [thiper01-fastapi](./participantes/thiper01-fastapi) | USD 79140.0 | USD 0.0 | USD 79140.0 | **USD 20860.0** | [link](resultados/thiper01-fastapi/rinhabackendcrebitossimulation-20240229155713397) |
-| [thusspokebieu-activej](./participantes/thusspokebieu-activej) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thusspokebieu-activej/rinhabackendcrebitossimulation-20240222133423601) |
-| [thusspokebieu-rust](./participantes/thusspokebieu-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thusspokebieu-rust/rinhabackendcrebitossimulation-20240222134013787) |
+| [thusspokebieu-activej](./participantes/thusspokebieu-activej) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thusspokebieu-activej/rinhabackendcrebitossimulation-20240301002729176) |
+| [thusspokebieu-rust](./participantes/thusspokebieu-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thusspokebieu-rust/rinhabackendcrebitossimulation-20240301003316576) |
 | [tonholis-dotnet](./participantes/tonholis-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tonholis-dotnet/rinhabackendcrebitossimulation-20240226224115630) |
 | [tonico](./participantes/tonico) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tonico/rinhabackendcrebitossimulation-20240228220334143) |
 | [tortuga](./participantes/tortuga) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tortuga/rinhabackendcrebitossimulation-20240228224504615) |
