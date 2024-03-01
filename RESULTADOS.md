@@ -424,6 +424,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
  
 | participante | logs |
 | --           | --   |
+| [AlcivanLucas](./participantes/AlcivanLucas) | [docker-compose.logs](./participantes/AlcivanLucas/docker-compose.logs) |
 | [KitsuneSemCalda](./participantes/KitsuneSemCalda) | [docker-compose.logs](./participantes/KitsuneSemCalda/docker-compose.logs) |
 | [accerqueira-bash](./participantes/accerqueira-bash) | [docker-compose.logs](./participantes/accerqueira-bash/docker-compose.logs) |
 | [alfredomorais](./participantes/alfredomorais) | [docker-compose.logs](./participantes/alfredomorais/docker-compose.logs) |
