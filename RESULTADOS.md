@@ -380,6 +380,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [victor99z](./participantes/victor99z) | USD 2600.0 | USD 16060.2 | USD 18660.2 | **USD 81339.8** | [link](resultados/victor99z/rinhabackendcrebitossimulation-20240219172422247) |
 | [victornfb](./participantes/victornfb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/victornfb/rinhabackendcrebitossimulation-20240227033415508) |
 | [victorverdoodt](./participantes/victorverdoodt) | USD 0.0 | USD 16060.2 | USD 16060.2 | **USD 83939.8** | [link](resultados/victorverdoodt/rinhabackendcrebitossimulation-20240222164700226) |
+| [viniciusamc-golang](./participantes/viniciusamc-golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/viniciusamc-golang/rinhabackendcrebitossimulation-20240301021139076) |
 | [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240219173325909) |
 | [viniciusgferreira](./participantes/viniciusgferreira) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusgferreira/rinhabackendcrebitossimulation-20240226202727078) |
 | [vitorlacerda-dotnet](./participantes/vitorlacerda-dotnet) | USD 26060.0 | USD 2409.03 | USD 28469.03 | **USD 71530.97** | [link](resultados/vitorlacerda-dotnet/rinhabackendcrebitossimulation-20240224021112610) |
