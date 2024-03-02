@@ -216,6 +216,13 @@ syncGit() {
 }
 
 
+gitignoreGarbage() {
+    pushd ./participantes > /dev/null
+    find . -user root > .gitignore
+    popd > /dev/null
+}
+
+gitignoreGarbage
 syncGit
 clearAllDockerThings
 countAPIsToBeTested
