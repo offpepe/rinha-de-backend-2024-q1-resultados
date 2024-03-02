@@ -307,6 +307,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [matheusleal](./participantes/matheusleal) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheusleal/rinhabackendcrebitossimulation-20240219121035766) |
 | [matheuswilliam-java](./participantes/matheuswilliam-java) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheuswilliam-java/rinhabackendcrebitossimulation-20240225044359606) |
 | [matheuswilliam](./participantes/matheuswilliam) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheuswilliam/rinhabackendcrebitossimulation-20240222210559458) |
+| [mauriciorosa-net8](./participantes/mauriciorosa-net8) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mauriciorosa-net8/rinhabackendcrebitossimulation-20240302045323243) |
 | [maxwell-fs](./participantes/maxwell-fs) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/maxwell-fs/rinhabackendcrebitossimulation-20240301212758412) |
 | [maxwell](./participantes/maxwell) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/maxwell/rinhabackendcrebitossimulation-20240221152806744) |
 | [mgenteluci](./participantes/mgenteluci) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mgenteluci/rinhabackendcrebitossimulation-20240221165515240) |
@@ -347,6 +348,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [recoba](./participantes/recoba) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/recoba/rinhabackendcrebitossimulation-20240219155228664) |
 | [renan-norba](./participantes/renan-norba) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/renan-norba/rinhabackendcrebitossimulation-20240224015723592) |
 | [renant](./participantes/renant) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/renant/rinhabackendcrebitossimulation-20240301214543786) |
+| [renanvy-crystal](./participantes/renanvy-crystal) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/renanvy-crystal/rinhabackendcrebitossimulation-20240302045751390) |
 | [renatolfc-🦀](./participantes/renatolfc-🦀) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/renatolfc-🦀/rinhabackendcrebitossimulation-20240301184635081) |
 | [reonardoleis](./participantes/reonardoleis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/reonardoleis/rinhabackendcrebitossimulation-20240219155713594) |
 | [rhsobr-bun](./participantes/rhsobr-bun) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rhsobr-bun/rinhabackendcrebitossimulation-20240219160147509) |
