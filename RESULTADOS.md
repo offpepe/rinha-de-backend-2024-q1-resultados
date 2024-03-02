@@ -197,6 +197,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [gutkedu-nodejs](./participantes/gutkedu-nodejs) | USD 34630.0 | USD 2409.03 | USD 37039.03 | **USD 62960.97** | [link](resultados/gutkedu-nodejs/rinhabackendcrebitossimulation-20240219072726221) |
 | [gwoliveira-no-db-lock](./participantes/gwoliveira-no-db-lock) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/gwoliveira-no-db-lock/rinhabackendcrebitossimulation-20240219073210534) |
 | [h4ad](./participantes/h4ad) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/h4ad/rinhabackendcrebitossimulation-20240219073639302) |
+| [hallexcosta-hyperf](./participantes/hallexcosta-hyperf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/hallexcosta-hyperf/rinhabackendcrebitossimulation-20240302015938106) |
 | [heitor-ps](./participantes/heitor-ps) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/heitor-ps/rinhabackendcrebitossimulation-20240219074217987) |
 | [hendrikaraujo](./participantes/hendrikaraujo) | USD 65340.0 | USD 0.0 | USD 65340.0 | **USD 34660.0** | [link](resultados/hendrikaraujo/rinhabackendcrebitossimulation-20240226193214041) |
 | [henriqueccapozzi-django-01](./participantes/henriqueccapozzi-django-01) | USD 78690.0 | USD 0.0 | USD 78690.0 | **USD 21310.0** | [link](resultados/henriqueccapozzi-django-01/rinhabackendcrebitossimulation-20240227003601987) |
