@@ -32,6 +32,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [LuisKpBeta](./participantes/LuisKpBeta) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/LuisKpBeta/rinhabackendcrebitossimulation-20240227131633713) |
 | [NathanFirmo](./participantes/NathanFirmo) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/NathanFirmo/rinhabackendcrebitossimulation-20240219000603826) |
 | [PatrickChagastavares](./participantes/PatrickChagastavares) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/PatrickChagastavares/rinhabackendcrebitossimulation-20240219001044304) |
+| [accerqueira-bash](./participantes/accerqueira-bash) | USD 96980.0 | USD 0.0 | USD 96980.0 | **USD 3020.0** | [link](resultados/accerqueira-bash/rinhabackendcrebitossimulation-20240302161751065) |
 | [accerqueira-redbean-atw-down](./participantes/accerqueira-redbean-atw-down) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/accerqueira-redbean-atw-down/rinhabackendcrebitossimulation-20240219224049400) |
 | [acdesouza](./participantes/acdesouza) | USD 5180.0 | USD 1606.02 | USD 6786.02 | **USD 93213.98** | [link](resultados/acdesouza/rinhabackendcrebitossimulation-20240219182936305) |
 | [acerola](./participantes/acerola) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/acerola/rinhabackendcrebitossimulation-20240219001949219) |
@@ -127,6 +128,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [dsinmsdj](./participantes/dsinmsdj) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/dsinmsdj/rinhabackendcrebitossimulation-20240219042022048) |
 | [ecsbjunior-actix-rust](./participantes/ecsbjunior-actix-rust) | USD 11060.0 | USD 2409.03 | USD 13469.03 | **USD 86530.97** | [link](resultados/ecsbjunior-actix-rust/rinhabackendcrebitossimulation-20240228033731000) |
 | [ed1000](./participantes/ed1000) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ed1000/rinhabackendcrebitossimulation-20240222004007323) |
+| [eddcp-nodejs](./participantes/eddcp-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/eddcp-nodejs/rinhabackendcrebitossimulation-20240302162333098) |
 | [edimarlnx](./participantes/edimarlnx) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/edimarlnx/rinhabackendcrebitossimulation-20240219042922578) |
 | [edubarbieri](./participantes/edubarbieri) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/edubarbieri/rinhabackendcrebitossimulation-20240219043358951) |
 | [eigr](./participantes/eigr) | USD 97960.0 | USD 0.0 | USD 97960.0 | **USD 2040.0** | [link](resultados/eigr/rinhabackendcrebitossimulation-20240219043826679) |
@@ -436,7 +438,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | --           | --   |
 | [AlcivanLucas](./participantes/AlcivanLucas) | [docker-compose.logs](./participantes/AlcivanLucas/docker-compose.logs) |
 | [KitsuneSemCalda](./participantes/KitsuneSemCalda) | [docker-compose.logs](./participantes/KitsuneSemCalda/docker-compose.logs) |
-| [accerqueira-bash](./participantes/accerqueira-bash) | [docker-compose.logs](./participantes/accerqueira-bash/docker-compose.logs) |
 | [alfredomorais](./participantes/alfredomorais) | [docker-compose.logs](./participantes/alfredomorais/docker-compose.logs) |
 | [andreluizsgf](./participantes/andreluizsgf) | [docker-compose.logs](./participantes/andreluizsgf/docker-compose.logs) |
 | [andrepiske-01](./participantes/andrepiske-01) | [docker-compose.logs](./participantes/andrepiske-01/docker-compose.logs) |
