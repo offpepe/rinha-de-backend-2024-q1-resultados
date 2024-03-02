@@ -219,6 +219,7 @@ syncGit() {
 gitignoreGarbage() {
     pushd ./participantes > /dev/null
     find . -user root > .gitignore
+    git add .gitignore
     popd > /dev/null
 }
 
