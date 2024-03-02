@@ -44,6 +44,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [alissonsleal_go](./participantes/alissonsleal_go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/alissonsleal_go/rinhabackendcrebitossimulation-20240219003848597) |
 | [allissonazevedo-golang](./participantes/allissonazevedo-golang) | USD 30420.0 | USD 803.01 | USD 31223.01 | **USD 68776.99** | [link](resultados/allissonazevedo-golang/rinhabackendcrebitossimulation-20240229153317577) |
 | [allissonazevedo-python](./participantes/allissonazevedo-python) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/allissonazevedo-python/rinhabackendcrebitossimulation-20240301133300639) |
+| [andarilhoz](./participantes/andarilhoz) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/andarilhoz/rinhabackendcrebitossimulation-20240302144900823) |
 | [anderkonzen](./participantes/anderkonzen) | USD 79450.0 | USD 0.0 | USD 79450.0 | **USD 20550.0** | [link](resultados/anderkonzen/rinhabackendcrebitossimulation-20240219004322678) |
 | [andersonfernandes-ruby](./participantes/andersonfernandes-ruby) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/andersonfernandes-ruby/rinhabackendcrebitossimulation-20240224041357346) |
 | [andersonhqds-node](./participantes/andersonhqds-node) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/andersonhqds-node/rinhabackendcrebitossimulation-20240301133755341) |
