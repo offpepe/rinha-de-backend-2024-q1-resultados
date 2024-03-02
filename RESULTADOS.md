@@ -266,6 +266,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [lipe1994_dotnet](./participantes/lipe1994_dotnet) | USD 27880.0 | USD 0.0 | USD 27880.0 | **USD 72120.0** | [link](resultados/lipe1994_dotnet/rinhabackendcrebitossimulation-20240227133725498) |
 | [lipe1994_drogon](./participantes/lipe1994_drogon) | USD 2980.0 | USD 5621.07 | USD 8601.07 | **USD 91398.93** | [link](resultados/lipe1994_drogon/rinhabackendcrebitossimulation-20240227134206651) |
 | [lipe1994_spring](./participantes/lipe1994_spring) | USD 96240.0 | USD 0.0 | USD 96240.0 | **USD 3760.0** | [link](resultados/lipe1994_spring/rinhabackendcrebitossimulation-20240227134721571) |
+| [lm-bunsh](./participantes/lm-bunsh) | USD 0.0 | USD 1606.02 | USD 1606.02 | **USD 98393.98** | [link](resultados/lm-bunsh/rinhabackendcrebitossimulation-20240302222305215) |
 | [lmtani](./participantes/lmtani) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lmtani/rinhabackendcrebitossimulation-20240220012901676) |
 | [lobomfz-rust](./participantes/lobomfz-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lobomfz-rust/rinhabackendcrebitossimulation-20240219101103174) |
 | [lobomfz](./participantes/lobomfz) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lobomfz/rinhabackendcrebitossimulation-20240219101529012) |
@@ -395,6 +396,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [thiper01-fastapi](./participantes/thiper01-fastapi) | USD 79140.0 | USD 0.0 | USD 79140.0 | **USD 20860.0** | [link](resultados/thiper01-fastapi/rinhabackendcrebitossimulation-20240229155713397) |
 | [thusspokebieu-activej](./participantes/thusspokebieu-activej) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thusspokebieu-activej/rinhabackendcrebitossimulation-20240301002729176) |
 | [thusspokebieu-rust](./participantes/thusspokebieu-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thusspokebieu-rust/rinhabackendcrebitossimulation-20240301003316576) |
+| [tiagoguerreirodev-go](./participantes/tiagoguerreirodev-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tiagoguerreirodev-go/rinhabackendcrebitossimulation-20240302222751886) |
 | [tonholis-dotnet](./participantes/tonholis-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tonholis-dotnet/rinhabackendcrebitossimulation-20240226224115630) |
 | [tonico](./participantes/tonico) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tonico/rinhabackendcrebitossimulation-20240228220334143) |
 | [tortuga](./participantes/tortuga) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tortuga/rinhabackendcrebitossimulation-20240228224504615) |
