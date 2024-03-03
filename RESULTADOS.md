@@ -240,7 +240,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [johnpgr_vlang](./participantes/johnpgr_vlang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/johnpgr_vlang/rinhabackendcrebitossimulation-20240227031229441) |
 | [jojodev](./participantes/jojodev) | USD 74910.0 | USD 8030.1 | USD 82940.1 | **USD 17059.9** | [link](resultados/jojodev/rinhabackendcrebitossimulation-20240224012807452) |
 | [jonatasoli](./participantes/jonatasoli) | USD 85350.0 | USD 1606.02 | USD 86956.02 | **USD 13043.98** | [link](resultados/jonatasoli/rinhabackendcrebitossimulation-20240221151423666) |
-| [jonathanperis-xgh](./participantes/jonathanperis-xgh) | USD 71360.0 | USD 0.0 | USD 71360.0 | **USD 28640.0** | [link](resultados/jonathanperis-xgh/rinhabackendcrebitossimulation-20240301004707286) |
+| [jonathanperis-xgh](./participantes/jonathanperis-xgh) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jonathanperis-xgh/rinhabackendcrebitossimulation-20240303030150927) |
 | [jonathanperis](./participantes/jonathanperis) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jonathanperis/rinhabackendcrebitossimulation-20240301005131929) |
 | [jonattas_bunjs](./participantes/jonattas_bunjs) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/jonattas_bunjs/rinhabackendcrebitossimulation-20240219085538315) |
 | [jorgehrique-dotnet](./participantes/jorgehrique-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/jorgehrique-dotnet/rinhabackendcrebitossimulation-20240221022017930) |
@@ -369,6 +369,9 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [ricardovhz](./participantes/ricardovhz) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ricardovhz/rinhabackendcrebitossimulation-20240219201959867) |
 | [rigottig](./participantes/rigottig) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/rigottig/rinhabackendcrebitossimulation-20240219160624256) |
 | [ritilopes](./participantes/ritilopes) | USD 78720.0 | USD 0.0 | USD 78720.0 | **USD 21280.0** | [link](resultados/ritilopes/rinhabackendcrebitossimulation-20240219161113759) |
+| [rmauro-mysql-yarp](./participantes/rmauro-mysql-yarp) | USD 60400.0 | USD 0.0 | USD 60400.0 | **USD 39600.0** | [link](resultados/rmauro-mysql-yarp/rinhabackendcrebitossimulation-20240303030846024) |
+| [rmauro-postgresql-yarp](./participantes/rmauro-postgresql-yarp) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rmauro-postgresql-yarp/rinhabackendcrebitossimulation-20240303031323222) |
+| [rmauro-postgresql](./participantes/rmauro-postgresql) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rmauro-postgresql/rinhabackendcrebitossimulation-20240303031802380) |
 | [rmauro](./participantes/rmauro) | USD 36010.0 | USD 970839.09 | USD 1006849.09 | **USD 0.0** | [link](resultados/rmauro/rinhabackendcrebitossimulation-20240229013750699) |
 | [robsoncassol](./participantes/robsoncassol) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/robsoncassol/rinhabackendcrebitossimulation-20240228145823995) |
 | [rodolphovs-c-db](./participantes/rodolphovs-c-db) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rodolphovs-c-db/rinhabackendcrebitossimulation-20240225040013389) |
@@ -418,7 +421,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [viniciusamc-golang](./participantes/viniciusamc-golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/viniciusamc-golang/rinhabackendcrebitossimulation-20240301021139076) |
 | [viniciusfcf](./participantes/viniciusfcf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusfcf/rinhabackendcrebitossimulation-20240219173325909) |
 | [viniciusgferreira](./participantes/viniciusgferreira) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/viniciusgferreira/rinhabackendcrebitossimulation-20240226202727078) |
-| [vitor_weirich_java](./participantes/vitor_weirich_java) | USD 2650.0 | USD 0.0 | USD 2650.0 | **USD 97350.0** | [link](resultados/vitor_weirich_java/rinhabackendcrebitossimulation-20240302135448706) |
+| [vitor_weirich_java](./participantes/vitor_weirich_java) | USD 1400.0 | USD 0.0 | USD 1400.0 | **USD 98600.0** | [link](resultados/vitor_weirich_java/rinhabackendcrebitossimulation-20240303032229891) |
 | [vitorlacerda-dotnet](./participantes/vitorlacerda-dotnet) | USD 26060.0 | USD 2409.03 | USD 28469.03 | **USD 71530.97** | [link](resultados/vitorlacerda-dotnet/rinhabackendcrebitossimulation-20240224021112610) |
 | [vitornorberto](./participantes/vitornorberto) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitornorberto/rinhabackendcrebitossimulation-20240228041509795) |
 | [vitorrt-nodejs](./participantes/vitorrt-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorrt-nodejs/rinhabackendcrebitossimulation-20240219173812107) |
@@ -484,6 +487,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | [docker-compose.logs](./participantes/met4tron-nodejs/docker-compose.logs) |
 | [mourishitz-nest-js](./participantes/mourishitz-nest-js) | [docker-compose.logs](./participantes/mourishitz-nest-js/docker-compose.logs) |
 | [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
+| [oliveiraeliel](./participantes/oliveiraeliel) | [docker-compose.logs](./participantes/oliveiraeliel/docker-compose.logs) |
 | [oneabrante](./participantes/oneabrante) | [docker-compose.logs](./participantes/oneabrante/docker-compose.logs) |
 | [pedro-azevedo-e-matheus-gomes-nodejs](./participantes/pedro-azevedo-e-matheus-gomes-nodejs) | [docker-compose.logs](./participantes/pedro-azevedo-e-matheus-gomes-nodejs/docker-compose.logs) |
 | [pedrolzoliveira](./participantes/pedrolzoliveira) | [docker-compose.logs](./participantes/pedrolzoliveira/docker-compose.logs) |
