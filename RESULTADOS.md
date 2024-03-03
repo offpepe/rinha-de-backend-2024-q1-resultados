@@ -462,6 +462,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [cacambito](./participantes/cacambito) | [docker-compose.logs](./participantes/cacambito/docker-compose.logs) |
 | [casanje](./participantes/casanje) | [docker-compose.logs](./participantes/casanje/docker-compose.logs) |
 | [cesar-rodrigues](./participantes/cesar-rodrigues) | [docker-compose.logs](./participantes/cesar-rodrigues/docker-compose.logs) |
+| [claudioavgo](./participantes/claudioavgo) | [docker-compose.logs](./participantes/claudioavgo/docker-compose.logs) |
 | [cleverton-rocha-java](./participantes/cleverton-rocha-java) | [docker-compose.logs](./participantes/cleverton-rocha-java/docker-compose.logs) |
 | [daniel-goncalves](./participantes/daniel-goncalves) | [docker-compose.logs](./participantes/daniel-goncalves/docker-compose.logs) |
 | [danilosilva](./participantes/danilosilva) | [docker-compose.logs](./participantes/danilosilva/docker-compose.logs) |
