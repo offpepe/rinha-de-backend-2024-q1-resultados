@@ -119,6 +119,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [danielwisky](./participantes/danielwisky) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/danielwisky/rinhabackendcrebitossimulation-20240219033038536) |
 | [danilo-nodejs](./participantes/danilo-nodejs) | USD 2300.0 | USD 0.0 | USD 2300.0 | **USD 97700.0** | [link](resultados/danilo-nodejs/rinhabackendcrebitossimulation-20240219185320838) |
 | [daniloflorenzano](./participantes/daniloflorenzano) | USD 4960.0 | USD 0.0 | USD 4960.0 | **USD 95040.0** | [link](resultados/daniloflorenzano/rinhabackendcrebitossimulation-20240303012009231) |
+| [daniloraisi](./participantes/daniloraisi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/daniloraisi/rinhabackendcrebitossimulation-20240304205009379) |
 | [david-silva](./participantes/david-silva) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/david-silva/rinhabackendcrebitossimulation-20240222131113708) |
 | [ddanielsantos](./participantes/ddanielsantos) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ddanielsantos/rinhabackendcrebitossimulation-20240226191641018) |
 | [ddanielvaz-cpp-qt](./participantes/ddanielvaz-cpp-qt) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ddanielvaz-cpp-qt/rinhabackendcrebitossimulation-20240302215630799) |
