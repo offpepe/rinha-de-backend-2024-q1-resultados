@@ -220,6 +220,7 @@ gitignoreGarbage() {
     pushd ./participantes > /dev/null
     find . -user root > .gitignore
     git add .gitignore
+    sed -i 's/\.\///g' .gitignore
     popd > /dev/null
 }
 
