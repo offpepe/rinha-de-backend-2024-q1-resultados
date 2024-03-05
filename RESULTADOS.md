@@ -486,6 +486,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [williammaia](./participantes/williammaia) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/williammaia/rinhabackendcrebitossimulation-20240219174847084) |
 | [williansugiyama](./participantes/williansugiyama) | USD 98000.0 | USD 0.0 | USD 98000.0 | **USD 2000.0** | [link](resultados/williansugiyama/rinhabackendcrebitossimulation-20240219175321018) |
 | [wladneto](./participantes/wladneto) | USD 3990.0 | USD 2409.03 | USD 6399.03 | **USD 93600.97** | [link](resultados/wladneto/rinhabackendcrebitossimulation-20240224154203470) |
+| [wosteimer](./participantes/wosteimer) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wosteimer/rinhabackendcrebitossimulation-20240305165906710) |
 | [yMarceloMaia](./participantes/yMarceloMaia) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/yMarceloMaia/rinhabackendcrebitossimulation-20240219175821355) |
 | [yanpgabriel](./participantes/yanpgabriel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/yanpgabriel/rinhabackendcrebitossimulation-20240224142301830) |
 | [yanpitangui](./participantes/yanpitangui) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/yanpitangui/rinhabackendcrebitossimulation-20240220215412572) |
