@@ -284,6 +284,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [krymancer-zig](./participantes/krymancer-zig) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/krymancer-zig/rinhabackendcrebitossimulation-20240305145740283) |
 | [krymancer](./participantes/krymancer) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/krymancer/rinhabackendcrebitossimulation-20240221011354921) |
 | [lazaronixon](./participantes/lazaronixon) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lazaronixon/rinhabackendcrebitossimulation-20240219094803679) |
+| [lbaesso-dotnet](./participantes/lbaesso-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lbaesso-dotnet/rinhabackendcrebitossimulation-20240305171059790) |
 | [lbaesso-php](./participantes/lbaesso-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lbaesso-php/rinhabackendcrebitossimulation-20240228145300119) |
 | [leluque-micronaut-java](./participantes/leluque-micronaut-java) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leluque-micronaut-java/rinhabackendcrebitossimulation-20240228202200710) |
 | [leoggo_golang](./participantes/leoggo_golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/leoggo_golang/rinhabackendcrebitossimulation-20240305142118627) |
