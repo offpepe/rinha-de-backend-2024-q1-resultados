@@ -34,6 +34,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [LuisKpBeta](./participantes/LuisKpBeta) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/LuisKpBeta/rinhabackendcrebitossimulation-20240227131633713) |
 | [NathanFirmo](./participantes/NathanFirmo) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/NathanFirmo/rinhabackendcrebitossimulation-20240219000603826) |
 | [PatrickChagastavares](./participantes/PatrickChagastavares) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/PatrickChagastavares/rinhabackendcrebitossimulation-20240219001044304) |
+| [abel-golang](./participantes/abel-golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/abel-golang/rinhabackendcrebitossimulation-20240305184909339) |
 | [accerqueira-bash](./participantes/accerqueira-bash) | USD 96980.0 | USD 0.0 | USD 96980.0 | **USD 3020.0** | [link](resultados/accerqueira-bash/rinhabackendcrebitossimulation-20240302161751065) |
 | [accerqueira-redbean-atw-down](./participantes/accerqueira-redbean-atw-down) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/accerqueira-redbean-atw-down/rinhabackendcrebitossimulation-20240219224049400) |
 | [acdesouza](./participantes/acdesouza) | USD 5180.0 | USD 1606.02 | USD 6786.02 | **USD 93213.98** | [link](resultados/acdesouza/rinhabackendcrebitossimulation-20240219182936305) |
@@ -505,7 +506,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | participante | logs |
 | --           | --   |
 | [AlcivanLucas](./participantes/AlcivanLucas) | [docker-compose.logs](./participantes/AlcivanLucas/docker-compose.logs) |
-| [abel-golang](./participantes/abel-golang) | [docker-compose.logs](./participantes/abel-golang/docker-compose.logs) |
 | [alfredomorais](./participantes/alfredomorais) | [docker-compose.logs](./participantes/alfredomorais/docker-compose.logs) |
 | [andrepiske-01](./participantes/andrepiske-01) | [docker-compose.logs](./participantes/andrepiske-01/docker-compose.logs) |
 | [betamedina](./participantes/betamedina) | [docker-compose.logs](./participantes/betamedina/docker-compose.logs) |
