@@ -34,6 +34,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [LuisKpBeta](./participantes/LuisKpBeta) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/LuisKpBeta/rinhabackendcrebitossimulation-20240227131633713) |
 | [NathanFirmo](./participantes/NathanFirmo) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/NathanFirmo/rinhabackendcrebitossimulation-20240219000603826) |
 | [PatrickChagastavares](./participantes/PatrickChagastavares) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/PatrickChagastavares/rinhabackendcrebitossimulation-20240219001044304) |
+| [Vagnerlg](./participantes/Vagnerlg) | USD 95270.0 | USD 0.0 | USD 95270.0 | **USD 4730.0** | [link](resultados/Vagnerlg/rinhabackendcrebitossimulation-20240305215203266) |
 | [abel-golang](./participantes/abel-golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/abel-golang/rinhabackendcrebitossimulation-20240305184909339) |
 | [accerqueira-bash](./participantes/accerqueira-bash) | USD 96980.0 | USD 0.0 | USD 96980.0 | **USD 3020.0** | [link](resultados/accerqueira-bash/rinhabackendcrebitossimulation-20240302161751065) |
 | [accerqueira-redbean-atw-down](./participantes/accerqueira-redbean-atw-down) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/accerqueira-redbean-atw-down/rinhabackendcrebitossimulation-20240219224049400) |
