@@ -316,7 +316,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [lucasew-go-tigerbeetle](./participantes/lucasew-go-tigerbeetle) | USD 93980.0 | USD 2409.03 | USD 96389.03 | **USD 3610.97** | [link](resultados/lucasew-go-tigerbeetle/rinhabackendcrebitossimulation-20240226195721279) |
 | [lucassperez-go-crebito](./participantes/lucassperez-go-crebito) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucassperez-go-crebito/rinhabackendcrebitossimulation-20240223180247103) |
 | [lucaswilliameufrasio](./participantes/lucaswilliameufrasio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucaswilliameufrasio/rinhabackendcrebitossimulation-20240219195710032) |
-| [lucianovilela](./participantes/lucianovilela) | USD 0.0 | USD 1606.02 | USD 1606.02 | **USD 98393.98** | [link](resultados/lucianovilela/rinhabackendcrebitossimulation-20240227032232838) |
+| [lucianovilela](./participantes/lucianovilela) | USD 2930.0 | USD 2409.03 | USD 5339.03 | **USD 94660.97** | [link](resultados/lucianovilela/rinhabackendcrebitossimulation-20240305190117123) |
 | [luisescosta](./participantes/luisescosta) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/luisescosta/rinhabackendcrebitossimulation-20240219105928953) |
 | [luizfrra](./participantes/luizfrra) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/luizfrra/rinhabackendcrebitossimulation-20240219110424899) |
 | [luizgribeiro-monGo](./participantes/luizgribeiro-monGo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/luizgribeiro-monGo/rinhabackendcrebitossimulation-20240219200623597) |
