@@ -470,6 +470,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [victor99z](./participantes/victor99z) | USD 2600.0 | USD 16060.2 | USD 18660.2 | **USD 81339.8** | [link](resultados/victor99z/rinhabackendcrebitossimulation-20240219172422247) |
 | [victornfb](./participantes/victornfb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/victornfb/rinhabackendcrebitossimulation-20240227033415508) |
 | [victorverdoodt](./participantes/victorverdoodt) | USD 0.0 | USD 16060.2 | USD 16060.2 | **USD 83939.8** | [link](resultados/victorverdoodt/rinhabackendcrebitossimulation-20240222164700226) |
+| [vifonsec4-nginx](./participantes/vifonsec4-nginx) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vifonsec4-nginx/rinhabackendcrebitossimulation-20240306022128158) |
 | [vineboneto-js](./participantes/vineboneto-js) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vineboneto-js/rinhabackendcrebitossimulation-20240303151334066) |
 | [vinicius-julio](./participantes/vinicius-julio) | USD 89620.0 | USD 1606.02 | USD 91226.02 | **USD 8773.98** | [link](resultados/vinicius-julio/rinhabackendcrebitossimulation-20240303215208426) |
 | [viniciusamc-golang](./participantes/viniciusamc-golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/viniciusamc-golang/rinhabackendcrebitossimulation-20240301021139076) |
@@ -554,6 +555,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
 | [rodrigoaramburu](./participantes/rodrigoaramburu) | [docker-compose.logs](./participantes/rodrigoaramburu/docker-compose.logs) |
 | [ronistone-spring](./participantes/ronistone-spring) | [docker-compose.logs](./participantes/ronistone-spring/docker-compose.logs) |
+| [vifonsec4-lb-khd0](./participantes/vifonsec4-lb-khd0) | [docker-compose.logs](./participantes/vifonsec4-lb-khd0/docker-compose.logs) |
 | [vineboneto-go](./participantes/vineboneto-go) | [docker-compose.logs](./participantes/vineboneto-go/docker-compose.logs) |
 | [welitonfreitas](./participantes/welitonfreitas) | [docker-compose.logs](./participantes/welitonfreitas/docker-compose.logs) |
 | [wladneto-02](./participantes/wladneto-02) | [docker-compose.logs](./participantes/wladneto-02/docker-compose.logs) |
