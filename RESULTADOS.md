@@ -129,7 +129,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [ddanielvaz](./participantes/ddanielvaz) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ddanielvaz/rinhabackendcrebitossimulation-20240224215808954) |
 | [delzin](./participantes/delzin) | USD 97980.0 | USD 0.0 | USD 97980.0 | **USD 2020.0** | [link](resultados/delzin/rinhabackendcrebitossimulation-20240225150430038) |
 | [deno-cassiogangrel](./participantes/deno-cassiogangrel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/deno-cassiogangrel/rinhabackendcrebitossimulation-20240219033617031) |
-| [densyy-bun](./participantes/densyy-bun) | USD 57420.0 | USD 0.0 | USD 57420.0 | **USD 42580.0** | [link](resultados/densyy-bun/rinhabackendcrebitossimulation-20240305135801988) |
+| [densyy-bun](./participantes/densyy-bun) | USD 65780.0 | USD 0.0 | USD 65780.0 | **USD 34220.0** | [link](resultados/densyy-bun/rinhabackendcrebitossimulation-20240306155730744) |
 | [devblack21](./participantes/devblack21) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/devblack21/rinhabackendcrebitossimulation-20240304174722417) |
 | [devkemc-node](./participantes/devkemc-node) | USD 61110.0 | USD 2409.03 | USD 63519.03 | **USD 36480.97** | [link](resultados/devkemc-node/rinhabackendcrebitossimulation-20240219034050087) |
 | [diego-coronel](./participantes/diego-coronel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/diego-coronel/rinhabackendcrebitossimulation-20240223005156203) |
@@ -230,6 +230,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [gwoliveira-no-db-lock](./participantes/gwoliveira-no-db-lock) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/gwoliveira-no-db-lock/rinhabackendcrebitossimulation-20240219073210534) |
 | [h4ad](./participantes/h4ad) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/h4ad/rinhabackendcrebitossimulation-20240219073639302) |
 | [hallexcosta-hyperf](./participantes/hallexcosta-hyperf) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/hallexcosta-hyperf/rinhabackendcrebitossimulation-20240302015938106) |
+| [heitor-jsr](./participantes/heitor-jsr) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/heitor-jsr/rinhabackendcrebitossimulation-20240306160246467) |
 | [heitor-ps](./participantes/heitor-ps) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/heitor-ps/rinhabackendcrebitossimulation-20240219074217987) |
 | [hendrikaraujo](./participantes/hendrikaraujo) | USD 65340.0 | USD 0.0 | USD 65340.0 | **USD 34660.0** | [link](resultados/hendrikaraujo/rinhabackendcrebitossimulation-20240226193214041) |
 | [henriqueccapozzi-django-01](./participantes/henriqueccapozzi-django-01) | USD 78690.0 | USD 0.0 | USD 78690.0 | **USD 21310.0** | [link](resultados/henriqueccapozzi-django-01/rinhabackendcrebitossimulation-20240227003601987) |
