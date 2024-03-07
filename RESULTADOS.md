@@ -230,6 +230,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [grilario](./participantes/grilario) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/grilario/rinhabackendcrebitossimulation-20240227030740859) |
 | [guaracy-nim](./participantes/guaracy-nim) | USD 23730.0 | USD 1606.02 | USD 25336.02 | **USD 74663.98** | [link](resultados/guaracy-nim/rinhabackendcrebitossimulation-20240225024522375) |
 | [gui9394](./participantes/gui9394) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gui9394/rinhabackendcrebitossimulation-20240302000806871) |
+| [guiestimo](./participantes/guiestimo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/guiestimo/rinhabackendcrebitossimulation-20240307195402852) |
 | [guihbc](./participantes/guihbc) | USD 59360.0 | USD 0.0 | USD 59360.0 | **USD 40640.0** | [link](resultados/guihbc/rinhabackendcrebitossimulation-20240226222708726) |
 | [guilherme-dotnet8](./participantes/guilherme-dotnet8) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/guilherme-dotnet8/rinhabackendcrebitossimulation-20240219071355854) |
 | [gustavofbreunig](./participantes/gustavofbreunig) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gustavofbreunig/rinhabackendcrebitossimulation-20240307151644336) |
