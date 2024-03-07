@@ -341,6 +341,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [m-lnrs](./participantes/m-lnrs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/m-lnrs/rinhabackendcrebitossimulation-20240219110900759) |
 | [macielti](./participantes/macielti) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/macielti/rinhabackendcrebitossimulation-20240224194839283) |
 | [maelalvi-quarkus](./participantes/maelalvi-quarkus) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/maelalvi-quarkus/rinhabackendcrebitossimulation-20240224013643699) |
+| [mal_golang](./participantes/mal_golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mal_golang/rinhabackendcrebitossimulation-20240307180729100) |
 | [marcelo-lucas-dotnet-1](./participantes/marcelo-lucas-dotnet-1) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marcelo-lucas-dotnet-1/rinhabackendcrebitossimulation-20240225230627165) |
 | [marciocg-javaquarkus](./participantes/marciocg-javaquarkus) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marciocg-javaquarkus/rinhabackendcrebitossimulation-20240228234957162) |
 | [marciotoshio](./participantes/marciotoshio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marciotoshio/rinhabackendcrebitossimulation-20240225054352762) |
@@ -572,7 +573,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [lucaswojahn](./participantes/lucaswojahn) | [docker-compose.logs](./participantes/lucaswojahn/docker-compose.logs) |
 | [luizimcpi](./participantes/luizimcpi) | [docker-compose.logs](./participantes/luizimcpi/docker-compose.logs) |
 | [macgarcia](./participantes/macgarcia) | [docker-compose.logs](./participantes/macgarcia/docker-compose.logs) |
-| [mal_golang](./participantes/mal_golang) | [docker-compose.logs](./participantes/mal_golang/docker-compose.logs) |
 | [mari-souza](./participantes/mari-souza) | [docker-compose.logs](./participantes/mari-souza/docker-compose.logs) |
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | [docker-compose.logs](./participantes/met4tron-nodejs/docker-compose.logs) |
 | [nyxawaits](./participantes/nyxawaits) | [docker-compose.logs](./participantes/nyxawaits/docker-compose.logs) |
