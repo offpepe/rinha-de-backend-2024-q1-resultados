@@ -369,6 +369,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [my_way](./participantes/my_way) | USD 41670.0 | USD 0.0 | USD 41670.0 | **USD 58330.0** | [link](resultados/my_way/rinhabackendcrebitossimulation-20240221002249905) |
 | [nathanbahiadev__golang](./participantes/nathanbahiadev__golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nathanbahiadev__golang/rinhabackendcrebitossimulation-20240304181146788) |
 | [nathanbahiadev__python](./participantes/nathanbahiadev__python) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nathanbahiadev__python/rinhabackendcrebitossimulation-20240306233424433) |
+| [nathanbahiadev__typescript](./participantes/nathanbahiadev__typescript) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nathanbahiadev__typescript/rinhabackendcrebitossimulation-20240307032232180) |
 | [navarro](./participantes/navarro) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/navarro/rinhabackendcrebitossimulation-20240307005329069) |
 | [newton](./participantes/newton) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/newton/rinhabackendcrebitossimulation-20240219143421540) |
 | [nicolasmmb-dart](./participantes/nicolasmmb-dart) | USD 86190.0 | USD 43556868.42 | USD 43643058.42 | **USD 0.0** | [link](resultados/nicolasmmb-dart/rinhabackendcrebitossimulation-20240223005637730) |
@@ -459,7 +460,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [thiagodamas-go-swagger-sqlc-postgres](./participantes/thiagodamas-go-swagger-sqlc-postgres) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thiagodamas-go-swagger-sqlc-postgres/rinhabackendcrebitossimulation-20240306222541859) |
 | [thiagosantana](./participantes/thiagosantana) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/thiagosantana/rinhabackendcrebitossimulation-20240219165702382) |
 | [thiagosantana_go](./participantes/thiagosantana_go) | USD 67500.0 | USD 0.0 | USD 67500.0 | **USD 32500.0** | [link](resultados/thiagosantana_go/rinhabackendcrebitossimulation-20240225040958089) |
-| [thiagotn](./participantes/thiagotn) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thiagotn/rinhabackendcrebitossimulation-20240304182558781) |
+| [thiagotn](./participantes/thiagotn) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thiagotn/rinhabackendcrebitossimulation-20240307032726446) |
 | [thicsilva](./participantes/thicsilva) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/thicsilva/rinhabackendcrebitossimulation-20240219170139879) |
 | [thiper01-django](./participantes/thiper01-django) | USD 91680.0 | USD 0.0 | USD 91680.0 | **USD 8320.0** | [link](resultados/thiper01-django/rinhabackendcrebitossimulation-20240229155232507) |
 | [thiper01-fastapi](./participantes/thiper01-fastapi) | USD 79140.0 | USD 0.0 | USD 79140.0 | **USD 20860.0** | [link](resultados/thiper01-fastapi/rinhabackendcrebitossimulation-20240229155713397) |
