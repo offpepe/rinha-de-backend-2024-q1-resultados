@@ -383,6 +383,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [mdssjc-springboot-java](./participantes/mdssjc-springboot-java) | USD 0.0 | USD 803.01 | USD 803.01 | **USD 99196.99** | [link](resultados/mdssjc-springboot-java/rinhabackendcrebitossimulation-20240308025558245) |
 | [mgenteluci](./participantes/mgenteluci) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mgenteluci/rinhabackendcrebitossimulation-20240221165515240) |
 | [michaelalves204](./participantes/michaelalves204) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/michaelalves204/rinhabackendcrebitossimulation-20240303194610874) |
+| [mikaelsouza](./participantes/mikaelsouza) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mikaelsouza/rinhabackendcrebitossimulation-20240308174415643) |
 | [mourishitz-nest-js](./participantes/mourishitz-nest-js) | USD 97950.0 | USD 803.01 | USD 98753.01 | **USD 1246.99** | [link](resultados/mourishitz-nest-js/rinhabackendcrebitossimulation-20240305143545456) |
 | [murilochianfa](./participantes/murilochianfa) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/murilochianfa/rinhabackendcrebitossimulation-20240220233551952) |
 | [mvellasco](./participantes/mvellasco) | USD 32100.0 | USD 0.0 | USD 32100.0 | **USD 67900.0** | [link](resultados/mvellasco/rinhabackendcrebitossimulation-20240306013920736) |
