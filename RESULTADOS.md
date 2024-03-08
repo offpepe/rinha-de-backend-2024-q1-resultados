@@ -138,7 +138,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [delzin](./participantes/delzin) | USD 97980.0 | USD 0.0 | USD 97980.0 | **USD 2020.0** | [link](resultados/delzin/rinhabackendcrebitossimulation-20240225150430038) |
 | [deno-cassiogangrel](./participantes/deno-cassiogangrel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/deno-cassiogangrel/rinhabackendcrebitossimulation-20240219033617031) |
 | [densyy-bun](./participantes/densyy-bun) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/densyy-bun/rinhabackendcrebitossimulation-20240308165824499) |
-| [devblack21](./participantes/devblack21) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/devblack21/rinhabackendcrebitossimulation-20240308202222929) |
+| [devblack21](./participantes/devblack21) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/devblack21/rinhabackendcrebitossimulation-20240308222533223) |
 | [devkemc-node](./participantes/devkemc-node) | USD 61110.0 | USD 2409.03 | USD 63519.03 | **USD 36480.97** | [link](resultados/devkemc-node/rinhabackendcrebitossimulation-20240219034050087) |
 | [diego-coronel](./participantes/diego-coronel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/diego-coronel/rinhabackendcrebitossimulation-20240223005156203) |
 | [diegoalexandrooliveira](./participantes/diegoalexandrooliveira) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/diegoalexandrooliveira/rinhabackendcrebitossimulation-20240219035054671) |
@@ -318,7 +318,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [leoggo_golang](./participantes/leoggo_golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/leoggo_golang/rinhabackendcrebitossimulation-20240305142118627) |
 | [leoggo_rust](./participantes/leoggo_rust) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/leoggo_rust/rinhabackendcrebitossimulation-20240305142556088) |
 | [leonardohofling](./participantes/leonardohofling) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leonardohofling/rinhabackendcrebitossimulation-20240307004902294) |
-| [leonardsoncc-go](./participantes/leonardsoncc-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leonardsoncc-go/rinhabackendcrebitossimulation-20240223010929053) |
+| [leonardsoncc-go](./participantes/leonardsoncc-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leonardsoncc-go/rinhabackendcrebitossimulation-20240308223135032) |
 | [leoralph](./participantes/leoralph) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leoralph/rinhabackendcrebitossimulation-20240219100103820) |
 | [leosima_dotnet](./participantes/leosima_dotnet) | USD 0.0 | USD 15257.19 | USD 15257.19 | **USD 84742.81** | [link](resultados/leosima_dotnet/rinhabackendcrebitossimulation-20240308204117918) |
 | [lfsmariz-go](./participantes/lfsmariz-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lfsmariz-go/rinhabackendcrebitossimulation-20240219193746203) |
@@ -434,8 +434,8 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [raissadev](./participantes/raissadev) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/raissadev/rinhabackendcrebitossimulation-20240301141110322) |
 | [ramondelemos](./participantes/ramondelemos) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramondelemos/rinhabackendcrebitossimulation-20240219153259073) |
 | [ramonmelod-node-express](./participantes/ramonmelod-node-express) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramonmelod-node-express/rinhabackendcrebitossimulation-20240304184009100) |
-| [ramosfabiano](./participantes/ramosfabiano) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramosfabiano/rinhabackendcrebitossimulation-20240304172013187) |
-| [ramosfabiano_v2](./participantes/ramosfabiano_v2) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramosfabiano_v2/rinhabackendcrebitossimulation-20240305011331502) |
+| [ramosfabiano](./participantes/ramosfabiano) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramosfabiano/rinhabackendcrebitossimulation-20240308223623768) |
+| [ramosfabiano_v2](./participantes/ramosfabiano_v2) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramosfabiano_v2/rinhabackendcrebitossimulation-20240308224059908) |
 | [raphaelmonticello](./participantes/raphaelmonticello) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/raphaelmonticello/rinhabackendcrebitossimulation-20240225151007914) |
 | [rdenadai_bun_sqlite](./participantes/rdenadai_bun_sqlite) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rdenadai_bun_sqlite/rinhabackendcrebitossimulation-20240219153729722) |
 | [rdenadai_python](./participantes/rdenadai_python) | USD 0.0 | USD 1606.02 | USD 1606.02 | **USD 98393.98** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240219154228695) |
@@ -609,6 +609,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
 | [rodrigoaramburu](./participantes/rodrigoaramburu) | [docker-compose.logs](./participantes/rodrigoaramburu/docker-compose.logs) |
 | [ronistone-spring](./participantes/ronistone-spring) | [docker-compose.logs](./participantes/ronistone-spring/docker-compose.logs) |
+| [tonycarvalho1994](./participantes/tonycarvalho1994) | [docker-compose.logs](./participantes/tonycarvalho1994/docker-compose.logs) |
 | [vinicius-golang](./participantes/vinicius-golang) | [docker-compose.logs](./participantes/vinicius-golang/docker-compose.logs) |
 | [welitonfreitas](./participantes/welitonfreitas) | [docker-compose.logs](./participantes/welitonfreitas/docker-compose.logs) |
 | [wladneto-02](./participantes/wladneto-02) | [docker-compose.logs](./participantes/wladneto-02/docker-compose.logs) |
