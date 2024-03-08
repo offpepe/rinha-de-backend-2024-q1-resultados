@@ -529,9 +529,9 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [vitorlacerda-golang](./participantes/vitorlacerda-golang) | USD 0.0 | USD 803.01 | USD 803.01 | **USD 99196.99** | [link](resultados/vitorlacerda-golang/rinhabackendcrebitossimulation-20240308212036516) |
 | [vitornorberto](./participantes/vitornorberto) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitornorberto/rinhabackendcrebitossimulation-20240228041509795) |
 | [vitorrt-nodejs](./participantes/vitorrt-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorrt-nodejs/rinhabackendcrebitossimulation-20240219173812107) |
-| [vitorsalgado-custom-lb](./participantes/vitorsalgado-custom-lb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorsalgado-custom-lb/rinhabackendcrebitossimulation-20240303220123592) |
-| [vitorsalgado-nodejs](./participantes/vitorsalgado-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorsalgado-nodejs/rinhabackendcrebitossimulation-20240306224542627) |
-| [vitorsalgado](./participantes/vitorsalgado) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorsalgado/rinhabackendcrebitossimulation-20240303195043953) |
+| [vitorsalgado-custom-lb](./participantes/vitorsalgado-custom-lb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorsalgado-custom-lb/rinhabackendcrebitossimulation-20240308231641936) |
+| [vitorsalgado-nodejs](./participantes/vitorsalgado-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorsalgado-nodejs/rinhabackendcrebitossimulation-20240308232126479) |
+| [vitorsalgado](./participantes/vitorsalgado) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vitorsalgado/rinhabackendcrebitossimulation-20240308232600865) |
 | [vkobinski](./participantes/vkobinski) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/vkobinski/rinhabackendcrebitossimulation-20240304184449597) |
 | [vyctorguimaraes](./participantes/vyctorguimaraes) | USD 0.0 | USD 173450.16 | USD 173450.16 | **USD 0.0** | [link](resultados/vyctorguimaraes/rinhabackendcrebitossimulation-20240303195520842) |
 | [wagner](./participantes/wagner) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wagner/rinhabackendcrebitossimulation-20240305144524980) |
