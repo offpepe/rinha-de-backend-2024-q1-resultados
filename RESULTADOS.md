@@ -340,6 +340,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [leonardsoncc-go](./participantes/leonardsoncc-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leonardsoncc-go/rinhabackendcrebitossimulation-20240308223135032) |
 | [leoralph](./participantes/leoralph) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leoralph/rinhabackendcrebitossimulation-20240219100103820) |
 | [leosima_dotnet](./participantes/leosima_dotnet) | USD 0.0 | USD 15257.19 | USD 15257.19 | **USD 84742.81** | [link](resultados/leosima_dotnet/rinhabackendcrebitossimulation-20240308204117918) |
+| [levifonseca](./participantes/levifonseca) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/levifonseca/rinhabackendcrebitossimulation-20240309221447271) |
 | [lfsmariz-go](./participantes/lfsmariz-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lfsmariz-go/rinhabackendcrebitossimulation-20240219193746203) |
 | [limaenz-dotnet](./participantes/limaenz-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/limaenz-dotnet/rinhabackendcrebitossimulation-20240308233217293) |
 | [lipe1994_dotnet](./participantes/lipe1994_dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lipe1994_dotnet/rinhabackendcrebitossimulation-20240306015521483) |
