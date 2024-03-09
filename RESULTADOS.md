@@ -502,6 +502,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [sergipebackend-java](./participantes/sergipebackend-java) | USD 53710.0 | USD 0.0 | USD 53710.0 | **USD 46290.0** | [link](resultados/sergipebackend-java/rinhabackendcrebitossimulation-20240307225944543) |
 | [silmar-alberti-franken-php](./participantes/silmar-alberti-franken-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/silmar-alberti-franken-php/rinhabackendcrebitossimulation-20240227002545923) |
 | [sinatrinha-do-povo](./participantes/sinatrinha-do-povo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/sinatrinha-do-povo/rinhabackendcrebitossimulation-20240221003201867) |
+| [skvggor-pankkivahva-rust](./participantes/skvggor-pankkivahva-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/skvggor-pankkivahva-rust/rinhabackendcrebitossimulation-20240309195704120) |
 | [stefannovasky-kitajs](./participantes/stefannovasky-kitajs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/stefannovasky-kitajs/rinhabackendcrebitossimulation-20240302041447326) |
 | [stefannovasky](./participantes/stefannovasky) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/stefannovasky/rinhabackendcrebitossimulation-20240219225117151) |
 | [sudo-victor-js](./participantes/sudo-victor-js) | USD 86560.0 | USD 301128.75 | USD 387688.75 | **USD 0.0** | [link](resultados/sudo-victor-js/rinhabackendcrebitossimulation-20240307230424016) |
@@ -593,6 +594,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [brunoquinelato](./participantes/brunoquinelato) | [docker-compose.logs](./participantes/brunoquinelato/docker-compose.logs) |
 | [cacambito](./participantes/cacambito) | [docker-compose.logs](./participantes/cacambito/docker-compose.logs) |
 | [casanje](./participantes/casanje) | [docker-compose.logs](./participantes/casanje/docker-compose.logs) |
+| [cassiano-matheuszinho-java](./participantes/cassiano-matheuszinho-java) | [docker-compose.logs](./participantes/cassiano-matheuszinho-java/docker-compose.logs) |
 | [cesar-rodrigues](./participantes/cesar-rodrigues) | [docker-compose.logs](./participantes/cesar-rodrigues/docker-compose.logs) |
 | [claudioavgo](./participantes/claudioavgo) | [docker-compose.logs](./participantes/claudioavgo/docker-compose.logs) |
 | [cleverton-rocha-java](./participantes/cleverton-rocha-java) | [docker-compose.logs](./participantes/cleverton-rocha-java/docker-compose.logs) |
@@ -617,6 +619,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [leonardoksn](./participantes/leonardoksn) | [docker-compose.logs](./participantes/leonardoksn/docker-compose.logs) |
 | [leonardovee](./participantes/leonardovee) | [docker-compose.logs](./participantes/leonardovee/docker-compose.logs) |
 | [luan-javalin](./participantes/luan-javalin) | [docker-compose.logs](./participantes/luan-javalin/docker-compose.logs) |
+| [lucasmolinari](./participantes/lucasmolinari) | [docker-compose.logs](./participantes/lucasmolinari/docker-compose.logs) |
 | [lucaswojahn](./participantes/lucaswojahn) | [docker-compose.logs](./participantes/lucaswojahn/docker-compose.logs) |
 | [luizimcpi](./participantes/luizimcpi) | [docker-compose.logs](./participantes/luizimcpi/docker-compose.logs) |
 | [macgarcia](./participantes/macgarcia) | [docker-compose.logs](./participantes/macgarcia/docker-compose.logs) |
