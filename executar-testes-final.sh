@@ -71,8 +71,6 @@ generateResults() {
     (
         participante=$(echo $diretorio | sed -e 's/resultados\///g' -e 's/\///g')
 
-        echo "------------"
-
         reportFileCount=$(find $diretorio -name index.html | wc -l)
 
         if [ $reportFileCount -eq "1" ]; then
@@ -99,7 +97,6 @@ generateResults() {
             echo -n "| **USD ${pagamento}** " >> TEMP-OK.md
             echo    "| [link]($reportDir) |" >> TEMP-OK.md
         else
-            echo "$participante sem relatório para computar"
             echo -n "| [$participante](./participantes/$participante) " >> TEMP-NOK.md
             echo    "| [docker-compose.logs](./participantes/$participante/docker-compose.logs) |" >> TEMP-NOK.md
         fi
@@ -151,14 +148,13 @@ runAllTests() {
     for diretorio in participantes/*/; do
     (
         participante=$(echo $diretorio | sed -e 's/participantes\///g' -e 's/\///g')
-        echo "======================"
-        echo $participante
+        #echo "======================"
+        #echo $participante
 
         testedFile="$diretorio/testada"
 
-        if test -f $testedFile; then
-            echo "submissão '$participante' já testada - ignorando"
-        else
+        if ! test -f $testedFile; then
+            #echo "submissão '$participante' já testada - ignorando"
             rm -rf "$RESULTS_WORKSPACE/$participante"
             countAPIsToBeTested
             startApi $participante
