@@ -4,5 +4,5 @@ while true
 do
     ./executar-testes-final.sh
     echo "iteração terminada..."
-    sleep 360
+    sleep 120
 done
