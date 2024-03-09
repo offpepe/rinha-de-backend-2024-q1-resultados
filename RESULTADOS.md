@@ -260,6 +260,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [henr1q-fastapi](./participantes/henr1q-fastapi) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/henr1q-fastapi/rinhabackendcrebitossimulation-20240308170847325) |
 | [henriqueccapozzi-django-01](./participantes/henriqueccapozzi-django-01) | USD 78690.0 | USD 0.0 | USD 78690.0 | **USD 21310.0** | [link](resultados/henriqueccapozzi-django-01/rinhabackendcrebitossimulation-20240227003601987) |
 | [henriqueholtz](./participantes/henriqueholtz) | USD 90680.0 | USD 5621.07 | USD 96301.07 | **USD 3698.93** | [link](resultados/henriqueholtz/rinhabackendcrebitossimulation-20240219192304835) |
+| [hfurlan-java-transacao-particionada](./participantes/hfurlan-java-transacao-particionada) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/hfurlan-java-transacao-particionada/rinhabackendcrebitossimulation-20240309182017966) |
 | [hfurlan-java](./participantes/hfurlan-java) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/hfurlan-java/rinhabackendcrebitossimulation-20240308024802878) |
 | [hfurlan](./participantes/hfurlan) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/hfurlan/rinhabackendcrebitossimulation-20240219075128473) |
 | [hiroshimorowaka-golang](./participantes/hiroshimorowaka-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/hiroshimorowaka-golang/rinhabackendcrebitossimulation-20240228034253606) |
