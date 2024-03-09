@@ -368,6 +368,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [macielti](./participantes/macielti) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/macielti/rinhabackendcrebitossimulation-20240224194839283) |
 | [maelalvi-quarkus](./participantes/maelalvi-quarkus) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/maelalvi-quarkus/rinhabackendcrebitossimulation-20240224013643699) |
 | [mal_golang](./participantes/mal_golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mal_golang/rinhabackendcrebitossimulation-20240307180729100) |
+| [mangar-golang](./participantes/mangar-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mangar-golang/rinhabackendcrebitossimulation-20240309192558568) |
 | [marcelo-lucas-dotnet-1](./participantes/marcelo-lucas-dotnet-1) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marcelo-lucas-dotnet-1/rinhabackendcrebitossimulation-20240225230627165) |
 | [marciocg-javaquarkus](./participantes/marciocg-javaquarkus) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marciocg-javaquarkus/rinhabackendcrebitossimulation-20240228234957162) |
 | [marciotoshio](./participantes/marciotoshio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/marciotoshio/rinhabackendcrebitossimulation-20240225054352762) |
@@ -397,7 +398,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [maxel-uds](./participantes/maxel-uds) | USD 60350.0 | USD 0.0 | USD 60350.0 | **USD 39650.0** | [link](resultados/maxel-uds/rinhabackendcrebitossimulation-20240304030305251) |
 | [maxwell-fs](./participantes/maxwell-fs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/maxwell-fs/rinhabackendcrebitossimulation-20240309184906661) |
 | [maxwell](./participantes/maxwell) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/maxwell/rinhabackendcrebitossimulation-20240221152806744) |
-| [mdssjc-springboot-java](./participantes/mdssjc-springboot-java) | USD 51550.0 | USD 2409.03 | USD 53959.03 | **USD 46040.97** | [link](resultados/mdssjc-springboot-java/rinhabackendcrebitossimulation-20240309020006182) |
+| [mdssjc-springboot-java](./participantes/mdssjc-springboot-java) | USD 97830.0 | USD 803.01 | USD 98633.01 | **USD 1366.99** | [link](resultados/mdssjc-springboot-java/rinhabackendcrebitossimulation-20240309193025993) |
 | [mgenteluci](./participantes/mgenteluci) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mgenteluci/rinhabackendcrebitossimulation-20240221165515240) |
 | [michaelalves204](./participantes/michaelalves204) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/michaelalves204/rinhabackendcrebitossimulation-20240303194610874) |
 | [mikaelsouza](./participantes/mikaelsouza) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mikaelsouza/rinhabackendcrebitossimulation-20240308174415643) |
@@ -556,6 +557,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [wagner](./participantes/wagner) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wagner/rinhabackendcrebitossimulation-20240305144524980) |
 | [wdmatheus](./participantes/wdmatheus) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wdmatheus/rinhabackendcrebitossimulation-20240306225014920) |
 | [wesleyegberto](./participantes/wesleyegberto) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wesleyegberto/rinhabackendcrebitossimulation-20240224223754700) |
+| [wesleyricardi-rust](./participantes/wesleyricardi-rust) | USD 75680.0 | USD 0.0 | USD 75680.0 | **USD 24320.0** | [link](resultados/wesleyricardi-rust/rinhabackendcrebitossimulation-20240309193549898) |
 | [weversonl](./participantes/weversonl) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/weversonl/rinhabackendcrebitossimulation-20240307230928253) |
 | [whyakari](./participantes/whyakari) | USD 0.0 | USD 278644.47 | USD 278644.47 | **USD 0.0** | [link](resultados/whyakari/rinhabackendcrebitossimulation-20240308163541039) |
 | [wiliamvj](./participantes/wiliamvj) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/wiliamvj/rinhabackendcrebitossimulation-20240301010025084) |
