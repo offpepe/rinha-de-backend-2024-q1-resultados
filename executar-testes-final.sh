@@ -62,27 +62,26 @@ generateResults() {
     echo " " > TEMP-NOK.md
     echo "| participante | logs |" >> TEMP-NOK.md
     echo "| --           | --   |" >> TEMP-NOK.md
-    
+
     valorContrato=100000.0
     SLARespostasOk=98.0
     multaInconsistenciaSaldoLimiteUnidade=803.01
-
+   echo "computando participantes..."
     for diretorio in resultados/*/; do
     (
         participante=$(echo $diretorio | sed -e 's/resultados\///g' -e 's/\///g')
 
         echo "------------"
-        
+
         reportFileCount=$(find $diretorio -name index.html | wc -l)
 
         if [ $reportFileCount -eq "1" ]; then
-            echo computando $participante
 
             arquivoStats=$(find $diretorio -name stats.json)
             reportFile=$(find $diretorio -name index.html)
             simulationFile=$(find $diretorio -name simulation.log)
             reportDir=$(dirname $reportFile)
-            
+
             totalRequests=$(cat $arquivoStats | jq '.stats.numberOfRequests.total')
             responsesOkMenos250ms=$(cat $arquivoStats | jq '.stats.group1.count')
             porcentagemRespostasAceitaveis=$(python3 -c "print(round(${responsesOkMenos250ms} / ${totalRequests} * 100, 2))")
@@ -109,17 +108,17 @@ generateResults() {
 
     cat RESULTADOS-HEADER.md > RESULTADOS.md
     cat TEMP-OK.md >> RESULTADOS.md
-    
+
     echo " " >> RESULTADOS.md
     echo "#### Participantes Sem Execução/Relatório" >> RESULTADOS.md
     cat TEMP-NOK.md >> RESULTADOS.md
-    
+
     rm TEMP-OK.md
     rm TEMP-NOK.md
 }
 
 generateTestsStatus() {
-    
+
     numParticipantes=$(ls -d participantes/*/ | wc -l)
 
     echo "# Status da Execução dos Testes" > STATUS-TESTES.md
@@ -173,11 +172,12 @@ runAllTests() {
 }
 
 limitLogsSize() {
+    echo "limitando logs..."
     for diretorio in participantes/*/; do
     (
         participante=$(echo $diretorio | sed -e 's/participantes\///g' -e 's/\///g')
         logs=$(find $diretorio -name docker-compose.logs | wc -l)
-        echo "limitando logs para $participante..."
+
         if [ $logs -eq "1" ]; then
             head -n 500 $diretorio/docker-compose.logs > $diretorio/docker-compose.logs~
             mv -f $diretorio/docker-compose.logs~ $diretorio/docker-compose.logs
