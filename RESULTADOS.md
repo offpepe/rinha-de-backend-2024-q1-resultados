@@ -29,6 +29,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [1garo](./participantes/1garo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/1garo/rinhabackendcrebitossimulation-20240218235136818) |
 | [4emcos-golang](./participantes/4emcos-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/4emcos-golang/rinhabackendcrebitossimulation-20240307132711201) |
 | [4emcos-nodejs](./participantes/4emcos-nodejs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/4emcos-nodejs/rinhabackendcrebitossimulation-20240309043200963) |
+| [BrayaOrtega](./participantes/BrayaOrtega) | USD 530.0 | USD 2409.03 | USD 2939.03 | **USD 97060.97** | [link](resultados/BrayaOrtega/rinhabackendcrebitossimulation-20240309081214802) |
 | [Edmar-Sousa](./participantes/Edmar-Sousa) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/Edmar-Sousa/rinhabackendcrebitossimulation-20240218235648977) |
 | [Fabricio-net8](./participantes/Fabricio-net8) | USD 61720.0 | USD 0.0 | USD 61720.0 | **USD 38280.0** | [link](resultados/Fabricio-net8/rinhabackendcrebitossimulation-20240219000122947) |
 | [FaelLima98](./participantes/FaelLima98) | USD 60870.0 | USD 2409.03 | USD 63279.03 | **USD 36720.97** | [link](resultados/FaelLima98/rinhabackendcrebitossimulation-20240221205233193) |
