@@ -257,6 +257,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [ghhernandes](./participantes/ghhernandes) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ghhernandes/rinhabackendcrebitossimulation-20240226021615862) |
 | [ghost-in-the-machine-86](./participantes/ghost-in-the-machine-86) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ghost-in-the-machine-86/rinhabackendcrebitossimulation-20240301184201579) |
 | [gianimpronta-springboot](./participantes/gianimpronta-springboot) | USD 97930.0 | USD 803.01 | USD 98733.01 | **USD 1266.99** | [link](resultados/gianimpronta-springboot/rinhabackendcrebitossimulation-20240224011115842) |
+| [gicornachini](./participantes/gicornachini) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gicornachini/rinhabackendcrebitossimulation-20240310225537620) |
 | [gilbertojnj-java](./participantes/gilbertojnj-java) | USD 97750.0 | USD 803.01 | USD 98553.01 | **USD 1446.99** | [link](resultados/gilbertojnj-java/rinhabackendcrebitossimulation-20240310041433012) |
 | [gilmardealcantara](./participantes/gilmardealcantara) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gilmardealcantara/rinhabackendcrebitossimulation-20240219064210712) |
 | [giovannibassi-nonpooled](./participantes/giovannibassi-nonpooled) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/giovannibassi-nonpooled/rinhabackendcrebitossimulation-20240222162838604) |
@@ -542,6 +543,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [rmauro-postgresql-yarp](./participantes/rmauro-postgresql-yarp) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rmauro-postgresql-yarp/rinhabackendcrebitossimulation-20240303031323222) |
 | [rmauro-postgresql](./participantes/rmauro-postgresql) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rmauro-postgresql/rinhabackendcrebitossimulation-20240303031802380) |
 | [rmauro](./participantes/rmauro) | USD 36010.0 | USD 970839.09 | USD 1006849.09 | **USD 0.0** | [link](resultados/rmauro/rinhabackendcrebitossimulation-20240229013750699) |
+| [robertoseba](./participantes/robertoseba) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/robertoseba/rinhabackendcrebitossimulation-20240310230022799) |
 | [robsoncassol](./participantes/robsoncassol) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/robsoncassol/rinhabackendcrebitossimulation-20240307225510195) |
 | [rodolphovs-c-db](./participantes/rodolphovs-c-db) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rodolphovs-c-db/rinhabackendcrebitossimulation-20240225040013389) |
 | [rodolphovs-rs](./participantes/rodolphovs-rs) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rodolphovs-rs/rinhabackendcrebitossimulation-20240225040505176) |
@@ -596,6 +598,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [tiagoguerreirodev-go](./participantes/tiagoguerreirodev-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tiagoguerreirodev-go/rinhabackendcrebitossimulation-20240302222751886) |
 | [tiagoguerreirodev-python](./participantes/tiagoguerreirodev-python) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tiagoguerreirodev-python/rinhabackendcrebitossimulation-20240304005043651) |
 | [tiagorconceicao-node](./participantes/tiagorconceicao-node) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tiagorconceicao-node/rinhabackendcrebitossimulation-20240308213256964) |
+| [tomer](./participantes/tomer) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tomer/rinhabackendcrebitossimulation-20240310230534224) |
 | [tonholis-dotnet](./participantes/tonholis-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tonholis-dotnet/rinhabackendcrebitossimulation-20240226224115630) |
 | [tonico](./participantes/tonico) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/tonico/rinhabackendcrebitossimulation-20240228220334143) |
 | [tonycarvalho1994-python](./participantes/tonycarvalho1994-python) | USD 81600.0 | USD 0.0 | USD 81600.0 | **USD 18400.0** | [link](resultados/tonycarvalho1994-python/rinhabackendcrebitossimulation-20240310220344414) |
