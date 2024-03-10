@@ -340,7 +340,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [leoggo_golang](./participantes/leoggo_golang) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/leoggo_golang/rinhabackendcrebitossimulation-20240305142118627) |
 | [leoggo_rust](./participantes/leoggo_rust) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/leoggo_rust/rinhabackendcrebitossimulation-20240305142556088) |
 | [leonardohofling](./participantes/leonardohofling) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leonardohofling/rinhabackendcrebitossimulation-20240307004902294) |
-| [leonardsoncc-go](./participantes/leonardsoncc-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leonardsoncc-go/rinhabackendcrebitossimulation-20240308223135032) |
+| [leonardsoncc-go](./participantes/leonardsoncc-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leonardsoncc-go/rinhabackendcrebitossimulation-20240310013810688) |
 | [leoralph](./participantes/leoralph) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leoralph/rinhabackendcrebitossimulation-20240219100103820) |
 | [leosima_dotnet](./participantes/leosima_dotnet) | USD 0.0 | USD 15257.19 | USD 15257.19 | **USD 84742.81** | [link](resultados/leosima_dotnet/rinhabackendcrebitossimulation-20240308204117918) |
 | [levifonseca](./participantes/levifonseca) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/levifonseca/rinhabackendcrebitossimulation-20240309221447271) |
