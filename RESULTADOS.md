@@ -128,6 +128,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [caravanacloud](./participantes/caravanacloud) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/caravanacloud/rinhabackendcrebitossimulation-20240309183826507) |
 | [carijo-slim](./participantes/carijo-slim) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carijo-slim/rinhabackendcrebitossimulation-20240227132119174) |
 | [carlosdemarco](./participantes/carlosdemarco) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carlosdemarco/rinhabackendcrebitossimulation-20240305000033257) |
+| [carloseduard0](./participantes/carloseduard0) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carloseduard0/rinhabackendcrebitossimulation-20240310203838889) |
 | [carls-rodrigues](./participantes/carls-rodrigues) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carls-rodrigues/rinhabackendcrebitossimulation-20240310183955024) |
 | [carlsonsantana-springboot](./participantes/carlsonsantana-springboot) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/carlsonsantana-springboot/rinhabackendcrebitossimulation-20240225225007289) |
 | [cassiano-manuelzinho-golang](./participantes/cassiano-manuelzinho-golang) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/cassiano-manuelzinho-golang/rinhabackendcrebitossimulation-20240219030200916) |
@@ -350,8 +351,8 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [krymancer-zig](./participantes/krymancer-zig) | USD 40070.0 | USD 5158536.24 | USD 5198606.24 | **USD 0.0** | [link](resultados/krymancer-zig/rinhabackendcrebitossimulation-20240308171813175) |
 | [krymancer](./participantes/krymancer) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/krymancer/rinhabackendcrebitossimulation-20240308172246567) |
 | [lazaronixon](./participantes/lazaronixon) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lazaronixon/rinhabackendcrebitossimulation-20240219094803679) |
-| [lbaesso-dotnet](./participantes/lbaesso-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lbaesso-dotnet/rinhabackendcrebitossimulation-20240305171059790) |
-| [lbaesso-php](./participantes/lbaesso-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lbaesso-php/rinhabackendcrebitossimulation-20240228145300119) |
+| [lbaesso-dotnet](./participantes/lbaesso-dotnet) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lbaesso-dotnet/rinhabackendcrebitossimulation-20240310204537686) |
+| [lbaesso-php](./participantes/lbaesso-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lbaesso-php/rinhabackendcrebitossimulation-20240310205011856) |
 | [lec-codes-go-rinha](./participantes/lec-codes-go-rinha) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lec-codes-go-rinha/rinhabackendcrebitossimulation-20240310190006242) |
 | [leluque-micronaut-java](./participantes/leluque-micronaut-java) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leluque-micronaut-java/rinhabackendcrebitossimulation-20240228202200710) |
 | [leodf-go](./participantes/leodf-go) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/leodf-go/rinhabackendcrebitossimulation-20240308172717137) |
@@ -509,6 +510,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [ramosfabiano](./participantes/ramosfabiano) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramosfabiano/rinhabackendcrebitossimulation-20240308223623768) |
 | [ramosfabiano_v2](./participantes/ramosfabiano_v2) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/ramosfabiano_v2/rinhabackendcrebitossimulation-20240308224059908) |
 | [raphaelmonticello](./participantes/raphaelmonticello) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/raphaelmonticello/rinhabackendcrebitossimulation-20240225151007914) |
+| [rayan-elixir](./participantes/rayan-elixir) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rayan-elixir/rinhabackendcrebitossimulation-20240310205439922) |
 | [rdenadai_bun_sqlite](./participantes/rdenadai_bun_sqlite) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rdenadai_bun_sqlite/rinhabackendcrebitossimulation-20240219153729722) |
 | [rdenadai_python](./participantes/rdenadai_python) | USD 0.0 | USD 1606.02 | USD 1606.02 | **USD 98393.98** | [link](resultados/rdenadai_python/rinhabackendcrebitossimulation-20240219154228695) |
 | [rdenadai_rust](./participantes/rdenadai_rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/rdenadai_rust/rinhabackendcrebitossimulation-20240219154748448) |
@@ -685,6 +687,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [halexv](./participantes/halexv) | [docker-compose.logs](./participantes/halexv/docker-compose.logs) |
 | [jnariai](./participantes/jnariai) | [docker-compose.logs](./participantes/jnariai/docker-compose.logs) |
 | [jpcairesf-java](./participantes/jpcairesf-java) | [docker-compose.logs](./participantes/jpcairesf-java/docker-compose.logs) |
+| [juniodbl](./participantes/juniodbl) | [docker-compose.logs](./participantes/juniodbl/docker-compose.logs) |
 | [kiro-tagama](./participantes/kiro-tagama) | [docker-compose.logs](./participantes/kiro-tagama/docker-compose.logs) |
 | [leandro-sousa](./participantes/leandro-sousa) | [docker-compose.logs](./participantes/leandro-sousa/docker-compose.logs) |
 | [leluque](./participantes/leluque) | [docker-compose.logs](./participantes/leluque/docker-compose.logs) |
@@ -706,6 +709,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [rizzo-nodejs](./participantes/rizzo-nodejs) | [docker-compose.logs](./participantes/rizzo-nodejs/docker-compose.logs) |
 | [rodrigoaramburu](./participantes/rodrigoaramburu) | [docker-compose.logs](./participantes/rodrigoaramburu/docker-compose.logs) |
 | [ronistone-spring](./participantes/ronistone-spring) | [docker-compose.logs](./participantes/ronistone-spring/docker-compose.logs) |
+| [tonycarvalho1994-python](./participantes/tonycarvalho1994-python) | [docker-compose.logs](./participantes/tonycarvalho1994-python/docker-compose.logs) |
 | [vinicius-golang](./participantes/vinicius-golang) | [docker-compose.logs](./participantes/vinicius-golang/docker-compose.logs) |
 | [vkobinski](./participantes/vkobinski) | [docker-compose.logs](./participantes/vkobinski/docker-compose.logs) |
 | [welitonfreitas](./participantes/welitonfreitas) | [docker-compose.logs](./participantes/welitonfreitas/docker-compose.logs) |
