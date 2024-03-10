@@ -365,6 +365,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [lucas-hsm](./participantes/lucas-hsm) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucas-hsm/rinhabackendcrebitossimulation-20240219104438825) |
 | [lucasSSalgado](./participantes/lucasSSalgado) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucasSSalgado/rinhabackendcrebitossimulation-20240304232935702) |
 | [lucasSSalgadov2](./participantes/lucasSSalgadov2) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucasSSalgadov2/rinhabackendcrebitossimulation-20240304233405356) |
+| [lucas_delboni](./participantes/lucas_delboni) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/lucas_delboni/rinhabackendcrebitossimulation-20240310021059540) |
 | [lucasdev2005](./participantes/lucasdev2005) | USD 73900.0 | USD 803.01 | USD 74703.01 | **USD 25296.99** | [link](resultados/lucasdev2005/rinhabackendcrebitossimulation-20240221152325718) |
 | [lucasew-go-tigerbeetle](./participantes/lucasew-go-tigerbeetle) | USD 93980.0 | USD 2409.03 | USD 96389.03 | **USD 3610.97** | [link](resultados/lucasew-go-tigerbeetle/rinhabackendcrebitossimulation-20240226195721279) |
 | [lucasmancan](./participantes/lucasmancan) | USD 90790.0 | USD 0.0 | USD 90790.0 | **USD 9210.0** | [link](resultados/lucasmancan/rinhabackendcrebitossimulation-20240309184415523) |
@@ -403,6 +404,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [mateuscolvr](./participantes/mateuscolvr) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mateuscolvr/rinhabackendcrebitossimulation-20240219115017637) |
 | [mateusdeitos-node](./participantes/mateusdeitos-node) | USD 94830.0 | USD 0.0 | USD 94830.0 | **USD 5170.0** | [link](resultados/mateusdeitos-node/rinhabackendcrebitossimulation-20240219115452421) |
 | [mateusdeitos-php-swoole](./participantes/mateusdeitos-php-swoole) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/mateusdeitos-php-swoole/rinhabackendcrebitossimulation-20240303013931400) |
+| [matheus-mr](./participantes/matheus-mr) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheus-mr/rinhabackendcrebitossimulation-20240310021537022) |
 | [matheus-trindade](./participantes/matheus-trindade) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheus-trindade/rinhabackendcrebitossimulation-20240229003940333) |
 | [matheusdojava](./participantes/matheusdojava) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheusdojava/rinhabackendcrebitossimulation-20240306230731644) |
 | [matheusfbosa](./participantes/matheusfbosa) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/matheusfbosa/rinhabackendcrebitossimulation-20240224014736768) |
@@ -646,7 +648,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [leonardoksn](./participantes/leonardoksn) | [docker-compose.logs](./participantes/leonardoksn/docker-compose.logs) |
 | [leonardovee](./participantes/leonardovee) | [docker-compose.logs](./participantes/leonardovee/docker-compose.logs) |
 | [luan-javalin](./participantes/luan-javalin) | [docker-compose.logs](./participantes/luan-javalin/docker-compose.logs) |
-| [lucas_delboni](./participantes/lucas_delboni) | [docker-compose.logs](./participantes/lucas_delboni/docker-compose.logs) |
 | [lucaswojahn](./participantes/lucaswojahn) | [docker-compose.logs](./participantes/lucaswojahn/docker-compose.logs) |
 | [luizimcpi](./participantes/luizimcpi) | [docker-compose.logs](./participantes/luizimcpi/docker-compose.logs) |
 | [macgarcia](./participantes/macgarcia) | [docker-compose.logs](./participantes/macgarcia/docker-compose.logs) |
