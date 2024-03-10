@@ -214,6 +214,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [felipelaraujo](./participantes/felipelaraujo) | USD 94920.0 | USD 803.01 | USD 95723.01 | **USD 4276.99** | [link](resultados/felipelaraujo/rinhabackendcrebitossimulation-20240310162955128) |
 | [felipemarkson](./participantes/felipemarkson) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipemarkson/rinhabackendcrebitossimulation-20240220203634908) |
 | [felipeoriani](./participantes/felipeoriani) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipeoriani/rinhabackendcrebitossimulation-20240306215858950) |
+| [felipeparaujo](./participantes/felipeparaujo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipeparaujo/rinhabackendcrebitossimulation-20240310222359699) |
 | [felipeymn](./participantes/felipeymn) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipeymn/rinhabackendcrebitossimulation-20240227005911891) |
 | [felipma-rust-rataria-version](./participantes/felipma-rust-rataria-version) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipma-rust-rataria-version/rinhabackendcrebitossimulation-20240307030217259) |
 | [felipma-rust](./participantes/felipma-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/felipma-rust/rinhabackendcrebitossimulation-20240224010142087) |
@@ -431,6 +432,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [matheus-mr](./participantes/matheus-mr) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheus-mr/rinhabackendcrebitossimulation-20240310021537022) |
 | [matheus-trindade](./participantes/matheus-trindade) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheus-trindade/rinhabackendcrebitossimulation-20240229003940333) |
 | [matheusbaptistella-rust](./participantes/matheusbaptistella-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheusbaptistella-rust/rinhabackendcrebitossimulation-20240310214007544) |
+| [matheuscamargo](./participantes/matheuscamargo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheuscamargo/rinhabackendcrebitossimulation-20240310222944946) |
 | [matheusdojava](./participantes/matheusdojava) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/matheusdojava/rinhabackendcrebitossimulation-20240306230731644) |
 | [matheusfbosa](./participantes/matheusfbosa) | USD 0.0 | USD 2409.03 | USD 2409.03 | **USD 97590.97** | [link](resultados/matheusfbosa/rinhabackendcrebitossimulation-20240224014736768) |
 | [matheuslao](./participantes/matheuslao) | USD 66090.0 | USD 0.0 | USD 66090.0 | **USD 33910.0** | [link](resultados/matheuslao/rinhabackendcrebitossimulation-20240219120500599) |
@@ -682,7 +684,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [doceazedo](./participantes/doceazedo) | [docker-compose.logs](./participantes/doceazedo/docker-compose.logs) |
 | [elioenaiferrari](./participantes/elioenaiferrari) | [docker-compose.logs](./participantes/elioenaiferrari/docker-compose.logs) |
 | [elixiremfoco](./participantes/elixiremfoco) | [docker-compose.logs](./participantes/elixiremfoco/docker-compose.logs) |
-| [felipeparaujo](./participantes/felipeparaujo) | [docker-compose.logs](./participantes/felipeparaujo/docker-compose.logs) |
 | [felipph-calado-nodejs](./participantes/felipph-calado-nodejs) | [docker-compose.logs](./participantes/felipph-calado-nodejs/docker-compose.logs) |
 | [fernandomedeiros](./participantes/fernandomedeiros) | [docker-compose.logs](./participantes/fernandomedeiros/docker-compose.logs) |
 | [fielcapao-javaslow-no-framework](./participantes/fielcapao-javaslow-no-framework) | [docker-compose.logs](./participantes/fielcapao-javaslow-no-framework/docker-compose.logs) |
@@ -697,6 +698,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [gusinacio](./participantes/gusinacio) | [docker-compose.logs](./participantes/gusinacio/docker-compose.logs) |
 | [halexv](./participantes/halexv) | [docker-compose.logs](./participantes/halexv/docker-compose.logs) |
 | [jnariai](./participantes/jnariai) | [docker-compose.logs](./participantes/jnariai/docker-compose.logs) |
+| [joaobittencourt-php](./participantes/joaobittencourt-php) | [docker-compose.logs](./participantes/joaobittencourt-php/docker-compose.logs) |
 | [jpcairesf-java](./participantes/jpcairesf-java) | [docker-compose.logs](./participantes/jpcairesf-java/docker-compose.logs) |
 | [juniodbl](./participantes/juniodbl) | [docker-compose.logs](./participantes/juniodbl/docker-compose.logs) |
 | [kiro-tagama](./participantes/kiro-tagama) | [docker-compose.logs](./participantes/kiro-tagama/docker-compose.logs) |
@@ -709,7 +711,6 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [luizimcpi](./participantes/luizimcpi) | [docker-compose.logs](./participantes/luizimcpi/docker-compose.logs) |
 | [macgarcia](./participantes/macgarcia) | [docker-compose.logs](./participantes/macgarcia/docker-compose.logs) |
 | [mari-souza](./participantes/mari-souza) | [docker-compose.logs](./participantes/mari-souza/docker-compose.logs) |
-| [matheuscamargo](./participantes/matheuscamargo) | [docker-compose.logs](./participantes/matheuscamargo/docker-compose.logs) |
 | [mauroue](./participantes/mauroue) | [docker-compose.logs](./participantes/mauroue/docker-compose.logs) |
 | [maxsonferovante-python](./participantes/maxsonferovante-python) | [docker-compose.logs](./participantes/maxsonferovante-python/docker-compose.logs) |
 | [met4tron-nodejs](./participantes/met4tron-nodejs) | [docker-compose.logs](./participantes/met4tron-nodejs/docker-compose.logs) |
