@@ -433,6 +433,8 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [nicolasmmb](./participantes/nicolasmmb) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nicolasmmb/rinhabackendcrebitossimulation-20240219143858920) |
 | [nielsonrolim-ror](./participantes/nielsonrolim-ror) | USD 97890.0 | USD 0.0 | USD 97890.0 | **USD 2110.0** | [link](resultados/nielsonrolim-ror/rinhabackendcrebitossimulation-20240219144359321) |
 | [nmessias](./participantes/nmessias) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/nmessias/rinhabackendcrebitossimulation-20240308173206175) |
+| [noriller-4](./participantes/noriller-4) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/noriller-4/rinhabackendcrebitossimulation-20240310000519950) |
+| [noriller](./participantes/noriller) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/noriller/rinhabackendcrebitossimulation-20240310000954210) |
 | [normanfrieman](./participantes/normanfrieman) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/normanfrieman/rinhabackendcrebitossimulation-20240226200638574) |
 | [oliveiraeliel](./participantes/oliveiraeliel) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/oliveiraeliel/rinhabackendcrebitossimulation-20240303140556900) |
 | [oliveiratheone-rust](./participantes/oliveiratheone-rust) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/oliveiratheone-rust/rinhabackendcrebitossimulation-20240222030835442) |
