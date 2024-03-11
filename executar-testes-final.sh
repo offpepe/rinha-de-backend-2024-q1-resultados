@@ -59,9 +59,9 @@ generateResults() {
     echo "| participante | multa SLA (> 249ms) | multa SLA (inconsistência saldo) | multa total | valor a receber | relatório |" >> TEMP-OK.md
     echo "| --           | --                  | --                               | --          | --              | --        |" >> TEMP-OK.md
 
-    echo " " > TEMP-NOK.md
-    echo "| participante | logs |" >> TEMP-NOK.md
-    echo "| --           | --   |" >> TEMP-NOK.md
+    #echo " " > TEMP-NOK.md
+    #echo "| participante | logs |" >> TEMP-NOK.md
+    #echo "| --           | --   |" >> TEMP-NOK.md
 
     valorContrato=100000.0
     SLARespostasOk=98.0
@@ -96,9 +96,9 @@ generateResults() {
             echo -n "| USD ${multaSLATotal} " >> TEMP-OK.md
             echo -n "| **USD ${pagamento}** " >> TEMP-OK.md
             echo    "| [link]($reportDir) |" >> TEMP-OK.md
-        else
-            echo -n "| [$participante](./participantes/$participante) " >> TEMP-NOK.md
-            echo    "| [docker-compose.logs](./participantes/$participante/docker-compose.logs) |" >> TEMP-NOK.md
+        #else
+        #    echo -n "| [$participante](./participantes/$participante) " >> TEMP-NOK.md
+        #    echo    "| [docker-compose.logs](./participantes/$participante/docker-compose.logs) |" >> TEMP-NOK.md
         fi
     )
     done
@@ -108,10 +108,10 @@ generateResults() {
 
     echo " " >> RESULTADOS.md
     echo "#### Participantes Sem Execução/Relatório" >> RESULTADOS.md
-    cat TEMP-NOK.md >> RESULTADOS.md
+    #cat TEMP-NOK.md >> RESULTADOS.md
 
     rm TEMP-OK.md
-    rm TEMP-NOK.md
+    #rm TEMP-NOK.md
 }
 
 generateTestsStatus() {
