@@ -296,6 +296,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [guiestimo](./participantes/guiestimo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/guiestimo/rinhabackendcrebitossimulation-20240307195402852) |
 | [guihbc](./participantes/guihbc) | USD 59360.0 | USD 0.0 | USD 59360.0 | **USD 40640.0** | [link](resultados/guihbc/rinhabackendcrebitossimulation-20240226222708726) |
 | [guilherme-dotnet8](./participantes/guilherme-dotnet8) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/guilherme-dotnet8/rinhabackendcrebitossimulation-20240219071355854) |
+| [guimadev-kotlin](./participantes/guimadev-kotlin) | USD 770.0 | USD 2409.03 | USD 3179.03 | **USD 96820.97** | [link](resultados/guimadev-kotlin/rinhabackendcrebitossimulation-20240311044652890) |
 | [gusinacio](./participantes/gusinacio) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/gusinacio/rinhabackendcrebitossimulation-20240311034721033) |
 | [gustavo-node-v2](./participantes/gustavo-node-v2) | USD 35360.0 | USD 2409.03 | USD 37769.03 | **USD 62230.97** | [link](resultados/gustavo-node-v2/rinhabackendcrebitossimulation-20240311001055365) |
 | [gustavo-node](./participantes/gustavo-node) | USD 0.0 | USD 803.01 | USD 803.01 | **USD 99196.99** | [link](resultados/gustavo-node/rinhabackendcrebitossimulation-20240311035158691) |
@@ -613,7 +614,7 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [santannaf_webflux_wu](./participantes/santannaf_webflux_wu) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/santannaf_webflux_wu/rinhabackendcrebitossimulation-20240305152453133) |
 | [saulomendonca-rails](./participantes/saulomendonca-rails) | USD 77680.0 | USD 2409.03 | USD 80089.03 | **USD 19910.97** | [link](resultados/saulomendonca-rails/rinhabackendcrebitossimulation-20240309225943652) |
 | [savio04](./participantes/savio04) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/savio04/rinhabackendcrebitossimulation-20240310180059320) |
-| [schrammel-bun-prisma](./participantes/schrammel-bun-prisma) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/schrammel-bun-prisma/rinhabackendcrebitossimulation-20240311024015394) |
+| [schrammel-bun-prisma](./participantes/schrammel-bun-prisma) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/schrammel-bun-prisma/rinhabackendcrebitossimulation-20240311045146918) |
 | [sergipebackend-java](./participantes/sergipebackend-java) | USD 53710.0 | USD 0.0 | USD 53710.0 | **USD 46290.0** | [link](resultados/sergipebackend-java/rinhabackendcrebitossimulation-20240307225944543) |
 | [silmar-alberti-franken-php](./participantes/silmar-alberti-franken-php) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/silmar-alberti-franken-php/rinhabackendcrebitossimulation-20240227002545923) |
 | [sinatrinha-do-povo](./participantes/sinatrinha-do-povo) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/sinatrinha-do-povo/rinhabackendcrebitossimulation-20240221003201867) |
