@@ -712,5 +712,3 @@ Abaixo está a tabela com os valores e fornecedores da API de Crébitos da segun
 | [zetos-haskell](./participantes/zetos-haskell) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zetos-haskell/rinhabackendcrebitossimulation-20240310202936894) |
 | [zetos-node](./participantes/zetos-node) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zetos-node/rinhabackendcrebitossimulation-20240303060450740) |
 | [zsantana](./participantes/zsantana) | USD 0.0 | USD 0.0 | USD 0.0 | **USD 100000.0** | [link](resultados/zsantana/rinhabackendcrebitossimulation-20240219142349714) |
- 
-#### Participantes Sem Execução/Relatório
