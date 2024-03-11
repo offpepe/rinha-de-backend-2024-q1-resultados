@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Não use este script para executar seus testes locais, suba sua API
 # na porta 9999 ou docker-compose e use `executar-teste-local.sh`
@@ -107,7 +107,7 @@ generateResults() {
     cat TEMP-OK.md >> RESULTADOS.md
 
     echo " " >> RESULTADOS.md
-    echo "#### Participantes Sem Execução/Relatório" >> RESULTADOS.md
+    #echo "#### Participantes Sem Execução/Relatório" >> RESULTADOS.md
     #cat TEMP-NOK.md >> RESULTADOS.md
 
     rm TEMP-OK.md
@@ -183,7 +183,7 @@ limitLogsSize() {
 }
 
 backupResults () {
-    destDir=$HOME/rinha-de-backend-2024-q1-resultados
+    destDir=$HOME/projects/rinha-de-backend-2024-q1-resultados
 
     rsync -au --delete ./resultados/ $destDir/resultados
     cp -f ./README.md $destDir/README.md
